@@ -131,7 +131,14 @@ async function runTracker() {
     historyEntry.min = Math.min(historyEntry.min, onlineCount);
     historyEntry.max = Math.max(historyEntry.max, onlineCount);
     
-    const count = historyEntry._count || 1;
+    // Determine a robust sample count to anchor the average, preventing sudden extreme shifts
+    let count = historyEntry._count;
+    if (count === undefined || count === null || typeof count !== "number" || count <= 0) {
+      // If _count is missing or cleared, estimate the count based on the current UTC+3 hour of today
+      const nowTz = new Date(now.getTime() + 3 * 60 * 60 * 1000);
+      const hoursElapsed = nowTz.getUTCHours() + nowTz.getUTCMinutes() / 60;
+      count = Math.max(1, Math.round(hoursElapsed * 30)); // 30 polls per hour (assuming uniform 2-minute cadence)
+    }
     // Weighted rolling average: (oldAverage * oldCount + currentCount) / (oldCount + 1)
     historyEntry.avg = Math.round(((historyEntry.avg * count) + onlineCount) / (count + 1));
     historyEntry._count = count + 1;
