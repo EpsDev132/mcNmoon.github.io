@@ -379,9 +379,7 @@ export default function Leaderboard({ telemetry }: LeaderboardProps) {
                               </span>
                             )}
                           </div>
-                          <p className="text-[10px] text-gray-400 font-mono mt-0.5 max-w-[200px] truncate" title={player.uuid}>
-                            UUID: {player.uuid || "Оффлайн-режим"}
-                          </p>
+                          
                         </div>
                       </div>
                     </td>
