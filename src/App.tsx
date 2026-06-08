@@ -236,7 +236,15 @@ export default function App() {
           console.log("Existing entry found. Adjusting boundaries with new data point:", onlineCount);
           historyEntry.min = Math.min(Number(historyEntry.min || 0), onlineCount);
           historyEntry.max = Math.max(Number(historyEntry.max || 0), onlineCount);
-          historyEntry.avg = Math.round(((historyEntry.avg || 0) + onlineCount) / 2);
+          let count = (historyEntry as any)._count;
+          if (count === undefined || count === null || typeof count !== "number" || count <= 0) {
+            // Estimate based on hour of the day in UTC+3 for stability of manual or API stripped JSON
+            const nowTz = new Date(now.getTime() + 3 * 60 * 60 * 1000);
+            const hoursElapsed = nowTz.getUTCHours() + nowTz.getUTCMinutes() / 60;
+            count = Math.max(1, Math.round(hoursElapsed * 30));
+          }
+          historyEntry.avg = Math.round(((Number(historyEntry.avg || 0) * count) + onlineCount) / (count + 1));
+          (historyEntry as any)._count = count + 1;
         }
 
         // Update/append granular intervals for "Today" chart
