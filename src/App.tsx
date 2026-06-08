@@ -574,13 +574,7 @@ export default function App() {
 
             <hr className="border-gray-100" />
 
-            <div className="bg-gray-50 p-4 rounded-lg border border-gray-200 text-[11px] text-gray-600 leading-relaxed font-semibold">
-              <p className="font-bold flex items-center gap-1.5 text-gray-900 mb-1.5">
-                <CloudLightning className="w-4 h-4 text-gray-400" />
-                <span>Как это работает?</span>
-              </p>
-              Скрипт GitHub Actions периодически делает запрос к серверу и фиксирует состояние. Графики плавно обновляются при каждом автоматическом пуше данных в ваш репозиторий!
-            </div>
+            
           </div>
 
           {/* Active view panels according to selected tab index status */}
