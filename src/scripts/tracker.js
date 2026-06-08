@@ -144,10 +144,6 @@ async function runTracker() {
     telemetry.history = telemetry.history.slice(-100);
   }
 
-  // Remove private fields from history prior to saving
-  telemetry.history.forEach(h => {
-    delete h._count;
-  });
 
   // 1.5. Update Sub-Daily Detailed History for Today view (10-30 min intervals)
   if (!telemetry.todayIntervals) {
