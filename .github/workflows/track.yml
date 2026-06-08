@@ -1,0 +1,51 @@
+name: Minecraft Server Auto-Telemetry Tracker
+
+on:
+  schedule:
+    # Runs every 10 minutes (customizable)
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+    # Allows starting the tracker manually from the Actions menu on GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  track-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: |
+          # The tracking script does not require external packages beyond built-in APIs
+          # but we run simple checks or install in case they configure other scripts
+          echo "No heavy packages needed for tracking loop."
+
+      - name: Run Telemetry Tracker
+        env:
+          # Optional override. If configured in GitHub Secrets, the tracker will use this IP.
+          # Otherwise it falls back to the IP configured in public/mc-stats.json
+          MC_SERVER_IP: ${{ secrets.MC_SERVER_IP }}
+        run: node src/scripts/tracker.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "Github Actions Bot"
+          git config --global user.email "actions@github.com"
+          
+          # Only commit if mc-stats.json actually changed
+          if git status --porcelain | grep -q "public/mc-stats.json"; then
+            git add public/mc-stats.json
+            git commit -m "chore(telemetry): update server stats & player playtimes [skip ci]"
+            git push
+            echo "Changes pushed."
+          else
+            echo "No telemetry changes to record."
+          fi

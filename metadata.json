@@ -1,0 +1,6 @@
+{
+  "name": "Minecraft Server Monitor",
+  "description": "Минималистичный мониторинг майнкрафт-серверов со сбором статистики онлайна, трекером активности игроков и поддержкой автоматических обновлений через GitHub Actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
