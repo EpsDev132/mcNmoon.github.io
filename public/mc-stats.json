@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-06-12T23:52:30.501Z",
+  "lastUpdated": "2026-06-12T23:54:22.285Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -48,7 +48,7 @@
       "min": 3,
       "avg": 24,
       "max": 28,
-      "_count": 87
+      "_count": 88
     }
   ],
   "players": [
@@ -997,12 +997,12 @@
     {
       "uuid": "",
       "username": "Fredbear_8795",
-      "lastSeen": "2026-06-12T23:52:30.501Z",
-      "totalPlayHours": 113.5,
-      "playHoursToday": 4.2,
-      "playHoursLast7Days": 113.5,
-      "playHoursLast30Days": 113.5,
-      "playHoursLast90Days": 113.5,
+      "lastSeen": "2026-06-12T23:54:22.285Z",
+      "totalPlayHours": 113.6,
+      "playHoursToday": 4.25,
+      "playHoursLast7Days": 113.6,
+      "playHoursLast30Days": 113.6,
+      "playHoursLast90Days": 113.6,
       "_playDates": {
         "2026-06-07": 8.56,
         "2026-06-08": 18.66,
@@ -1010,7 +1010,7 @@
         "2026-06-10": 27.101,
         "2026-06-11": 22.85,
         "2026-06-12": 9.962,
-        "2026-06-13": 4.2
+        "2026-06-13": 4.25
       }
     },
     {
@@ -2126,12 +2126,12 @@
     {
       "uuid": "",
       "username": "PROVANSKIE_TRAVI",
-      "lastSeen": "2026-06-12T23:52:30.501Z",
-      "totalPlayHours": 45.6,
-      "playHoursToday": 1.7,
-      "playHoursLast7Days": 45.6,
-      "playHoursLast30Days": 45.6,
-      "playHoursLast90Days": 45.6,
+      "lastSeen": "2026-06-12T23:54:22.285Z",
+      "totalPlayHours": 45.7,
+      "playHoursToday": 1.75,
+      "playHoursLast7Days": 45.7,
+      "playHoursLast30Days": 45.7,
+      "playHoursLast90Days": 45.7,
       "_playDates": {
         "2026-06-07": 6.809,
         "2026-06-08": 8.917,
@@ -2139,7 +2139,7 @@
         "2026-06-10": 9.279,
         "2026-06-11": 7.5,
         "2026-06-12": 5.25,
-        "2026-06-13": 1.7
+        "2026-06-13": 1.75
       }
     },
     {
@@ -3823,12 +3823,12 @@
     {
       "uuid": "",
       "username": "PapsKaroche",
-      "lastSeen": "2026-06-12T23:52:30.501Z",
-      "totalPlayHours": 41.7,
-      "playHoursToday": 3.95,
-      "playHoursLast7Days": 41.7,
-      "playHoursLast30Days": 41.7,
-      "playHoursLast90Days": 41.7,
+      "lastSeen": "2026-06-12T23:54:22.285Z",
+      "totalPlayHours": 41.8,
+      "playHoursToday": 4,
+      "playHoursLast7Days": 41.8,
+      "playHoursLast30Days": 41.8,
+      "playHoursLast90Days": 41.8,
       "_playDates": {
         "2026-06-07": 1.573,
         "2026-06-08": 4.562,
@@ -3836,7 +3836,7 @@
         "2026-06-10": 8.95,
         "2026-06-11": 7.7,
         "2026-06-12": 12.7,
-        "2026-06-13": 3.95
+        "2026-06-13": 4
       }
     },
     {
@@ -10805,10 +10805,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-06-11T23:54:20.994Z",
-      "playersOnline": 8
-    },
-    {
       "timestamp": "2026-06-11T23:56:23.792Z",
       "playersOnline": 9
     },
@@ -13691,6 +13687,10 @@
     {
       "timestamp": "2026-06-12T23:52:30.501Z",
       "playersOnline": 4
+    },
+    {
+      "timestamp": "2026-06-12T23:54:22.285Z",
+      "playersOnline": 3
     }
   ]
 }
