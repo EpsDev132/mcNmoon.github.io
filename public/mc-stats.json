@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-06-13T03:04:26.356Z",
+  "lastUpdated": "2026-06-13T03:06:26.208Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -48,7 +48,7 @@
       "min": 2,
       "avg": 24,
       "max": 28,
-      "_count": 184
+      "_count": 185
     }
   ],
   "players": [
@@ -997,9 +997,9 @@
     {
       "uuid": "",
       "username": "Fredbear_8795",
-      "lastSeen": "2026-06-13T03:04:26.356Z",
+      "lastSeen": "2026-06-13T03:06:26.208Z",
       "totalPlayHours": 118.4,
-      "playHoursToday": 9.05,
+      "playHoursToday": 9.1,
       "playHoursLast7Days": 118.4,
       "playHoursLast30Days": 118.4,
       "playHoursLast90Days": 118.4,
@@ -1010,7 +1010,7 @@
         "2026-06-10": 27.101,
         "2026-06-11": 22.85,
         "2026-06-12": 9.962,
-        "2026-06-13": 9.05
+        "2026-06-13": 9.1
       }
     },
     {
@@ -10820,22 +10820,18 @@
     {
       "uuid": "",
       "username": "1dima_c00l2",
-      "lastSeen": "2026-06-13T03:04:26.356Z",
+      "lastSeen": "2026-06-13T03:06:26.208Z",
       "totalPlayHours": 3,
-      "playHoursToday": 3,
+      "playHoursToday": 3.05,
       "playHoursLast7Days": 3,
       "playHoursLast30Days": 3,
       "playHoursLast90Days": 3,
       "_playDates": {
-        "2026-06-13": 3
+        "2026-06-13": 3.05
       }
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-06-12T03:06:21.334Z",
-      "playersOnline": 10
-    },
     {
       "timestamp": "2026-06-12T03:08:21.677Z",
       "playersOnline": 11
@@ -13722,6 +13718,10 @@
     },
     {
       "timestamp": "2026-06-13T03:04:26.356Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-06-13T03:06:26.208Z",
       "playersOnline": 2
     }
   ]
