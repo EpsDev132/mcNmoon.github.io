@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-06-14T21:52:29.470Z",
+  "lastUpdated": "2026-06-14T21:54:22.374Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -59,10 +59,10 @@
     },
     {
       "date": "2026-06-15",
-      "min": 9,
-      "avg": 17,
+      "min": 1,
+      "avg": 16,
       "max": 17,
-      "_count": 27
+      "_count": 28
     }
   ],
   "players": [
@@ -12040,15 +12040,15 @@
     {
       "uuid": "",
       "username": "CAFT",
-      "lastSeen": "2026-06-14T21:52:29.470Z",
+      "lastSeen": "2026-06-14T21:54:22.374Z",
       "totalPlayHours": 2.8,
-      "playHoursToday": 0.35,
+      "playHoursToday": 0.4,
       "playHoursLast7Days": 2.8,
       "playHoursLast30Days": 2.8,
       "playHoursLast90Days": 2.8,
       "_playDates": {
         "2026-06-14": 2.4,
-        "2026-06-15": 0.35
+        "2026-06-15": 0.4
       }
     },
     {
@@ -15538,6 +15538,10 @@
     {
       "timestamp": "2026-06-14T21:52:29.470Z",
       "playersOnline": 9
+    },
+    {
+      "timestamp": "2026-06-14T21:54:22.374Z",
+      "playersOnline": 1
     }
   ]
 }
