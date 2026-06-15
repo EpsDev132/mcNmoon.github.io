@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-06-15T23:40:45.475Z",
+  "lastUpdated": "2026-06-15T23:42:24.302Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -69,7 +69,7 @@
       "min": 2,
       "avg": 16,
       "max": 18,
-      "_count": 82
+      "_count": 83
     }
   ],
   "players": [
@@ -1195,12 +1195,12 @@
     {
       "uuid": "",
       "username": "Dimamsem",
-      "lastSeen": "2026-06-15T23:40:45.475Z",
-      "totalPlayHours": 103,
-      "playHoursToday": 3.5,
+      "lastSeen": "2026-06-15T23:42:24.302Z",
+      "totalPlayHours": 103.1,
+      "playHoursToday": 3.55,
       "playHoursLast7Days": 91.3,
-      "playHoursLast30Days": 103,
-      "playHoursLast90Days": 103,
+      "playHoursLast30Days": 103.1,
+      "playHoursLast90Days": 103.1,
       "_playDates": {
         "2026-06-07": 1.943,
         "2026-06-08": 9.818,
@@ -1211,7 +1211,7 @@
         "2026-06-13": 8.65,
         "2026-06-14": 14.8,
         "2026-06-15": 11.069,
-        "2026-06-16": 3.5
+        "2026-06-16": 3.55
       }
     },
     {
@@ -3012,12 +3012,12 @@
     {
       "uuid": "",
       "username": "pachtey",
-      "lastSeen": "2026-06-15T23:40:45.475Z",
-      "totalPlayHours": 46,
-      "playHoursToday": 4.1,
-      "playHoursLast7Days": 39.2,
-      "playHoursLast30Days": 46,
-      "playHoursLast90Days": 46,
+      "lastSeen": "2026-06-15T23:42:24.302Z",
+      "totalPlayHours": 46.1,
+      "playHoursToday": 4.15,
+      "playHoursLast7Days": 39.3,
+      "playHoursLast30Days": 46.1,
+      "playHoursLast90Days": 46.1,
       "_playDates": {
         "2026-06-07": 1.797,
         "2026-06-08": 5,
@@ -3025,7 +3025,7 @@
         "2026-06-13": 2.45,
         "2026-06-14": 14.95,
         "2026-06-15": 13.482,
-        "2026-06-16": 4.1
+        "2026-06-16": 4.15
       }
     },
     {
@@ -16382,6 +16382,10 @@
     },
     {
       "timestamp": "2026-06-15T23:40:45.475Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-06-15T23:42:24.302Z",
       "playersOnline": 2
     }
   ]
