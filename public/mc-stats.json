@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-06-16T02:34:29.164Z",
+  "lastUpdated": "2026-06-16T02:36:24.480Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -69,7 +69,7 @@
       "min": 1,
       "avg": 16,
       "max": 18,
-      "_count": 169
+      "_count": 170
     }
   ],
   "players": [
@@ -837,12 +837,12 @@
     {
       "uuid": "",
       "username": "Ritoto121",
-      "lastSeen": "2026-06-16T02:34:29.164Z",
-      "totalPlayHours": 164.9,
-      "playHoursToday": 2.7,
-      "playHoursLast7Days": 116.4,
-      "playHoursLast30Days": 164.9,
-      "playHoursLast90Days": 164.9,
+      "lastSeen": "2026-06-16T02:36:24.480Z",
+      "totalPlayHours": 165,
+      "playHoursToday": 2.75,
+      "playHoursLast7Days": 116.5,
+      "playHoursLast30Days": 165,
+      "playHoursLast90Days": 165,
       "_playDates": {
         "2026-06-07": 5.788,
         "2026-06-08": 21.395,
@@ -853,7 +853,7 @@
         "2026-06-13": 15.8,
         "2026-06-14": 19.9,
         "2026-06-15": 16.614,
-        "2026-06-16": 2.7
+        "2026-06-16": 2.75
       }
     },
     {
@@ -13569,10 +13569,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-06-15T02:36:22.263Z",
-      "playersOnline": 4
-    },
-    {
       "timestamp": "2026-06-15T02:38:22.326Z",
       "playersOnline": 4
     },
@@ -16410,6 +16406,10 @@
     },
     {
       "timestamp": "2026-06-16T02:34:29.164Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-06-16T02:36:24.480Z",
       "playersOnline": 1
     }
   ]
