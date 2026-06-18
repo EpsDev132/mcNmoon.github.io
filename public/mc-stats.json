@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-06-18T23:30:50.278Z",
+  "lastUpdated": "2026-06-18T23:32:24.554Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -90,7 +90,7 @@
       "min": 1,
       "avg": 5,
       "max": 9,
-      "_count": 76
+      "_count": 77
     }
   ],
   "players": [
@@ -1227,12 +1227,12 @@
     {
       "uuid": "",
       "username": "Fredbear_8795",
-      "lastSeen": "2026-06-18T23:30:50.278Z",
-      "totalPlayHours": 191.3,
-      "playHoursToday": 3.15,
+      "lastSeen": "2026-06-18T23:32:24.554Z",
+      "totalPlayHours": 191.4,
+      "playHoursToday": 3.2,
       "playHoursLast7Days": 92,
-      "playHoursLast30Days": 191.3,
-      "playHoursLast90Days": 191.3,
+      "playHoursLast30Days": 191.4,
+      "playHoursLast90Days": 191.4,
       "_playDates": {
         "2026-06-07": 8.56,
         "2026-06-08": 18.66,
@@ -1246,7 +1246,7 @@
         "2026-06-16": 9.167,
         "2026-06-17": 7.7,
         "2026-06-18": 10.252,
-        "2026-06-19": 3.15
+        "2026-06-19": 3.2
       }
     },
     {
@@ -3531,9 +3531,9 @@
     {
       "uuid": "",
       "username": "Williams_show",
-      "lastSeen": "2026-06-18T21:42:24.967Z",
+      "lastSeen": "2026-06-18T23:32:24.554Z",
       "totalPlayHours": 32.8,
-      "playHoursToday": 0.95,
+      "playHoursToday": 1,
       "playHoursLast7Days": 25.4,
       "playHoursLast30Days": 32.8,
       "playHoursLast90Days": 32.8,
@@ -3550,7 +3550,7 @@
         "2026-06-16": 3.85,
         "2026-06-17": 0.95,
         "2026-06-18": 1.45,
-        "2026-06-19": 0.95
+        "2026-06-19": 1
       }
     },
     {
@@ -15813,10 +15813,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-06-17T23:32:23.733Z",
-      "playersOnline": 4
-    },
-    {
       "timestamp": "2026-06-17T23:34:32.648Z",
       "playersOnline": 4
     },
@@ -18699,6 +18695,10 @@
     {
       "timestamp": "2026-06-18T23:30:50.278Z",
       "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-06-18T23:32:24.554Z",
+      "playersOnline": 2
     }
   ]
 }
