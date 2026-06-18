@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-06-18T22:26:22.432Z",
+  "lastUpdated": "2026-06-18T22:28:26.121Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -90,7 +90,7 @@
       "min": 1,
       "avg": 5,
       "max": 9,
-      "_count": 44
+      "_count": 45
     }
   ],
   "players": [
@@ -3022,12 +3022,12 @@
     {
       "uuid": "",
       "username": "BoomBarashek2011",
-      "lastSeen": "2026-06-18T22:26:22.432Z",
-      "totalPlayHours": 43,
-      "playHoursToday": 2.2,
+      "lastSeen": "2026-06-18T22:28:26.121Z",
+      "totalPlayHours": 43.1,
+      "playHoursToday": 2.25,
       "playHoursLast7Days": 35,
-      "playHoursLast30Days": 43,
-      "playHoursLast90Days": 43,
+      "playHoursLast30Days": 43.1,
+      "playHoursLast90Days": 43.1,
       "_playDates": {
         "2026-06-07": 0.084,
         "2026-06-08": 1.51,
@@ -3036,7 +3036,7 @@
         "2026-06-16": 6.867,
         "2026-06-17": 15.602,
         "2026-06-18": 9.402,
-        "2026-06-19": 2.2
+        "2026-06-19": 2.25
       }
     },
     {
@@ -15798,10 +15798,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-06-17T22:26:29.415Z",
-      "playersOnline": 10
-    },
-    {
       "timestamp": "2026-06-17T22:28:29.480Z",
       "playersOnline": 10
     },
@@ -18687,6 +18683,10 @@
     },
     {
       "timestamp": "2026-06-18T22:26:22.432Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-06-18T22:28:26.121Z",
       "playersOnline": 1
     }
   ]
