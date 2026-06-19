@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-06-19T23:24:23.671Z",
+  "lastUpdated": "2026-06-19T23:26:25.109Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -97,7 +97,7 @@
       "min": 2,
       "avg": 16,
       "max": 19,
-      "_count": 74
+      "_count": 75
     }
   ],
   "players": [
@@ -4258,12 +4258,12 @@
     {
       "uuid": "",
       "username": "onlynothuman",
-      "lastSeen": "2026-06-19T23:24:23.671Z",
-      "totalPlayHours": 19.9,
-      "playHoursToday": 3.7,
-      "playHoursLast7Days": 8.5,
-      "playHoursLast30Days": 19.9,
-      "playHoursLast90Days": 19.9,
+      "lastSeen": "2026-06-19T23:26:25.109Z",
+      "totalPlayHours": 20,
+      "playHoursToday": 3.75,
+      "playHoursLast7Days": 8.6,
+      "playHoursLast30Days": 20,
+      "playHoursLast90Days": 20,
       "_playDates": {
         "2026-06-07": 4.358,
         "2026-06-10": 1.15,
@@ -4272,7 +4272,7 @@
         "2026-06-13": 2.15,
         "2026-06-18": 0.25,
         "2026-06-19": 2.4,
-        "2026-06-20": 3.7
+        "2026-06-20": 3.75
       }
     },
     {
@@ -7723,9 +7723,9 @@
     {
       "uuid": "",
       "username": "MrBan24",
-      "lastSeen": "2026-06-19T23:24:23.671Z",
+      "lastSeen": "2026-06-19T23:26:25.109Z",
       "totalPlayHours": 27.2,
-      "playHoursToday": 3.7,
+      "playHoursToday": 3.75,
       "playHoursLast7Days": 21.2,
       "playHoursLast30Days": 27.2,
       "playHoursLast90Days": 27.2,
@@ -7735,7 +7735,7 @@
         "2026-06-17": 5.602,
         "2026-06-18": 2.9,
         "2026-06-19": 8.95,
-        "2026-06-20": 3.7
+        "2026-06-20": 3.75
       }
     },
     {
@@ -16547,10 +16547,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-06-18T23:24:26.221Z",
-      "playersOnline": 1
-    },
-    {
       "timestamp": "2026-06-18T23:26:25.711Z",
       "playersOnline": 1
     },
@@ -19440,6 +19436,10 @@
     },
     {
       "timestamp": "2026-06-19T23:24:23.671Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-06-19T23:26:25.109Z",
       "playersOnline": 2
     }
   ]
