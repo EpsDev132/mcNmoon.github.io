@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-06-19T02:34:23.303Z",
+  "lastUpdated": "2026-06-19T02:36:23.228Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -90,7 +90,7 @@
       "min": 0,
       "avg": 5,
       "max": 9,
-      "_count": 168
+      "_count": 169
     }
   ],
   "players": [
@@ -921,9 +921,9 @@
     {
       "uuid": "",
       "username": "Ritoto121",
-      "lastSeen": "2026-06-19T02:34:23.303Z",
+      "lastSeen": "2026-06-19T02:36:23.228Z",
       "totalPlayHours": 206.6,
-      "playHoursToday": 1.7,
+      "playHoursToday": 1.75,
       "playHoursLast7Days": 96.7,
       "playHoursLast30Days": 206.6,
       "playHoursLast90Days": 206.6,
@@ -940,7 +940,7 @@
         "2026-06-16": 20.967,
         "2026-06-17": 10.902,
         "2026-06-18": 10.8,
-        "2026-06-19": 1.7
+        "2026-06-19": 1.75
       }
     },
     {
@@ -2114,12 +2114,12 @@
     {
       "uuid": "",
       "username": "Star_Light",
-      "lastSeen": "2026-06-19T02:34:23.303Z",
-      "totalPlayHours": 187.5,
-      "playHoursToday": 2.15,
+      "lastSeen": "2026-06-19T02:36:23.228Z",
+      "totalPlayHours": 187.6,
+      "playHoursToday": 2.2,
       "playHoursLast7Days": 91.7,
-      "playHoursLast30Days": 187.5,
-      "playHoursLast90Days": 187.5,
+      "playHoursLast30Days": 187.6,
+      "playHoursLast90Days": 187.6,
       "_playDates": {
         "2026-06-07": 11.628,
         "2026-06-08": 17.327,
@@ -2133,7 +2133,7 @@
         "2026-06-16": 8.35,
         "2026-06-17": 14.302,
         "2026-06-18": 15.95,
-        "2026-06-19": 2.15
+        "2026-06-19": 2.2
       }
     },
     {
@@ -15818,14 +15818,14 @@
     {
       "uuid": "",
       "username": "Medwisha",
-      "lastSeen": "2026-06-19T02:34:23.303Z",
+      "lastSeen": "2026-06-19T02:36:23.228Z",
       "totalPlayHours": 0.1,
-      "playHoursToday": 0.05,
+      "playHoursToday": 0.1,
       "playHoursLast7Days": 0.1,
       "playHoursLast30Days": 0.1,
       "playHoursLast90Days": 0.1,
       "_playDates": {
-        "2026-06-19": 0.05
+        "2026-06-19": 0.1
       }
     }
   ],
@@ -18716,6 +18716,10 @@
     },
     {
       "timestamp": "2026-06-19T02:34:23.303Z",
+      "playersOnline": 3
+    },
+    {
+      "timestamp": "2026-06-19T02:36:23.228Z",
       "playersOnline": 3
     }
   ]
