@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-06-19T02:32:25.593Z",
+  "lastUpdated": "2026-06-19T02:34:23.303Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -90,7 +90,7 @@
       "min": 0,
       "avg": 5,
       "max": 9,
-      "_count": 167
+      "_count": 168
     }
   ],
   "players": [
@@ -921,12 +921,12 @@
     {
       "uuid": "",
       "username": "Ritoto121",
-      "lastSeen": "2026-06-19T02:32:25.593Z",
-      "totalPlayHours": 206.5,
-      "playHoursToday": 1.65,
-      "playHoursLast7Days": 96.6,
-      "playHoursLast30Days": 206.5,
-      "playHoursLast90Days": 206.5,
+      "lastSeen": "2026-06-19T02:34:23.303Z",
+      "totalPlayHours": 206.6,
+      "playHoursToday": 1.7,
+      "playHoursLast7Days": 96.7,
+      "playHoursLast30Days": 206.6,
+      "playHoursLast90Days": 206.6,
       "_playDates": {
         "2026-06-07": 5.788,
         "2026-06-08": 21.395,
@@ -940,7 +940,7 @@
         "2026-06-16": 20.967,
         "2026-06-17": 10.902,
         "2026-06-18": 10.8,
-        "2026-06-19": 1.65
+        "2026-06-19": 1.7
       }
     },
     {
@@ -2114,10 +2114,10 @@
     {
       "uuid": "",
       "username": "Star_Light",
-      "lastSeen": "2026-06-19T02:32:25.593Z",
+      "lastSeen": "2026-06-19T02:34:23.303Z",
       "totalPlayHours": 187.5,
-      "playHoursToday": 2.1,
-      "playHoursLast7Days": 91.6,
+      "playHoursToday": 2.15,
+      "playHoursLast7Days": 91.7,
       "playHoursLast30Days": 187.5,
       "playHoursLast90Days": 187.5,
       "_playDates": {
@@ -2133,7 +2133,7 @@
         "2026-06-16": 8.35,
         "2026-06-17": 14.302,
         "2026-06-18": 15.95,
-        "2026-06-19": 2.1
+        "2026-06-19": 2.15
       }
     },
     {
@@ -15814,13 +15814,22 @@
       "_playDates": {
         "2026-06-19": 0.5
       }
+    },
+    {
+      "uuid": "",
+      "username": "Medwisha",
+      "lastSeen": "2026-06-19T02:34:23.303Z",
+      "totalPlayHours": 0.1,
+      "playHoursToday": 0.05,
+      "playHoursLast7Days": 0.1,
+      "playHoursLast30Days": 0.1,
+      "playHoursLast90Days": 0.1,
+      "_playDates": {
+        "2026-06-19": 0.05
+      }
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-06-18T02:34:23.087Z",
-      "playersOnline": 1
-    },
     {
       "timestamp": "2026-06-18T02:36:24.891Z",
       "playersOnline": 1
@@ -18704,6 +18713,10 @@
     {
       "timestamp": "2026-06-19T02:32:25.593Z",
       "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-06-19T02:34:23.303Z",
+      "playersOnline": 3
     }
   ]
 }
