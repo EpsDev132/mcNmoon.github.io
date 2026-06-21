@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-06-21T00:08:23.734Z",
+  "lastUpdated": "2026-06-21T00:10:40.456Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -104,7 +104,7 @@
       "min": 5,
       "avg": 15,
       "max": 17,
-      "_count": 95
+      "_count": 96
     }
   ],
   "players": [
@@ -239,12 +239,12 @@
     {
       "uuid": "",
       "username": "ob_stacle",
-      "lastSeen": "2026-06-21T00:08:23.734Z",
-      "totalPlayHours": 134.1,
-      "playHoursToday": 3.9,
+      "lastSeen": "2026-06-21T00:10:40.456Z",
+      "totalPlayHours": 134.2,
+      "playHoursToday": 3.95,
       "playHoursLast7Days": 58.6,
-      "playHoursLast30Days": 134.1,
-      "playHoursLast90Days": 134.1,
+      "playHoursLast30Days": 134.2,
+      "playHoursLast90Days": 134.2,
       "_playDates": {
         "2026-06-07": 5.601,
         "2026-06-08": 10.784,
@@ -260,7 +260,7 @@
         "2026-06-18": 5.85,
         "2026-06-19": 8.85,
         "2026-06-20": 6.3,
-        "2026-06-21": 3.9
+        "2026-06-21": 3.95
       }
     },
     {
@@ -632,12 +632,12 @@
     {
       "uuid": "",
       "username": "na_mogile",
-      "lastSeen": "2026-06-21T00:08:23.734Z",
-      "totalPlayHours": 92.3,
-      "playHoursToday": 4.3,
-      "playHoursLast7Days": 20.1,
-      "playHoursLast30Days": 92.3,
-      "playHoursLast90Days": 92.3,
+      "lastSeen": "2026-06-21T00:10:40.456Z",
+      "totalPlayHours": 92.4,
+      "playHoursToday": 4.35,
+      "playHoursLast7Days": 20.2,
+      "playHoursLast30Days": 92.4,
+      "playHoursLast90Days": 92.4,
       "_playDates": {
         "2026-06-07": 5.729,
         "2026-06-08": 9.798,
@@ -652,7 +652,7 @@
         "2026-06-18": 0.05,
         "2026-06-19": 1.35,
         "2026-06-20": 2.65,
-        "2026-06-21": 4.3
+        "2026-06-21": 4.35
       }
     },
     {
@@ -976,9 +976,9 @@
     {
       "uuid": "",
       "username": "Ritoto121",
-      "lastSeen": "2026-06-21T00:08:23.734Z",
+      "lastSeen": "2026-06-21T00:10:40.456Z",
       "totalPlayHours": 231.8,
-      "playHoursToday": 0.95,
+      "playHoursToday": 1,
       "playHoursLast7Days": 86.2,
       "playHoursLast30Days": 231.8,
       "playHoursLast90Days": 231.8,
@@ -997,7 +997,7 @@
         "2026-06-18": 10.8,
         "2026-06-19": 15.8,
         "2026-06-20": 10.15,
-        "2026-06-21": 0.95
+        "2026-06-21": 1
       }
     },
     {
@@ -1296,10 +1296,10 @@
     {
       "uuid": "",
       "username": "Fredbear_8795",
-      "lastSeen": "2026-06-21T00:08:23.734Z",
+      "lastSeen": "2026-06-21T00:10:40.456Z",
       "totalPlayHours": 208.7,
-      "playHoursToday": 4.75,
-      "playHoursLast7Days": 65.3,
+      "playHoursToday": 4.8,
+      "playHoursLast7Days": 65.4,
       "playHoursLast30Days": 208.7,
       "playHoursLast90Days": 208.7,
       "_playDates": {
@@ -1317,7 +1317,7 @@
         "2026-06-18": 10.252,
         "2026-06-19": 13.312,
         "2026-06-20": 2.4,
-        "2026-06-21": 4.75
+        "2026-06-21": 4.8
       }
     },
     {
@@ -1600,9 +1600,9 @@
     {
       "uuid": "",
       "username": "Bloody_Behelit",
-      "lastSeen": "2026-06-21T00:08:23.734Z",
+      "lastSeen": "2026-06-21T00:10:40.456Z",
       "totalPlayHours": 68.9,
-      "playHoursToday": 4.75,
+      "playHoursToday": 4.8,
       "playHoursLast7Days": 20,
       "playHoursLast30Days": 68.9,
       "playHoursLast90Days": 68.9,
@@ -1621,7 +1621,7 @@
         "2026-06-18": 0.7,
         "2026-06-19": 0.6,
         "2026-06-20": 1.15,
-        "2026-06-21": 4.75
+        "2026-06-21": 4.8
       }
     },
     {
@@ -17336,14 +17336,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-06-20T00:08:24.678Z",
-      "playersOnline": 0
-    },
-    {
-      "timestamp": "2026-06-20T00:10:39.824Z",
-      "playersOnline": 0
-    },
-    {
       "timestamp": "2026-06-20T00:12:25.334Z",
       "playersOnline": 0
     },
@@ -20225,6 +20217,10 @@
     },
     {
       "timestamp": "2026-06-21T00:08:23.734Z",
+      "playersOnline": 5
+    },
+    {
+      "timestamp": "2026-06-21T00:10:40.456Z",
       "playersOnline": 5
     }
   ]
