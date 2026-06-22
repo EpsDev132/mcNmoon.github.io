@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-06-22T04:04:26.596Z",
+  "lastUpdated": "2026-06-22T04:06:25.365Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -111,7 +111,7 @@
       "min": 1,
       "avg": 17,
       "max": 20,
-      "_count": 214
+      "_count": 215
     }
   ],
   "players": [
@@ -4816,10 +4816,10 @@
     {
       "uuid": "",
       "username": "DenisAndSergey",
-      "lastSeen": "2026-06-22T04:04:26.596Z",
+      "lastSeen": "2026-06-22T04:06:25.365Z",
       "totalPlayHours": 76.2,
-      "playHoursToday": 1.45,
-      "playHoursLast7Days": 39.7,
+      "playHoursToday": 1.5,
+      "playHoursLast7Days": 39.8,
       "playHoursLast30Days": 76.2,
       "playHoursLast90Days": 76.2,
       "_playDates": {
@@ -4835,7 +4835,7 @@
         "2026-06-19": 6.05,
         "2026-06-20": 3,
         "2026-06-21": 4.7,
-        "2026-06-22": 1.45
+        "2026-06-22": 1.5
       }
     },
     {
@@ -5753,17 +5753,17 @@
     {
       "uuid": "",
       "username": "sharapov26",
-      "lastSeen": "2026-06-22T04:04:26.596Z",
-      "totalPlayHours": 3.8,
-      "playHoursToday": 0.45,
+      "lastSeen": "2026-06-22T04:06:25.365Z",
+      "totalPlayHours": 3.9,
+      "playHoursToday": 0.5,
       "playHoursLast7Days": 3.6,
-      "playHoursLast30Days": 3.8,
-      "playHoursLast90Days": 3.8,
+      "playHoursLast30Days": 3.9,
+      "playHoursLast90Days": 3.9,
       "_playDates": {
         "2026-06-08": 0.202,
         "2026-06-16": 2.75,
         "2026-06-21": 0.4,
-        "2026-06-22": 0.45
+        "2026-06-22": 0.5
       }
     },
     {
@@ -17988,10 +17988,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-06-21T04:06:24.185Z",
-      "playersOnline": 5
-    },
-    {
       "timestamp": "2026-06-21T04:08:23.720Z",
       "playersOnline": 5
     },
@@ -20874,6 +20870,10 @@
     {
       "timestamp": "2026-06-22T04:04:26.596Z",
       "playersOnline": 3
+    },
+    {
+      "timestamp": "2026-06-22T04:06:25.365Z",
+      "playersOnline": 2
     }
   ]
 }
