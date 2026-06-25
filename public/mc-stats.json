@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-06-25T00:56:22.524Z",
+  "lastUpdated": "2026-06-25T00:58:25.275Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -132,7 +132,7 @@
       "min": 1,
       "avg": 14,
       "max": 14,
-      "_count": 121
+      "_count": 122
     }
   ],
   "players": [
@@ -8239,12 +8239,12 @@
     {
       "uuid": "",
       "username": "MrBan24",
-      "lastSeen": "2026-06-25T00:56:22.524Z",
-      "totalPlayHours": 77.9,
-      "playHoursToday": 6.05,
-      "playHoursLast7Days": 63.4,
-      "playHoursLast30Days": 77.9,
-      "playHoursLast90Days": 77.9,
+      "lastSeen": "2026-06-25T00:58:25.275Z",
+      "totalPlayHours": 78,
+      "playHoursToday": 6.1,
+      "playHoursLast7Days": 63.5,
+      "playHoursLast30Days": 78,
+      "playHoursLast90Days": 78,
       "_playDates": {
         "2026-06-09": 3.5,
         "2026-06-10": 2.5,
@@ -8256,7 +8256,7 @@
         "2026-06-22": 1.05,
         "2026-06-23": 11.566,
         "2026-06-24": 10.416,
-        "2026-06-25": 6.05
+        "2026-06-25": 6.1
       }
     },
     {
@@ -20411,14 +20411,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-06-24T00:56:23.409Z",
-      "playersOnline": 3
-    },
-    {
-      "timestamp": "2026-06-24T00:58:23.698Z",
-      "playersOnline": 3
-    },
-    {
       "timestamp": "2026-06-24T01:01:00.618Z",
       "playersOnline": 3
     },
@@ -23316,6 +23308,10 @@
     },
     {
       "timestamp": "2026-06-25T00:56:22.524Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-06-25T00:58:25.275Z",
       "playersOnline": 1
     }
   ]
