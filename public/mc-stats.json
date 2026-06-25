@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-06-25T00:26:24.104Z",
+  "lastUpdated": "2026-06-25T00:28:24.964Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -132,7 +132,7 @@
       "min": 2,
       "avg": 14,
       "max": 14,
-      "_count": 106
+      "_count": 107
     }
   ],
   "players": [
@@ -720,12 +720,12 @@
     {
       "uuid": "",
       "username": "na_mogile",
-      "lastSeen": "2026-06-25T00:26:24.104Z",
-      "totalPlayHours": 124.1,
-      "playHoursToday": 5.2,
-      "playHoursLast7Days": 40.1,
-      "playHoursLast30Days": 124.1,
-      "playHoursLast90Days": 124.1,
+      "lastSeen": "2026-06-25T00:28:24.964Z",
+      "totalPlayHours": 124.2,
+      "playHoursToday": 5.25,
+      "playHoursLast7Days": 40.2,
+      "playHoursLast30Days": 124.2,
+      "playHoursLast90Days": 124.2,
       "_playDates": {
         "2026-06-07": 5.729,
         "2026-06-08": 9.798,
@@ -744,7 +744,7 @@
         "2026-06-22": 5.35,
         "2026-06-23": 6.95,
         "2026-06-24": 10.666,
-        "2026-06-25": 5.2
+        "2026-06-25": 5.25
       }
     },
     {
@@ -8239,9 +8239,9 @@
     {
       "uuid": "",
       "username": "MrBan24",
-      "lastSeen": "2026-06-25T00:26:24.104Z",
+      "lastSeen": "2026-06-25T00:28:24.964Z",
       "totalPlayHours": 77.2,
-      "playHoursToday": 5.3,
+      "playHoursToday": 5.35,
       "playHoursLast7Days": 62.7,
       "playHoursLast30Days": 77.2,
       "playHoursLast90Days": 77.2,
@@ -8256,7 +8256,7 @@
         "2026-06-22": 1.05,
         "2026-06-23": 11.566,
         "2026-06-24": 10.416,
-        "2026-06-25": 5.3
+        "2026-06-25": 5.35
       }
     },
     {
@@ -19980,15 +19980,15 @@
     {
       "uuid": "",
       "username": "mge_yatsagryz",
-      "lastSeen": "2026-06-25T00:26:24.104Z",
+      "lastSeen": "2026-06-25T00:28:24.964Z",
       "totalPlayHours": 3.6,
-      "playHoursToday": 0.85,
+      "playHoursToday": 0.9,
       "playHoursLast7Days": 3.6,
       "playHoursLast30Days": 3.6,
       "playHoursLast90Days": 3.6,
       "_playDates": {
         "2026-06-24": 2.716,
-        "2026-06-25": 0.85
+        "2026-06-25": 0.9
       }
     },
     {
@@ -20410,10 +20410,6 @@
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-06-24T00:28:22.546Z",
-      "playersOnline": 3
-    },
     {
       "timestamp": "2026-06-24T00:30:53.933Z",
       "playersOnline": 3
@@ -23312,6 +23308,10 @@
     },
     {
       "timestamp": "2026-06-25T00:26:24.104Z",
+      "playersOnline": 3
+    },
+    {
+      "timestamp": "2026-06-25T00:28:24.964Z",
       "playersOnline": 3
     }
   ]
