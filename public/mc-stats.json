@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-06-25T02:16:23.153Z",
+  "lastUpdated": "2026-06-25T02:18:30.628Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -132,7 +132,7 @@
       "min": 0,
       "avg": 14,
       "max": 14,
-      "_count": 161
+      "_count": 162
     }
   ],
   "players": [
@@ -605,12 +605,12 @@
     {
       "uuid": "",
       "username": "Vanusa2014",
-      "lastSeen": "2026-06-25T02:16:23.153Z",
-      "totalPlayHours": 97.8,
-      "playHoursToday": 1.1,
+      "lastSeen": "2026-06-25T02:18:30.628Z",
+      "totalPlayHours": 97.9,
+      "playHoursToday": 1.15,
       "playHoursLast7Days": 35.3,
-      "playHoursLast30Days": 97.8,
-      "playHoursLast90Days": 97.8,
+      "playHoursLast30Days": 97.9,
+      "playHoursLast90Days": 97.9,
       "_playDates": {
         "2026-06-07": 2.2021,
         "2026-06-08": 7.385,
@@ -629,7 +629,7 @@
         "2026-06-22": 5.45,
         "2026-06-23": 8.55,
         "2026-06-24": 5.35,
-        "2026-06-25": 1.1
+        "2026-06-25": 1.15
       }
     },
     {
@@ -20413,10 +20413,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-06-24T02:18:23.116Z",
-      "playersOnline": 3
-    },
-    {
       "timestamp": "2026-06-24T02:20:38.367Z",
       "playersOnline": 3
     },
@@ -23314,6 +23310,10 @@
     },
     {
       "timestamp": "2026-06-25T02:16:23.153Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-06-25T02:18:30.628Z",
       "playersOnline": 1
     }
   ]
