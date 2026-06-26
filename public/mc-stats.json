@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-06-26T21:34:25.138Z",
+  "lastUpdated": "2026-06-26T21:36:23.359Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -143,10 +143,10 @@
     },
     {
       "date": "2026-06-27",
-      "min": 18,
-      "avg": 19,
+      "min": 0,
+      "avg": 18,
       "max": 21,
-      "_count": 18
+      "_count": 19
     }
   ],
   "players": [
@@ -24662,6 +24662,10 @@
     {
       "timestamp": "2026-06-26T21:34:25.138Z",
       "playersOnline": 19
+    },
+    {
+      "timestamp": "2026-06-26T21:36:23.359Z",
+      "playersOnline": 0
     }
   ]
 }
