@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-06-28T01:26:25.152Z",
+  "lastUpdated": "2026-06-28T01:28:25.611Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -153,7 +153,7 @@
       "min": 2,
       "avg": 21,
       "max": 22,
-      "_count": 136
+      "_count": 137
     }
   ],
   "players": [
@@ -2257,10 +2257,10 @@
     {
       "uuid": "",
       "username": "Vanekkrut228",
-      "lastSeen": "2026-06-28T01:26:25.152Z",
+      "lastSeen": "2026-06-28T01:28:25.611Z",
       "totalPlayHours": 154.6,
-      "playHoursToday": 6.8,
-      "playHoursLast7Days": 22.6,
+      "playHoursToday": 6.85,
+      "playHoursLast7Days": 22.7,
       "playHoursLast30Days": 154.6,
       "playHoursLast90Days": 154.6,
       "_playDates": {
@@ -2284,7 +2284,7 @@
         "2026-06-24": 0.1,
         "2026-06-25": 1.9,
         "2026-06-27": 2.3,
-        "2026-06-28": 6.8
+        "2026-06-28": 6.85
       }
     },
     {
@@ -11237,12 +11237,12 @@
     {
       "uuid": "",
       "username": "hulk234",
-      "lastSeen": "2026-06-28T01:26:25.152Z",
-      "totalPlayHours": 141.6,
-      "playHoursToday": 6.8,
+      "lastSeen": "2026-06-28T01:28:25.611Z",
+      "totalPlayHours": 141.7,
+      "playHoursToday": 6.85,
       "playHoursLast7Days": 105.6,
-      "playHoursLast30Days": 141.6,
-      "playHoursLast90Days": 141.6,
+      "playHoursLast30Days": 141.7,
+      "playHoursLast90Days": 141.7,
       "_playDates": {
         "2026-06-11": 3.85,
         "2026-06-12": 5.462,
@@ -11260,7 +11260,7 @@
         "2026-06-25": 15.867,
         "2026-06-26": 22.65,
         "2026-06-27": 29.75,
-        "2026-06-28": 6.8
+        "2026-06-28": 6.85
       }
     },
     {
@@ -22293,10 +22293,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-06-27T01:28:24.185Z",
-      "playersOnline": 1
-    },
-    {
       "timestamp": "2026-06-27T01:30:52.580Z",
       "playersOnline": 1
     },
@@ -25219,6 +25215,10 @@
     {
       "timestamp": "2026-06-28T01:26:25.152Z",
       "playersOnline": 3
+    },
+    {
+      "timestamp": "2026-06-28T01:28:25.611Z",
+      "playersOnline": 2
     }
   ]
 }
