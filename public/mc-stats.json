@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-06-30T22:52:23.546Z",
+  "lastUpdated": "2026-06-30T22:54:22.939Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -174,7 +174,7 @@
       "min": 1,
       "avg": 10,
       "max": 12,
-      "_count": 58
+      "_count": 59
     }
   ],
   "players": [
@@ -346,10 +346,10 @@
     {
       "uuid": "",
       "username": "ob_stacle",
-      "lastSeen": "2026-06-30T22:52:23.546Z",
+      "lastSeen": "2026-06-30T22:54:22.939Z",
       "totalPlayHours": 222.4,
-      "playHoursToday": 1.35,
-      "playHoursLast7Days": 65.5,
+      "playHoursToday": 1.4,
+      "playHoursLast7Days": 65.6,
       "playHoursLast30Days": 222.4,
       "playHoursLast90Days": 222.4,
       "_playDates": {
@@ -377,7 +377,7 @@
         "2026-06-28": 7.6,
         "2026-06-29": 7.7,
         "2026-06-30": 6.5,
-        "2026-07-01": 1.35
+        "2026-07-01": 1.4
       }
     },
     {
@@ -805,9 +805,9 @@
     {
       "uuid": "",
       "username": "mizuki16411",
-      "lastSeen": "2026-06-30T22:52:23.546Z",
+      "lastSeen": "2026-06-30T22:54:22.939Z",
       "totalPlayHours": 107.1,
-      "playHoursToday": 2.65,
+      "playHoursToday": 2.7,
       "playHoursLast7Days": 61.6,
       "playHoursLast30Days": 107.1,
       "playHoursLast90Days": 107.1,
@@ -828,7 +828,7 @@
         "2026-06-28": 11.7,
         "2026-06-29": 3,
         "2026-06-30": 7.752,
-        "2026-07-01": 2.65
+        "2026-07-01": 2.7
       }
     },
     {
@@ -24372,10 +24372,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-06-29T22:54:22.780Z",
-      "playersOnline": 9
-    },
-    {
       "timestamp": "2026-06-29T22:56:23.104Z",
       "playersOnline": 9
     },
@@ -27265,6 +27261,10 @@
     },
     {
       "timestamp": "2026-06-30T22:52:23.546Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-06-30T22:54:22.939Z",
       "playersOnline": 2
     }
   ]
