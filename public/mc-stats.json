@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-06-30T21:42:26.638Z",
+  "lastUpdated": "2026-06-30T21:44:23.287Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -171,10 +171,10 @@
     },
     {
       "date": "2026-07-01",
-      "min": 2,
+      "min": 1,
       "avg": 10,
       "max": 12,
-      "_count": 22
+      "_count": 23
     }
   ],
   "players": [
@@ -24357,14 +24357,14 @@
     {
       "uuid": "",
       "username": "bibibob4re",
-      "lastSeen": "2026-06-30T21:42:26.638Z",
+      "lastSeen": "2026-06-30T21:44:23.287Z",
       "totalPlayHours": 0.3,
-      "playHoursToday": 0.25,
+      "playHoursToday": 0.3,
       "playHoursLast7Days": 0.3,
       "playHoursLast30Days": 0.3,
       "playHoursLast90Days": 0.3,
       "_playDates": {
-        "2026-07-01": 0.25
+        "2026-07-01": 0.3
       }
     }
   ],
@@ -27264,6 +27264,10 @@
     {
       "timestamp": "2026-06-30T21:42:26.638Z",
       "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-06-30T21:44:23.287Z",
+      "playersOnline": 1
     }
   ]
 }
