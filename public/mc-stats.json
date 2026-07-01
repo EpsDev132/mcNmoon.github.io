@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-01T00:34:24.585Z",
+  "lastUpdated": "2026-07-01T00:36:26.036Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -174,7 +174,7 @@
       "min": 1,
       "avg": 10,
       "max": 12,
-      "_count": 109
+      "_count": 110
     }
   ],
   "players": [
@@ -347,12 +347,12 @@
     {
       "uuid": "",
       "username": "ob_stacle",
-      "lastSeen": "2026-07-01T00:34:24.585Z",
-      "totalPlayHours": 224.9,
-      "playHoursToday": 3.9,
-      "playHoursLast7Days": 55.5,
-      "playHoursLast30Days": 224.9,
-      "playHoursLast90Days": 224.9,
+      "lastSeen": "2026-07-01T00:36:26.036Z",
+      "totalPlayHours": 225,
+      "playHoursToday": 3.95,
+      "playHoursLast7Days": 55.6,
+      "playHoursLast30Days": 225,
+      "playHoursLast90Days": 225,
       "_playDates": {
         "2026-06-07": 5.601,
         "2026-06-08": 10.784,
@@ -378,7 +378,7 @@
         "2026-06-28": 7.6,
         "2026-06-29": 7.7,
         "2026-06-30": 6.5,
-        "2026-07-01": 3.9
+        "2026-07-01": 3.95
       }
     },
     {
@@ -22558,9 +22558,9 @@
     {
       "uuid": "",
       "username": "okakgo",
-      "lastSeen": "2026-07-01T00:34:24.585Z",
+      "lastSeen": "2026-07-01T00:36:26.036Z",
       "totalPlayHours": 6.6,
-      "playHoursToday": 1.9,
+      "playHoursToday": 1.95,
       "playHoursLast7Days": 6.6,
       "playHoursLast30Days": 6.6,
       "playHoursLast90Days": 6.6,
@@ -22568,7 +22568,7 @@
         "2026-06-27": 2.55,
         "2026-06-28": 0.45,
         "2026-06-30": 1.65,
-        "2026-07-01": 1.9
+        "2026-07-01": 1.95
       }
     },
     {
@@ -24375,10 +24375,6 @@
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-06-30T00:36:24.247Z",
-      "playersOnline": 2
-    },
     {
       "timestamp": "2026-06-30T00:38:23.269Z",
       "playersOnline": 2
@@ -27270,6 +27266,10 @@
     {
       "timestamp": "2026-07-01T00:34:24.585Z",
       "playersOnline": 3
+    },
+    {
+      "timestamp": "2026-07-01T00:36:26.036Z",
+      "playersOnline": 2
     }
   ]
 }
