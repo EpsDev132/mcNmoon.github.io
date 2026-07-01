@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-01T00:54:24.028Z",
+  "lastUpdated": "2026-07-01T00:56:23.340Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -174,7 +174,7 @@
       "min": 1,
       "avg": 10,
       "max": 12,
-      "_count": 119
+      "_count": 120
     }
   ],
   "players": [
@@ -22558,9 +22558,9 @@
     {
       "uuid": "",
       "username": "okakgo",
-      "lastSeen": "2026-07-01T00:54:24.028Z",
+      "lastSeen": "2026-07-01T00:56:23.340Z",
       "totalPlayHours": 7.1,
-      "playHoursToday": 2.4,
+      "playHoursToday": 2.45,
       "playHoursLast7Days": 7.1,
       "playHoursLast30Days": 7.1,
       "playHoursLast90Days": 7.1,
@@ -22568,7 +22568,7 @@
         "2026-06-27": 2.55,
         "2026-06-28": 0.45,
         "2026-06-30": 1.65,
-        "2026-07-01": 2.4
+        "2026-07-01": 2.45
       }
     },
     {
@@ -24375,14 +24375,6 @@
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-06-30T00:54:25.523Z",
-      "playersOnline": 3
-    },
-    {
-      "timestamp": "2026-06-30T00:56:23.212Z",
-      "playersOnline": 3
-    },
     {
       "timestamp": "2026-06-30T00:58:22.946Z",
       "playersOnline": 3
@@ -27273,6 +27265,10 @@
     },
     {
       "timestamp": "2026-07-01T00:54:24.028Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-07-01T00:56:23.340Z",
       "playersOnline": 1
     }
   ]
