@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-03T02:42:24.087Z",
+  "lastUpdated": "2026-07-03T02:44:22.548Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -188,7 +188,7 @@
       "min": 0,
       "avg": 6,
       "max": 6,
-      "_count": 175
+      "_count": 176
     }
   ],
   "players": [
@@ -21123,12 +21123,12 @@
     {
       "uuid": "",
       "username": "mge_yatsagryz",
-      "lastSeen": "2026-07-03T02:42:24.087Z",
-      "totalPlayHours": 68.9,
-      "playHoursToday": 4.95,
+      "lastSeen": "2026-07-03T02:44:22.548Z",
+      "totalPlayHours": 69,
+      "playHoursToday": 5,
       "playHoursLast7Days": 63,
-      "playHoursLast30Days": 68.9,
-      "playHoursLast90Days": 68.9,
+      "playHoursLast30Days": 69,
+      "playHoursLast90Days": 69,
       "_playDates": {
         "2026-06-24": 2.716,
         "2026-06-25": 1.85,
@@ -21138,7 +21138,7 @@
         "2026-06-30": 14.752,
         "2026-07-01": 19.75,
         "2026-07-02": 19.852,
-        "2026-07-03": 4.95
+        "2026-07-03": 5
       }
     },
     {
@@ -25923,10 +25923,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-07-02T02:42:24.409Z",
-      "playersOnline": 8
-    },
-    {
       "timestamp": "2026-07-02T02:44:24.760Z",
       "playersOnline": 7
     },
@@ -28828,6 +28824,10 @@
     },
     {
       "timestamp": "2026-07-03T02:42:24.087Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-07-03T02:44:22.548Z",
       "playersOnline": 1
     }
   ]
