@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-03T23:38:23.410Z",
+  "lastUpdated": "2026-07-03T23:40:52.678Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -195,7 +195,7 @@
       "min": 4,
       "avg": 13,
       "max": 14,
-      "_count": 82
+      "_count": 83
     }
   ],
   "players": [
@@ -1318,12 +1318,12 @@
     {
       "uuid": "",
       "username": "Ritoto121",
-      "lastSeen": "2026-07-03T23:38:23.410Z",
-      "totalPlayHours": 405.6,
-      "playHoursToday": 4.1,
-      "playHoursLast7Days": 93.1,
-      "playHoursLast30Days": 405.6,
-      "playHoursLast90Days": 405.6,
+      "lastSeen": "2026-07-03T23:40:52.678Z",
+      "totalPlayHours": 405.7,
+      "playHoursToday": 4.15,
+      "playHoursLast7Days": 93.2,
+      "playHoursLast30Days": 405.7,
+      "playHoursLast90Days": 405.7,
       "_playDates": {
         "2026-06-07": 5.788,
         "2026-06-08": 21.395,
@@ -1351,7 +1351,7 @@
         "2026-07-01": 16.25,
         "2026-07-02": 18.856,
         "2026-07-03": 10.15,
-        "2026-07-04": 4.1
+        "2026-07-04": 4.15
       }
     },
     {
@@ -1707,9 +1707,9 @@
     {
       "uuid": "",
       "username": "Fredbear_8795",
-      "lastSeen": "2026-07-03T23:38:23.410Z",
+      "lastSeen": "2026-07-03T23:40:52.678Z",
       "totalPlayHours": 267.5,
-      "playHoursToday": 0.1,
+      "playHoursToday": 0.15,
       "playHoursLast7Days": 21.5,
       "playHoursLast30Days": 267.5,
       "playHoursLast90Days": 267.5,
@@ -1740,7 +1740,7 @@
         "2026-07-01": 4.45,
         "2026-07-02": 12.9,
         "2026-07-03": 1,
-        "2026-07-04": 0.1
+        "2026-07-04": 0.15
       }
     },
     {
@@ -2477,9 +2477,9 @@
     {
       "uuid": "",
       "username": "Vanekkrut228",
-      "lastSeen": "2026-07-03T23:38:23.410Z",
+      "lastSeen": "2026-07-03T23:40:52.678Z",
       "totalPlayHours": 213.4,
-      "playHoursToday": 4.1,
+      "playHoursToday": 4.15,
       "playHoursLast7Days": 67.9,
       "playHoursLast30Days": 213.4,
       "playHoursLast90Days": 213.4,
@@ -2510,7 +2510,7 @@
         "2026-07-01": 11.9,
         "2026-07-02": 13.352,
         "2026-07-03": 13.1,
-        "2026-07-04": 4.1
+        "2026-07-04": 4.15
       }
     },
     {
@@ -2785,12 +2785,12 @@
     {
       "uuid": "",
       "username": "Star_Light",
-      "lastSeen": "2026-07-03T23:38:23.410Z",
-      "totalPlayHours": 414,
-      "playHoursToday": 4.1,
+      "lastSeen": "2026-07-03T23:40:52.678Z",
+      "totalPlayHours": 414.1,
+      "playHoursToday": 4.15,
       "playHoursLast7Days": 82.6,
-      "playHoursLast30Days": 414,
-      "playHoursLast90Days": 414,
+      "playHoursLast30Days": 414.1,
+      "playHoursLast90Days": 414.1,
       "_playDates": {
         "2026-06-07": 11.628,
         "2026-06-08": 17.327,
@@ -2819,7 +2819,7 @@
         "2026-07-01": 9.3,
         "2026-07-02": 13.404,
         "2026-07-03": 20.65,
-        "2026-07-04": 4.1
+        "2026-07-04": 4.15
       }
     },
     {
@@ -4207,9 +4207,9 @@
     {
       "uuid": "",
       "username": "Kitra",
-      "lastSeen": "2026-07-03T23:38:23.410Z",
+      "lastSeen": "2026-07-03T23:40:52.678Z",
       "totalPlayHours": 40.7,
-      "playHoursToday": 2.8,
+      "playHoursToday": 2.85,
       "playHoursLast7Days": 23.4,
       "playHoursLast30Days": 40.7,
       "playHoursLast90Days": 40.7,
@@ -4232,7 +4232,7 @@
         "2026-06-30": 0.05,
         "2026-07-02": 9.95,
         "2026-07-03": 3.65,
-        "2026-07-04": 2.8
+        "2026-07-04": 2.85
       }
     },
     {
@@ -26616,14 +26616,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-07-02T23:38:23.706Z",
-      "playersOnline": 0
-    },
-    {
-      "timestamp": "2026-07-02T23:40:50.131Z",
-      "playersOnline": 0
-    },
-    {
       "timestamp": "2026-07-02T23:42:24.192Z",
       "playersOnline": 0
     },
@@ -29537,6 +29529,10 @@
     },
     {
       "timestamp": "2026-07-03T23:38:23.410Z",
+      "playersOnline": 5
+    },
+    {
+      "timestamp": "2026-07-03T23:40:52.678Z",
       "playersOnline": 5
     }
   ]
