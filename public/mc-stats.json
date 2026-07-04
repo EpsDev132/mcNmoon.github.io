@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-04T03:36:23.049Z",
+  "lastUpdated": "2026-07-04T03:38:23.516Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -195,7 +195,7 @@
       "min": 1,
       "avg": 13,
       "max": 14,
-      "_count": 202
+      "_count": 203
     }
   ],
   "players": [
@@ -892,9 +892,9 @@
     {
       "uuid": "",
       "username": "na_mogile",
-      "lastSeen": "2026-07-04T03:36:23.049Z",
+      "lastSeen": "2026-07-04T03:38:23.516Z",
       "totalPlayHours": 160.4,
-      "playHoursToday": 2.1,
+      "playHoursToday": 2.15,
       "playHoursLast7Days": 10.6,
       "playHoursLast30Days": 160.4,
       "playHoursLast90Days": 160.4,
@@ -923,7 +923,7 @@
         "2026-06-29": 0.3,
         "2026-06-30": 4.844,
         "2026-07-03": 0.4,
-        "2026-07-04": 2.1
+        "2026-07-04": 2.15
       }
     },
     {
@@ -26649,14 +26649,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-07-03T03:36:24.518Z",
-      "playersOnline": 1
-    },
-    {
-      "timestamp": "2026-07-03T03:38:22.244Z",
-      "playersOnline": 1
-    },
-    {
       "timestamp": "2026-07-03T03:40:50.068Z",
       "playersOnline": 1
     },
@@ -29570,6 +29562,10 @@
     },
     {
       "timestamp": "2026-07-04T03:36:23.049Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-07-04T03:38:23.516Z",
       "playersOnline": 1
     }
   ]
