@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-04T04:24:25.030Z",
+  "lastUpdated": "2026-07-04T04:26:23.070Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -195,7 +195,7 @@
       "min": 0,
       "avg": 13,
       "max": 14,
-      "_count": 227
+      "_count": 228
     }
   ],
   "players": [
@@ -15325,9 +15325,9 @@
     {
       "uuid": "",
       "username": "Tanjio46",
-      "lastSeen": "2026-07-03T18:22:26.974Z",
+      "lastSeen": "2026-07-04T04:26:23.070Z",
       "totalPlayHours": 153.9,
-      "playHoursToday": 0,
+      "playHoursToday": 0.05,
       "playHoursLast7Days": 30.7,
       "playHoursLast30Days": 153.9,
       "playHoursLast90Days": 153.9,
@@ -15348,7 +15348,8 @@
         "2026-06-30": 0.05,
         "2026-07-01": 1.8,
         "2026-07-02": 14.052,
-        "2026-07-03": 14.55
+        "2026-07-03": 14.55,
+        "2026-07-04": 0.05
       }
     },
     {
@@ -29571,6 +29572,10 @@
     {
       "timestamp": "2026-07-04T04:24:25.030Z",
       "playersOnline": 0
+    },
+    {
+      "timestamp": "2026-07-04T04:26:23.070Z",
+      "playersOnline": 1
     }
   ]
 }
