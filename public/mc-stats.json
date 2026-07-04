@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-04T02:58:22.922Z",
+  "lastUpdated": "2026-07-04T03:01:14.981Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -195,7 +195,7 @@
       "min": 2,
       "avg": 13,
       "max": 14,
-      "_count": 183
+      "_count": 184
     }
   ],
   "players": [
@@ -892,12 +892,12 @@
     {
       "uuid": "",
       "username": "na_mogile",
-      "lastSeen": "2026-07-04T02:58:22.922Z",
-      "totalPlayHours": 159.4,
-      "playHoursToday": 1.15,
-      "playHoursLast7Days": 9.6,
-      "playHoursLast30Days": 159.4,
-      "playHoursLast90Days": 159.4,
+      "lastSeen": "2026-07-04T03:01:14.981Z",
+      "totalPlayHours": 159.5,
+      "playHoursToday": 1.2,
+      "playHoursLast7Days": 9.7,
+      "playHoursLast30Days": 159.5,
+      "playHoursLast90Days": 159.5,
       "_playDates": {
         "2026-06-07": 5.729,
         "2026-06-08": 9.798,
@@ -923,7 +923,7 @@
         "2026-06-29": 0.3,
         "2026-06-30": 4.844,
         "2026-07-03": 0.4,
-        "2026-07-04": 1.15
+        "2026-07-04": 1.2
       }
     },
     {
@@ -26636,26 +26636,18 @@
     {
       "uuid": "",
       "username": "shkwark4",
-      "lastSeen": "2026-07-04T02:58:22.922Z",
+      "lastSeen": "2026-07-04T03:01:14.981Z",
       "totalPlayHours": 0.3,
-      "playHoursToday": 0.25,
+      "playHoursToday": 0.3,
       "playHoursLast7Days": 0.3,
       "playHoursLast30Days": 0.3,
       "playHoursLast90Days": 0.3,
       "_playDates": {
-        "2026-07-04": 0.25
+        "2026-07-04": 0.3
       }
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-07-03T02:58:24.325Z",
-      "playersOnline": 1
-    },
-    {
-      "timestamp": "2026-07-03T03:01:06.425Z",
-      "playersOnline": 1
-    },
     {
       "timestamp": "2026-07-03T03:02:23.932Z",
       "playersOnline": 1
@@ -29570,6 +29562,10 @@
     },
     {
       "timestamp": "2026-07-04T02:58:22.922Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-07-04T03:01:14.981Z",
       "playersOnline": 2
     }
   ]
