@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-07T04:16:23.748Z",
+  "lastUpdated": "2026-07-07T04:18:23.866Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -216,7 +216,7 @@
       "min": 1,
       "avg": 7,
       "max": 12,
-      "_count": 221
+      "_count": 222
     }
   ],
   "players": [
@@ -6937,12 +6937,12 @@
     {
       "uuid": "",
       "username": "sharapov26",
-      "lastSeen": "2026-07-07T04:16:23.748Z",
-      "totalPlayHours": 17.3,
-      "playHoursToday": 0.2,
+      "lastSeen": "2026-07-07T04:18:23.866Z",
+      "totalPlayHours": 17.4,
+      "playHoursToday": 0.25,
       "playHoursLast7Days": 13.5,
-      "playHoursLast30Days": 17.3,
-      "playHoursLast90Days": 17.3,
+      "playHoursLast30Days": 17.4,
+      "playHoursLast90Days": 17.4,
       "_playDates": {
         "2026-06-08": 0.202,
         "2026-06-16": 2.75,
@@ -6952,7 +6952,7 @@
         "2026-07-04": 1.55,
         "2026-07-05": 7.55,
         "2026-07-06": 3.802,
-        "2026-07-07": 0.2
+        "2026-07-07": 0.25
       }
     },
     {
@@ -28657,10 +28657,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-07-06T04:16:26.112Z",
-      "playersOnline": 9
-    },
-    {
       "timestamp": "2026-07-06T04:18:24.567Z",
       "playersOnline": 10
     },
@@ -31562,6 +31558,10 @@
     },
     {
       "timestamp": "2026-07-07T04:16:23.748Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-07-07T04:18:23.866Z",
       "playersOnline": 1
     }
   ]
