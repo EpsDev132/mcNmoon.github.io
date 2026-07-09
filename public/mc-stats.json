@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-09T04:12:24.265Z",
+  "lastUpdated": "2026-07-09T04:14:26.375Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -230,7 +230,7 @@
       "min": 1,
       "avg": 28,
       "max": 30,
-      "_count": 212
+      "_count": 213
     }
   ],
   "players": [
@@ -15796,12 +15796,12 @@
     {
       "uuid": "",
       "username": "Zloy_ars3",
-      "lastSeen": "2026-07-08T19:18:24.999Z",
-      "totalPlayHours": 88.8,
-      "playHoursToday": 0,
-      "playHoursLast7Days": 15.7,
-      "playHoursLast30Days": 88.8,
-      "playHoursLast90Days": 88.8,
+      "lastSeen": "2026-07-09T04:14:26.375Z",
+      "totalPlayHours": 88.9,
+      "playHoursToday": 0.05,
+      "playHoursLast7Days": 15.8,
+      "playHoursLast30Days": 88.9,
+      "playHoursLast90Days": 88.9,
       "_playDates": {
         "2026-06-15": 1.8,
         "2026-06-17": 3.102,
@@ -15821,7 +15821,8 @@
         "2026-07-05": 2.05,
         "2026-07-06": 0.95,
         "2026-07-07": 0.65,
-        "2026-07-08": 11.567
+        "2026-07-08": 11.567,
+        "2026-07-09": 0.05
       }
     },
     {
@@ -29792,14 +29793,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-07-08T04:12:27.984Z",
-      "playersOnline": 6
-    },
-    {
-      "timestamp": "2026-07-08T04:14:25.201Z",
-      "playersOnline": 6
-    },
-    {
       "timestamp": "2026-07-08T04:16:25.576Z",
       "playersOnline": 6
     },
@@ -32673,6 +32666,10 @@
     },
     {
       "timestamp": "2026-07-09T04:12:24.265Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-07-09T04:14:26.375Z",
       "playersOnline": 1
     }
   ]
