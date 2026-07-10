@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-10T03:48:27.176Z",
+  "lastUpdated": "2026-07-10T03:50:59.808Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -237,7 +237,7 @@
       "min": 0,
       "avg": 21,
       "max": 23,
-      "_count": 206
+      "_count": 207
     }
   ],
   "players": [
@@ -2375,9 +2375,9 @@
     {
       "uuid": "",
       "username": "CracksUser",
-      "lastSeen": "2026-07-10T03:48:27.176Z",
+      "lastSeen": "2026-07-10T03:50:59.808Z",
       "totalPlayHours": 42,
-      "playHoursToday": 0.55,
+      "playHoursToday": 0.6,
       "playHoursLast7Days": 0.6,
       "playHoursLast30Days": 38.7,
       "playHoursLast90Days": 42,
@@ -2397,7 +2397,7 @@
         "2026-06-22": 0.85,
         "2026-06-26": 0.1,
         "2026-07-03": 0.85,
-        "2026-07-10": 0.55
+        "2026-07-10": 0.6
       }
     },
     {
@@ -5818,12 +5818,12 @@
     {
       "uuid": "",
       "username": "SVINCO",
-      "lastSeen": "2026-07-10T03:48:27.176Z",
-      "totalPlayHours": 12.2,
-      "playHoursToday": 0.5,
-      "playHoursLast7Days": 0.5,
-      "playHoursLast30Days": 5.8,
-      "playHoursLast90Days": 12.2,
+      "lastSeen": "2026-07-10T03:50:59.808Z",
+      "totalPlayHours": 12.3,
+      "playHoursToday": 0.55,
+      "playHoursLast7Days": 0.6,
+      "playHoursLast30Days": 5.9,
+      "playHoursLast90Days": 12.3,
       "_playDates": {
         "2026-06-07": 0.102,
         "2026-06-08": 2.057,
@@ -5833,7 +5833,7 @@
         "2026-06-22": 1.602,
         "2026-06-26": 0.15,
         "2026-06-27": 0.15,
-        "2026-07-10": 0.5
+        "2026-07-10": 0.55
       }
     },
     {
@@ -32963,6 +32963,10 @@
     },
     {
       "timestamp": "2026-07-10T03:48:27.176Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-07-10T03:50:59.808Z",
       "playersOnline": 2
     }
   ]
