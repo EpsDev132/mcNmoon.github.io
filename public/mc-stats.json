@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-12T01:26:22.730Z",
+  "lastUpdated": "2026-07-12T01:28:27.614Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -251,7 +251,7 @@
       "min": 1,
       "avg": 24,
       "max": 24,
-      "_count": 137
+      "_count": 138
     }
   ],
   "players": [
@@ -3097,12 +3097,12 @@
     {
       "uuid": "",
       "username": "Star_Light",
-      "lastSeen": "2026-07-12T01:26:22.730Z",
-      "totalPlayHours": 578.1,
-      "playHoursToday": 6.254,
-      "playHoursLast7Days": 123.3,
+      "lastSeen": "2026-07-12T01:28:27.614Z",
+      "totalPlayHours": 578.2,
+      "playHoursToday": 6.304,
+      "playHoursLast7Days": 123.4,
       "playHoursLast30Days": 482.3,
-      "playHoursLast90Days": 578.1,
+      "playHoursLast90Days": 578.2,
       "_playDates": {
         "2026-06-07": 11.628,
         "2026-06-08": 17.327,
@@ -3139,7 +3139,7 @@
         "2026-07-09": 25.941,
         "2026-07-10": 18.377,
         "2026-07-11": 23.352,
-        "2026-07-12": 6.254
+        "2026-07-12": 6.304
       }
     },
     {
@@ -31706,14 +31706,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-07-11T01:26:23.342Z",
-      "playersOnline": 4
-    },
-    {
-      "timestamp": "2026-07-11T01:28:23.515Z",
-      "playersOnline": 4
-    },
-    {
       "timestamp": "2026-07-11T01:31:12.722Z",
       "playersOnline": 5
     },
@@ -34639,6 +34631,10 @@
     },
     {
       "timestamp": "2026-07-12T01:26:22.730Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-07-12T01:28:27.614Z",
       "playersOnline": 1
     }
   ]
