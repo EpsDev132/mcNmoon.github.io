@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-13T02:04:27.306Z",
+  "lastUpdated": "2026-07-13T02:06:23.819Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -258,7 +258,7 @@
       "min": 1,
       "avg": 22,
       "max": 27,
-      "_count": 155
+      "_count": 156
     }
   ],
   "players": [
@@ -1524,12 +1524,12 @@
     {
       "uuid": "",
       "username": "Ritoto121",
-      "lastSeen": "2026-07-13T02:04:27.306Z",
-      "totalPlayHours": 551.6,
-      "playHoursToday": 6.205,
-      "playHoursLast7Days": 107.5,
-      "playHoursLast30Days": 425.9,
-      "playHoursLast90Days": 551.6,
+      "lastSeen": "2026-07-13T02:06:23.819Z",
+      "totalPlayHours": 551.7,
+      "playHoursToday": 6.255,
+      "playHoursLast7Days": 107.6,
+      "playHoursLast30Days": 426,
+      "playHoursLast90Days": 551.7,
       "_playDates": {
         "2026-06-07": 5.788,
         "2026-06-08": 21.395,
@@ -1566,7 +1566,7 @@
         "2026-07-10": 15.227,
         "2026-07-11": 25.604,
         "2026-07-12": 15.054,
-        "2026-07-13": 6.205
+        "2026-07-13": 6.255
       }
     },
     {
@@ -6154,12 +6154,12 @@
     {
       "uuid": "",
       "username": "Terfilk",
-      "lastSeen": "2026-07-13T01:42:25.599Z",
-      "totalPlayHours": 22,
-      "playHoursToday": 0.05,
+      "lastSeen": "2026-07-13T02:06:23.819Z",
+      "totalPlayHours": 22.1,
+      "playHoursToday": 0.1,
       "playHoursLast7Days": 12.5,
-      "playHoursLast30Days": 21.9,
-      "playHoursLast90Days": 22,
+      "playHoursLast30Days": 22,
+      "playHoursLast90Days": 22.1,
       "_playDates": {
         "2026-06-08": 0.101,
         "2026-06-26": 3.05,
@@ -6174,7 +6174,7 @@
         "2026-07-10": 0.756,
         "2026-07-11": 0.1,
         "2026-07-12": 0.65,
-        "2026-07-13": 0.05
+        "2026-07-13": 0.1
       }
     },
     {
@@ -35340,6 +35340,10 @@
     {
       "timestamp": "2026-07-13T02:04:27.306Z",
       "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-07-13T02:06:23.819Z",
+      "playersOnline": 2
     }
   ]
 }
