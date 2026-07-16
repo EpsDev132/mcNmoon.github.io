@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-16T02:12:27.284Z",
+  "lastUpdated": "2026-07-16T02:14:23.935Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -279,7 +279,7 @@
       "min": 1,
       "avg": 12,
       "max": 16,
-      "_count": 159
+      "_count": 160
     }
   ],
   "players": [
@@ -35171,14 +35171,14 @@
     {
       "uuid": "",
       "username": "Loporopka123",
-      "lastSeen": "2026-07-16T02:12:27.284Z",
-      "totalPlayHours": 2,
-      "playHoursToday": 2.001,
-      "playHoursLast7Days": 2,
-      "playHoursLast30Days": 2,
-      "playHoursLast90Days": 2,
+      "lastSeen": "2026-07-16T02:14:23.935Z",
+      "totalPlayHours": 2.1,
+      "playHoursToday": 2.051,
+      "playHoursLast7Days": 2.1,
+      "playHoursLast30Days": 2.1,
+      "playHoursLast90Days": 2.1,
       "_playDates": {
-        "2026-07-16": 2.001
+        "2026-07-16": 2.051
       }
     },
     {
@@ -38114,6 +38114,10 @@
     },
     {
       "timestamp": "2026-07-16T02:12:27.284Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-07-16T02:14:23.935Z",
       "playersOnline": 1
     }
   ]
