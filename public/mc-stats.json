@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-19T03:31:02.056Z",
+  "lastUpdated": "2026-07-19T03:32:27.239Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -300,7 +300,7 @@
       "min": 0,
       "avg": 24,
       "max": 25,
-      "_count": 199
+      "_count": 200
     }
   ],
   "players": [
@@ -6634,10 +6634,10 @@
     {
       "uuid": "",
       "username": "DenisAndSergey",
-      "lastSeen": "2026-07-18T05:46:27.107Z",
+      "lastSeen": "2026-07-19T03:32:27.239Z",
       "totalPlayHours": 146.7,
-      "playHoursToday": 0,
-      "playHoursLast7Days": 29.1,
+      "playHoursToday": 0.05,
+      "playHoursLast7Days": 29.2,
       "playHoursLast30Days": 79.7,
       "playHoursLast90Days": 146.7,
       "_playDates": {
@@ -6667,7 +6667,8 @@
         "2026-07-15": 1.802,
         "2026-07-16": 2.103,
         "2026-07-17": 11.35,
-        "2026-07-18": 3.65
+        "2026-07-18": 3.65,
+        "2026-07-19": 0.05
       }
     },
     {
@@ -36550,15 +36551,15 @@
     {
       "uuid": "",
       "username": "43A",
-      "lastSeen": "2026-07-19T03:31:02.056Z",
-      "totalPlayHours": 1.8,
-      "playHoursToday": 0.3,
-      "playHoursLast7Days": 1.8,
-      "playHoursLast30Days": 1.8,
-      "playHoursLast90Days": 1.8,
+      "lastSeen": "2026-07-19T03:32:27.239Z",
+      "totalPlayHours": 1.9,
+      "playHoursToday": 0.35,
+      "playHoursLast7Days": 1.9,
+      "playHoursLast30Days": 1.9,
+      "playHoursLast90Days": 1.9,
       "_playDates": {
         "2026-07-17": 1.5,
-        "2026-07-19": 0.3
+        "2026-07-19": 0.35
       }
     },
     {
@@ -37654,10 +37655,6 @@
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-07-18T03:32:24.063Z",
-      "playersOnline": 4
-    },
     {
       "timestamp": "2026-07-18T03:34:26.514Z",
       "playersOnline": 4
@@ -40577,6 +40574,10 @@
     {
       "timestamp": "2026-07-19T03:31:02.056Z",
       "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-07-19T03:32:27.239Z",
+      "playersOnline": 2
     }
   ]
 }
