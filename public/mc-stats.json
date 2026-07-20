@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-20T02:42:24.630Z",
+  "lastUpdated": "2026-07-20T02:44:25.770Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -307,7 +307,7 @@
       "min": 1,
       "avg": 13,
       "max": 14,
-      "_count": 152
+      "_count": 153
     }
   ],
   "players": [
@@ -34455,19 +34455,19 @@
     {
       "uuid": "",
       "username": "Methranome",
-      "lastSeen": "2026-07-20T02:42:24.630Z",
-      "totalPlayHours": 28.9,
-      "playHoursToday": 4.486,
-      "playHoursLast7Days": 28.9,
-      "playHoursLast30Days": 28.9,
-      "playHoursLast90Days": 28.9,
+      "lastSeen": "2026-07-20T02:44:25.770Z",
+      "totalPlayHours": 29,
+      "playHoursToday": 4.536,
+      "playHoursLast7Days": 29,
+      "playHoursLast30Days": 29,
+      "playHoursLast90Days": 29,
       "_playDates": {
         "2026-07-14": 1.852,
         "2026-07-15": 7.605,
         "2026-07-16": 5.352,
         "2026-07-17": 2.65,
         "2026-07-18": 7,
-        "2026-07-20": 4.486
+        "2026-07-20": 4.536
       }
     },
     {
@@ -37390,15 +37390,15 @@
     {
       "uuid": "",
       "username": "Mr_minecraft",
-      "lastSeen": "2026-07-20T02:42:24.630Z",
+      "lastSeen": "2026-07-20T02:44:25.770Z",
       "totalPlayHours": 0.6,
-      "playHoursToday": 0.45,
+      "playHoursToday": 0.5,
       "playHoursLast7Days": 0.6,
       "playHoursLast30Days": 0.6,
       "playHoursLast90Days": 0.6,
       "_playDates": {
         "2026-07-18": 0.1,
-        "2026-07-20": 0.45
+        "2026-07-20": 0.5
       }
     },
     {
@@ -38370,10 +38370,6 @@
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-07-19T02:42:26.222Z",
-      "playersOnline": 2
-    },
     {
       "timestamp": "2026-07-19T02:44:26.289Z",
       "playersOnline": 1
@@ -41200,6 +41196,10 @@
     },
     {
       "timestamp": "2026-07-20T02:42:24.630Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-07-20T02:44:25.770Z",
       "playersOnline": 2
     }
   ]
