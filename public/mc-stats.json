@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-20T02:52:24.614Z",
+  "lastUpdated": "2026-07-20T02:54:26.666Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -307,7 +307,7 @@
       "min": 1,
       "avg": 13,
       "max": 14,
-      "_count": 157
+      "_count": 158
     }
   ],
   "players": [
@@ -17940,12 +17940,12 @@
     {
       "uuid": "",
       "username": "faral7",
-      "lastSeen": "2026-07-19T19:58:23.918Z",
-      "totalPlayHours": 228.4,
-      "playHoursToday": 0,
+      "lastSeen": "2026-07-20T02:54:26.666Z",
+      "totalPlayHours": 228.5,
+      "playHoursToday": 0.05,
       "playHoursLast7Days": 33.2,
       "playHoursLast30Days": 197.1,
-      "playHoursLast90Days": 228.4,
+      "playHoursLast90Days": 228.5,
       "_playDates": {
         "2026-06-16": 7.767,
         "2026-06-17": 7.95,
@@ -17969,7 +17969,8 @@
         "2026-07-08": 3.35,
         "2026-07-17": 6.4,
         "2026-07-18": 13.467,
-        "2026-07-19": 13.3
+        "2026-07-19": 13.3,
+        "2026-07-20": 0.05
       }
     },
     {
@@ -37390,15 +37391,15 @@
     {
       "uuid": "",
       "username": "Mr_minecraft",
-      "lastSeen": "2026-07-20T02:52:24.614Z",
+      "lastSeen": "2026-07-20T02:54:26.666Z",
       "totalPlayHours": 0.8,
-      "playHoursToday": 0.7,
+      "playHoursToday": 0.75,
       "playHoursLast7Days": 0.8,
       "playHoursLast30Days": 0.8,
       "playHoursLast90Days": 0.8,
       "_playDates": {
         "2026-07-18": 0.1,
-        "2026-07-20": 0.7
+        "2026-07-20": 0.75
       }
     },
     {
@@ -38370,10 +38371,6 @@
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-07-19T02:54:24.342Z",
-      "playersOnline": 1
-    },
     {
       "timestamp": "2026-07-19T02:56:24.718Z",
       "playersOnline": 1
@@ -41196,6 +41193,10 @@
     },
     {
       "timestamp": "2026-07-20T02:52:24.614Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-07-20T02:54:26.666Z",
       "playersOnline": 2
     }
   ]
