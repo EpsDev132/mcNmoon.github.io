@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-22T01:22:25.824Z",
+  "lastUpdated": "2026-07-22T01:24:24.062Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -321,7 +321,7 @@
       "min": 1,
       "avg": 12,
       "max": 12,
-      "_count": 135
+      "_count": 136
     }
   ],
   "players": [
@@ -6778,9 +6778,9 @@
     {
       "uuid": "",
       "username": "Valya_g",
-      "lastSeen": "2026-07-21T14:54:28.413Z",
+      "lastSeen": "2026-07-22T01:24:24.062Z",
       "totalPlayHours": 93,
-      "playHoursToday": 0,
+      "playHoursToday": 0.05,
       "playHoursLast7Days": 20.4,
       "playHoursLast30Days": 68.2,
       "playHoursLast90Days": 93,
@@ -6820,7 +6820,8 @@
         "2026-07-18": 2.8,
         "2026-07-19": 0.8,
         "2026-07-20": 4.1,
-        "2026-07-21": 4.85
+        "2026-07-21": 4.85,
+        "2026-07-22": 0.05
       }
     },
     {
@@ -13629,12 +13630,12 @@
     {
       "uuid": "",
       "username": "hulk234",
-      "lastSeen": "2026-07-22T01:22:25.824Z",
-      "totalPlayHours": 607.3,
-      "playHoursToday": 6.75,
-      "playHoursLast7Days": 121.2,
+      "lastSeen": "2026-07-22T01:24:24.062Z",
+      "totalPlayHours": 607.4,
+      "playHoursToday": 6.8,
+      "playHoursLast7Days": 121.3,
       "playHoursLast30Days": 568.5,
-      "playHoursLast90Days": 607.3,
+      "playHoursLast90Days": 607.4,
       "_playDates": {
         "2026-06-11": 3.85,
         "2026-06-12": 5.462,
@@ -13676,7 +13677,7 @@
         "2026-07-19": 18,
         "2026-07-20": 18.844,
         "2026-07-21": 21.95,
-        "2026-07-22": 6.75
+        "2026-07-22": 6.8
       }
     },
     {
@@ -42426,6 +42427,10 @@
     {
       "timestamp": "2026-07-22T01:22:25.824Z",
       "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-07-22T01:24:24.062Z",
+      "playersOnline": 2
     }
   ]
 }
