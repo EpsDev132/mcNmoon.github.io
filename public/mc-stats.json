@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-22T04:08:24.692Z",
+  "lastUpdated": "2026-07-22T04:10:40.803Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -321,7 +321,7 @@
       "min": 1,
       "avg": 12,
       "max": 12,
-      "_count": 218
+      "_count": 219
     }
   ],
   "players": [
@@ -5718,17 +5718,17 @@
     {
       "uuid": "",
       "username": "TheRoll_shish",
-      "lastSeen": "2026-07-22T04:08:24.692Z",
+      "lastSeen": "2026-07-22T04:10:40.803Z",
       "totalPlayHours": 6.3,
-      "playHoursToday": 3.25,
+      "playHoursToday": 3.3,
       "playHoursLast7Days": 3.3,
-      "playHoursLast30Days": 5.6,
+      "playHoursLast30Days": 5.7,
       "playHoursLast90Days": 6.3,
       "_playDates": {
         "2026-06-07": 0.551,
         "2026-06-10": 0.113,
         "2026-07-15": 2.351,
-        "2026-07-22": 3.25
+        "2026-07-22": 3.3
       }
     },
     {
@@ -38338,15 +38338,16 @@
     {
       "uuid": "",
       "username": "wipyciqgaz",
-      "lastSeen": "2026-07-21T13:10:45.154Z",
-      "totalPlayHours": 6.5,
-      "playHoursToday": 0,
-      "playHoursLast7Days": 6.5,
-      "playHoursLast30Days": 6.5,
-      "playHoursLast90Days": 6.5,
+      "lastSeen": "2026-07-22T04:10:40.803Z",
+      "totalPlayHours": 6.6,
+      "playHoursToday": 0.05,
+      "playHoursLast7Days": 6.6,
+      "playHoursLast30Days": 6.6,
+      "playHoursLast90Days": 6.6,
       "_playDates": {
         "2026-07-19": 0.45,
-        "2026-07-21": 6.1
+        "2026-07-21": 6.1,
+        "2026-07-22": 0.05
       }
     },
     {
@@ -39527,10 +39528,6 @@
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-07-21T04:08:24.779Z",
-      "playersOnline": 3
-    },
     {
       "timestamp": "2026-07-21T04:10:42.382Z",
       "playersOnline": 4
@@ -42446,6 +42443,10 @@
     {
       "timestamp": "2026-07-22T04:08:24.692Z",
       "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-07-22T04:10:40.803Z",
+      "playersOnline": 2
     }
   ]
 }
