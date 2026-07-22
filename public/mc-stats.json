@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-22T03:36:26.759Z",
+  "lastUpdated": "2026-07-22T03:38:26.255Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -321,7 +321,7 @@
       "min": 1,
       "avg": 12,
       "max": 12,
-      "_count": 202
+      "_count": 203
     }
   ],
   "players": [
@@ -5718,17 +5718,17 @@
     {
       "uuid": "",
       "username": "TheRoll_shish",
-      "lastSeen": "2026-07-22T03:36:26.759Z",
+      "lastSeen": "2026-07-22T03:38:26.255Z",
       "totalPlayHours": 5.5,
-      "playHoursToday": 2.45,
+      "playHoursToday": 2.5,
       "playHoursLast7Days": 2.5,
-      "playHoursLast30Days": 4.8,
+      "playHoursLast30Days": 4.9,
       "playHoursLast90Days": 5.5,
       "_playDates": {
         "2026-06-07": 0.551,
         "2026-06-10": 0.113,
         "2026-07-15": 2.351,
-        "2026-07-22": 2.45
+        "2026-07-22": 2.5
       }
     },
     {
@@ -13633,11 +13633,11 @@
     {
       "uuid": "",
       "username": "hulk234",
-      "lastSeen": "2026-07-22T03:36:26.759Z",
+      "lastSeen": "2026-07-22T03:38:26.255Z",
       "totalPlayHours": 610.7,
-      "playHoursToday": 10.1,
+      "playHoursToday": 10.15,
       "playHoursLast7Days": 124.6,
-      "playHoursLast30Days": 571.8,
+      "playHoursLast30Days": 571.9,
       "playHoursLast90Days": 610.7,
       "_playDates": {
         "2026-06-11": 3.85,
@@ -13680,7 +13680,7 @@
         "2026-07-19": 18,
         "2026-07-20": 18.844,
         "2026-07-21": 21.95,
-        "2026-07-22": 10.1
+        "2026-07-22": 10.15
       }
     },
     {
@@ -33705,10 +33705,10 @@
     {
       "uuid": "",
       "username": "Requiem_of_dead",
-      "lastSeen": "2026-07-22T03:36:26.759Z",
+      "lastSeen": "2026-07-22T03:38:26.255Z",
       "totalPlayHours": 17.3,
-      "playHoursToday": 0.45,
-      "playHoursLast7Days": 14.9,
+      "playHoursToday": 0.5,
+      "playHoursLast7Days": 15,
       "playHoursLast30Days": 17.3,
       "playHoursLast90Days": 17.3,
       "_playDates": {
@@ -33719,7 +33719,7 @@
         "2026-07-19": 4.2,
         "2026-07-20": 3.767,
         "2026-07-21": 1.8,
-        "2026-07-22": 0.45
+        "2026-07-22": 0.5
       }
     },
     {
@@ -39515,10 +39515,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-07-21T03:36:27.381Z",
-      "playersOnline": 2
-    },
-    {
       "timestamp": "2026-07-21T03:38:26.816Z",
       "playersOnline": 2
     },
@@ -42432,6 +42428,10 @@
     },
     {
       "timestamp": "2026-07-22T03:36:26.759Z",
+      "playersOnline": 3
+    },
+    {
+      "timestamp": "2026-07-22T03:38:26.255Z",
       "playersOnline": 3
     }
   ]
