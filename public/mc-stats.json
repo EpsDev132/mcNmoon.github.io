@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-23T00:14:26.176Z",
+  "lastUpdated": "2026-07-23T00:16:26.208Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -328,7 +328,7 @@
       "min": 0,
       "avg": 13,
       "max": 14,
-      "_count": 93
+      "_count": 94
     }
   ],
   "players": [
@@ -40216,22 +40216,18 @@
     {
       "uuid": "",
       "username": "SuperPisyun",
-      "lastSeen": "2026-07-23T00:14:26.176Z",
+      "lastSeen": "2026-07-23T00:16:26.208Z",
       "totalPlayHours": 0.1,
-      "playHoursToday": 0.05,
+      "playHoursToday": 0.1,
       "playHoursLast7Days": 0.1,
       "playHoursLast30Days": 0.1,
       "playHoursLast90Days": 0.1,
       "_playDates": {
-        "2026-07-23": 0.05
+        "2026-07-23": 0.1
       }
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-07-22T00:16:23.523Z",
-      "playersOnline": 1
-    },
     {
       "timestamp": "2026-07-22T00:18:23.922Z",
       "playersOnline": 1
@@ -43114,6 +43110,10 @@
     },
     {
       "timestamp": "2026-07-23T00:14:26.176Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-07-23T00:16:26.208Z",
       "playersOnline": 1
     }
   ]
