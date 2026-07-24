@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-24T00:18:25.431Z",
+  "lastUpdated": "2026-07-24T00:20:44.208Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -335,7 +335,7 @@
       "min": 3,
       "avg": 12,
       "max": 12,
-      "_count": 102
+      "_count": 103
     }
   ],
   "players": [
@@ -1160,12 +1160,12 @@
     {
       "uuid": "",
       "username": "mizuki16411",
-      "lastSeen": "2026-07-24T00:18:25.431Z",
-      "totalPlayHours": 285.9,
-      "playHoursToday": 2.4,
-      "playHoursLast7Days": 53.4,
+      "lastSeen": "2026-07-24T00:20:44.208Z",
+      "totalPlayHours": 286,
+      "playHoursToday": 2.45,
+      "playHoursLast7Days": 53.5,
       "playHoursLast30Days": 237.9,
-      "playHoursLast90Days": 285.9,
+      "playHoursLast90Days": 286,
       "_playDates": {
         "2026-06-07": 7.656,
         "2026-06-08": 9.042,
@@ -1205,7 +1205,7 @@
         "2026-07-21": 19.362,
         "2026-07-22": 9.374,
         "2026-07-23": 11.695,
-        "2026-07-24": 2.4
+        "2026-07-24": 2.45
       }
     },
     {
@@ -13823,10 +13823,10 @@
     {
       "uuid": "",
       "username": "hulk234",
-      "lastSeen": "2026-07-24T00:18:25.431Z",
+      "lastSeen": "2026-07-24T00:20:44.208Z",
       "totalPlayHours": 652,
-      "playHoursToday": 5.1,
-      "playHoursLast7Days": 128.5,
+      "playHoursToday": 5.15,
+      "playHoursLast7Days": 128.6,
       "playHoursLast30Days": 585.4,
       "playHoursLast90Days": 652,
       "_playDates": {
@@ -13872,7 +13872,7 @@
         "2026-07-21": 21.95,
         "2026-07-22": 25.35,
         "2026-07-23": 20.95,
-        "2026-07-24": 5.1
+        "2026-07-24": 5.15
       }
     },
     {
@@ -22164,11 +22164,11 @@
     {
       "uuid": "",
       "username": "MaminKladMen",
-      "lastSeen": "2026-07-24T00:18:25.431Z",
+      "lastSeen": "2026-07-24T00:20:44.208Z",
       "totalPlayHours": 87,
-      "playHoursToday": 3.35,
+      "playHoursToday": 3.4,
       "playHoursLast7Days": 69.6,
-      "playHoursLast30Days": 86.9,
+      "playHoursLast30Days": 87,
       "playHoursLast90Days": 87,
       "_playDates": {
         "2026-06-21": 0.05,
@@ -22190,7 +22190,7 @@
         "2026-07-21": 7.812,
         "2026-07-22": 9.5,
         "2026-07-23": 8.695,
-        "2026-07-24": 3.35
+        "2026-07-24": 3.4
       }
     },
     {
@@ -35127,12 +35127,12 @@
     {
       "uuid": "",
       "username": "Methranome",
-      "lastSeen": "2026-07-24T00:18:25.431Z",
-      "totalPlayHours": 41.4,
-      "playHoursToday": 3.2,
-      "playHoursLast7Days": 23.9,
-      "playHoursLast30Days": 41.4,
-      "playHoursLast90Days": 41.4,
+      "lastSeen": "2026-07-24T00:20:44.208Z",
+      "totalPlayHours": 41.5,
+      "playHoursToday": 3.25,
+      "playHoursLast7Days": 24,
+      "playHoursLast30Days": 41.5,
+      "playHoursLast90Days": 41.5,
       "_playDates": {
         "2026-07-14": 1.852,
         "2026-07-15": 7.605,
@@ -35143,7 +35143,7 @@
         "2026-07-21": 5.912,
         "2026-07-22": 0.15,
         "2026-07-23": 2.75,
-        "2026-07-24": 3.2
+        "2026-07-24": 3.25
       }
     },
     {
@@ -40430,15 +40430,15 @@
     {
       "uuid": "",
       "username": "MrHahatun",
-      "lastSeen": "2026-07-24T00:18:25.431Z",
+      "lastSeen": "2026-07-24T00:20:44.208Z",
       "totalPlayHours": 6.1,
-      "playHoursToday": 3.35,
+      "playHoursToday": 3.4,
       "playHoursLast7Days": 6.1,
       "playHoursLast30Days": 6.1,
       "playHoursLast90Days": 6.1,
       "_playDates": {
         "2026-07-23": 2.7,
-        "2026-07-24": 3.35
+        "2026-07-24": 3.4
       }
     },
     {
@@ -41054,10 +41054,6 @@
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-07-23T00:20:41.471Z",
-      "playersOnline": 0
-    },
     {
       "timestamp": "2026-07-23T00:22:26.685Z",
       "playersOnline": 0
@@ -43976,6 +43972,10 @@
     },
     {
       "timestamp": "2026-07-24T00:18:25.431Z",
+      "playersOnline": 5
+    },
+    {
+      "timestamp": "2026-07-24T00:20:44.208Z",
       "playersOnline": 5
     }
   ]
