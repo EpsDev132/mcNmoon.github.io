@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-25T15:40:40.348Z",
+  "lastUpdated": "2026-07-25T15:42:25.973Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -342,7 +342,7 @@
       "min": 0,
       "avg": 10,
       "max": 48,
-      "_count": 568
+      "_count": 569
     }
   ],
   "players": [
@@ -2270,11 +2270,11 @@
     {
       "uuid": "",
       "username": "Fredbear_8795",
-      "lastSeen": "2026-07-25T15:40:40.348Z",
+      "lastSeen": "2026-07-25T15:42:25.973Z",
       "totalPlayHours": 321.3,
-      "playHoursToday": 0.05,
+      "playHoursToday": 0.1,
       "playHoursLast7Days": 0.8,
-      "playHoursLast30Days": 86.3,
+      "playHoursLast30Days": 86.4,
       "playHoursLast90Days": 321.3,
       "_playDates": {
         "2026-06-07": 8.56,
@@ -2323,7 +2323,7 @@
         "2026-07-22": 0.1,
         "2026-07-23": 0.15,
         "2026-07-24": 0.25,
-        "2026-07-25": 0.05
+        "2026-07-25": 0.1
       }
     },
     {
@@ -9837,9 +9837,9 @@
     {
       "uuid": "",
       "username": "Xrencgor",
-      "lastSeen": "2026-07-25T15:36:24.452Z",
+      "lastSeen": "2026-07-25T15:42:25.973Z",
       "totalPlayHours": 110,
-      "playHoursToday": 6.2,
+      "playHoursToday": 6.25,
       "playHoursLast7Days": 30.5,
       "playHoursLast30Days": 84.6,
       "playHoursLast90Days": 110,
@@ -9861,7 +9861,7 @@
         "2026-07-19": 11.05,
         "2026-07-20": 6.744,
         "2026-07-21": 6.5,
-        "2026-07-25": 6.2
+        "2026-07-25": 6.25
       }
     },
     {
@@ -42281,14 +42281,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-07-24T15:40:40.929Z",
-      "playersOnline": 43
-    },
-    {
-      "timestamp": "2026-07-24T15:42:25.496Z",
-      "playersOnline": 45
-    },
-    {
       "timestamp": "2026-07-24T15:44:29.198Z",
       "playersOnline": 42
     },
@@ -45183,6 +45175,10 @@
     {
       "timestamp": "2026-07-25T15:40:40.348Z",
       "playersOnline": 0
+    },
+    {
+      "timestamp": "2026-07-25T15:42:25.973Z",
+      "playersOnline": 2
     }
   ]
 }
