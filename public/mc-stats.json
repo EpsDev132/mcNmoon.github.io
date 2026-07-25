@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-25T15:44:26.246Z",
+  "lastUpdated": "2026-07-25T15:46:23.419Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -342,7 +342,7 @@
       "min": 0,
       "avg": 10,
       "max": 48,
-      "_count": 570
+      "_count": 571
     }
   ],
   "players": [
@@ -42277,13 +42277,22 @@
       "_playDates": {
         "2026-07-25": 0.05
       }
+    },
+    {
+      "uuid": "",
+      "username": "deha_velikyi",
+      "lastSeen": "2026-07-25T15:46:23.419Z",
+      "totalPlayHours": 0.1,
+      "playHoursToday": 0.05,
+      "playHoursLast7Days": 0.1,
+      "playHoursLast30Days": 0.1,
+      "playHoursLast90Days": 0.1,
+      "_playDates": {
+        "2026-07-25": 0.05
+      }
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-07-24T15:44:29.198Z",
-      "playersOnline": 42
-    },
     {
       "timestamp": "2026-07-24T15:46:28.675Z",
       "playersOnline": 40
@@ -45183,6 +45192,10 @@
     {
       "timestamp": "2026-07-25T15:44:26.246Z",
       "playersOnline": 0
+    },
+    {
+      "timestamp": "2026-07-25T15:46:23.419Z",
+      "playersOnline": 1
     }
   ]
 }
