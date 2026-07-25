@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-25T14:42:26.196Z",
+  "lastUpdated": "2026-07-25T14:44:25.900Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -342,7 +342,7 @@
       "min": 0,
       "avg": 10,
       "max": 48,
-      "_count": 538
+      "_count": 539
     }
   ],
   "players": [
@@ -36387,12 +36387,12 @@
     {
       "uuid": "",
       "username": "prison_kletka",
-      "lastSeen": "2026-07-25T14:34:23.831Z",
-      "totalPlayHours": 49,
-      "playHoursToday": 7.5,
+      "lastSeen": "2026-07-25T14:44:25.900Z",
+      "totalPlayHours": 49.1,
+      "playHoursToday": 7.55,
       "playHoursLast7Days": 47.3,
-      "playHoursLast30Days": 49,
-      "playHoursLast90Days": 49,
+      "playHoursLast30Days": 49.1,
+      "playHoursLast90Days": 49.1,
       "_playDates": {
         "2026-07-15": 1.701,
         "2026-07-20": 8.85,
@@ -36400,7 +36400,7 @@
         "2026-07-22": 6.4,
         "2026-07-23": 16.75,
         "2026-07-24": 7,
-        "2026-07-25": 7.5
+        "2026-07-25": 7.55
       }
     },
     {
@@ -42266,10 +42266,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-07-24T14:42:27.212Z",
-      "playersOnline": 36
-    },
-    {
       "timestamp": "2026-07-24T14:44:26.395Z",
       "playersOnline": 36
     },
@@ -45168,6 +45164,10 @@
     {
       "timestamp": "2026-07-25T14:42:26.196Z",
       "playersOnline": 0
+    },
+    {
+      "timestamp": "2026-07-25T14:44:25.900Z",
+      "playersOnline": 1
     }
   ]
 }
