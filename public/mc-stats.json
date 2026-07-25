@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-25T04:04:25.981Z",
+  "lastUpdated": "2026-07-25T04:06:26.272Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -342,7 +342,7 @@
       "min": 0,
       "avg": 10,
       "max": 10,
-      "_count": 215
+      "_count": 216
     }
   ],
   "players": [
@@ -18512,10 +18512,10 @@
     {
       "uuid": "",
       "username": "faral7",
-      "lastSeen": "2026-07-25T04:04:25.981Z",
+      "lastSeen": "2026-07-25T04:06:26.272Z",
       "totalPlayHours": 245.1,
-      "playHoursToday": 0.3,
-      "playHoursLast7Days": 29.9,
+      "playHoursToday": 0.35,
+      "playHoursLast7Days": 30,
       "playHoursLast30Days": 173.9,
       "playHoursLast90Days": 245.1,
       "_playDates": {
@@ -18544,7 +18544,7 @@
         "2026-07-19": 13.3,
         "2026-07-20": 9.25,
         "2026-07-24": 7.094,
-        "2026-07-25": 0.3
+        "2026-07-25": 0.35
       }
     },
     {
@@ -41809,10 +41809,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-07-24T04:06:25.470Z",
-      "playersOnline": 4
-    },
-    {
       "timestamp": "2026-07-24T04:08:25.176Z",
       "playersOnline": 5
     },
@@ -44711,6 +44707,10 @@
     {
       "timestamp": "2026-07-25T04:04:25.981Z",
       "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-07-25T04:06:26.272Z",
+      "playersOnline": 1
     }
   ]
 }
