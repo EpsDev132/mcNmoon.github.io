@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-25T03:58:26.875Z",
+  "lastUpdated": "2026-07-25T04:01:00.150Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -342,7 +342,7 @@
       "min": 0,
       "avg": 10,
       "max": 10,
-      "_count": 212
+      "_count": 213
     }
   ],
   "players": [
@@ -7016,12 +7016,12 @@
     {
       "uuid": "",
       "username": "DenisAndSergey",
-      "lastSeen": "2026-07-25T03:58:26.875Z",
-      "totalPlayHours": 167.2,
-      "playHoursToday": 1.15,
-      "playHoursLast7Days": 20.5,
-      "playHoursLast30Days": 65.3,
-      "playHoursLast90Days": 167.2,
+      "lastSeen": "2026-07-25T04:01:00.150Z",
+      "totalPlayHours": 167.3,
+      "playHoursToday": 1.2,
+      "playHoursLast7Days": 20.6,
+      "playHoursLast30Days": 65.4,
+      "playHoursLast90Days": 167.3,
       "_playDates": {
         "2026-06-08": 5.757,
         "2026-06-09": 5.303,
@@ -7054,7 +7054,7 @@
         "2026-07-20": 11.45,
         "2026-07-21": 1.4,
         "2026-07-24": 1.85,
-        "2026-07-25": 1.15
+        "2026-07-25": 1.2
       }
     },
     {
@@ -18512,12 +18512,12 @@
     {
       "uuid": "",
       "username": "faral7",
-      "lastSeen": "2026-07-25T03:58:26.875Z",
-      "totalPlayHours": 244.9,
-      "playHoursToday": 0.15,
+      "lastSeen": "2026-07-25T04:01:00.150Z",
+      "totalPlayHours": 245,
+      "playHoursToday": 0.2,
       "playHoursLast7Days": 29.8,
-      "playHoursLast30Days": 173.7,
-      "playHoursLast90Days": 244.9,
+      "playHoursLast30Days": 173.8,
+      "playHoursLast90Days": 245,
       "_playDates": {
         "2026-06-16": 7.767,
         "2026-06-17": 7.95,
@@ -18544,7 +18544,7 @@
         "2026-07-19": 13.3,
         "2026-07-20": 9.25,
         "2026-07-24": 7.094,
-        "2026-07-25": 0.15
+        "2026-07-25": 0.2
       }
     },
     {
@@ -44711,6 +44711,10 @@
     {
       "timestamp": "2026-07-25T03:58:26.875Z",
       "playersOnline": 3
+    },
+    {
+      "timestamp": "2026-07-25T04:01:00.150Z",
+      "playersOnline": 2
     }
   ]
 }
