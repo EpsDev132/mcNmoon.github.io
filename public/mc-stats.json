@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-25T04:20:37.549Z",
+  "lastUpdated": "2026-07-25T04:22:28.314Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -342,7 +342,7 @@
       "min": 0,
       "avg": 10,
       "max": 10,
-      "_count": 223
+      "_count": 224
     }
   ],
   "players": [
@@ -3713,10 +3713,10 @@
     {
       "uuid": "",
       "username": "OmegaTemmie",
-      "lastSeen": "2026-07-24T14:20:40.447Z",
+      "lastSeen": "2026-07-25T04:22:28.314Z",
       "totalPlayHours": 170.6,
-      "playHoursToday": 0,
-      "playHoursLast7Days": 35.1,
+      "playHoursToday": 0.05,
+      "playHoursLast7Days": 35.2,
       "playHoursLast30Days": 108.5,
       "playHoursLast90Days": 170.6,
       "_playDates": {
@@ -3759,7 +3759,8 @@
         "2026-07-21": 10.3,
         "2026-07-22": 6.95,
         "2026-07-23": 10.2,
-        "2026-07-24": 7.651
+        "2026-07-24": 7.651,
+        "2026-07-25": 0.05
       }
     },
     {
@@ -41809,14 +41810,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-07-24T04:20:40.093Z",
-      "playersOnline": 7
-    },
-    {
-      "timestamp": "2026-07-24T04:22:26.488Z",
-      "playersOnline": 6
-    },
-    {
       "timestamp": "2026-07-24T04:24:24.105Z",
       "playersOnline": 6
     },
@@ -44711,6 +44704,10 @@
     {
       "timestamp": "2026-07-25T04:20:37.549Z",
       "playersOnline": 0
+    },
+    {
+      "timestamp": "2026-07-25T04:22:28.314Z",
+      "playersOnline": 1
     }
   ]
 }
