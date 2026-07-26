@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-26T01:34:26.748Z",
+  "lastUpdated": "2026-07-26T01:36:27.338Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -349,7 +349,7 @@
       "min": 0,
       "avg": 16,
       "max": 16,
-      "_count": 141
+      "_count": 142
     }
   ],
   "players": [
@@ -42561,22 +42561,18 @@
     {
       "uuid": "",
       "username": "Artemy_Krest",
-      "lastSeen": "2026-07-26T01:34:26.748Z",
-      "totalPlayHours": 1.5,
-      "playHoursToday": 1.5,
-      "playHoursLast7Days": 1.5,
-      "playHoursLast30Days": 1.5,
-      "playHoursLast90Days": 1.5,
+      "lastSeen": "2026-07-26T01:36:27.338Z",
+      "totalPlayHours": 1.6,
+      "playHoursToday": 1.55,
+      "playHoursLast7Days": 1.6,
+      "playHoursLast30Days": 1.6,
+      "playHoursLast90Days": 1.6,
       "_playDates": {
-        "2026-07-26": 1.5
+        "2026-07-26": 1.55
       }
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-07-25T01:36:24.643Z",
-      "playersOnline": 3
-    },
     {
       "timestamp": "2026-07-25T01:38:24.479Z",
       "playersOnline": 3
@@ -45495,6 +45491,10 @@
     },
     {
       "timestamp": "2026-07-26T01:34:26.748Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-07-26T01:36:27.338Z",
       "playersOnline": 1
     }
   ]
