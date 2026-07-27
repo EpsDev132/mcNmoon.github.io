@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-27T22:34:30.372Z",
+  "lastUpdated": "2026-07-27T22:36:36.154Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -363,7 +363,7 @@
       "min": 1,
       "avg": 7,
       "max": 9,
-      "_count": 49
+      "_count": 50
     }
   ],
   "players": [
@@ -9992,12 +9992,12 @@
     {
       "uuid": "",
       "username": "Xrencgor",
-      "lastSeen": "2026-07-27T22:34:30.372Z",
-      "totalPlayHours": 123.3,
-      "playHoursToday": 0.8,
+      "lastSeen": "2026-07-27T22:36:36.154Z",
+      "totalPlayHours": 123.4,
+      "playHoursToday": 0.85,
       "playHoursLast7Days": 26.1,
-      "playHoursLast30Days": 97.9,
-      "playHoursLast90Days": 123.3,
+      "playHoursLast30Days": 98,
+      "playHoursLast90Days": 123.4,
       "_playDates": {
         "2026-06-08": 3.75,
         "2026-06-09": 6.25,
@@ -10019,7 +10019,7 @@
         "2026-07-25": 6.25,
         "2026-07-26": 8.15,
         "2026-07-27": 4.35,
-        "2026-07-28": 0.8
+        "2026-07-28": 0.85
       }
     },
     {
@@ -40859,16 +40859,16 @@
     {
       "uuid": "",
       "username": "finik5667",
-      "lastSeen": "2026-07-27T22:34:30.372Z",
+      "lastSeen": "2026-07-27T22:36:36.154Z",
       "totalPlayHours": 3.3,
-      "playHoursToday": 1.7,
+      "playHoursToday": 1.75,
       "playHoursLast7Days": 3.3,
       "playHoursLast30Days": 3.3,
       "playHoursLast90Days": 3.3,
       "_playDates": {
         "2026-07-22": 1.512,
         "2026-07-27": 0.05,
-        "2026-07-28": 1.7
+        "2026-07-28": 1.75
       }
     },
     {
@@ -43820,10 +43820,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-07-26T22:36:24.664Z",
-      "playersOnline": 4
-    },
-    {
       "timestamp": "2026-07-26T22:38:23.236Z",
       "playersOnline": 4
     },
@@ -46721,6 +46717,10 @@
     },
     {
       "timestamp": "2026-07-27T22:34:30.372Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-07-27T22:36:36.154Z",
       "playersOnline": 2
     }
   ]
