@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-27T22:04:25.606Z",
+  "lastUpdated": "2026-07-27T22:06:26.358Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -363,7 +363,7 @@
       "min": 1,
       "avg": 7,
       "max": 9,
-      "_count": 34
+      "_count": 35
     }
   ],
   "players": [
@@ -15570,12 +15570,12 @@
     {
       "uuid": "",
       "username": "SleepIsLife",
-      "lastSeen": "2026-07-27T22:04:25.606Z",
-      "totalPlayHours": 460.7,
-      "playHoursToday": 0.75,
-      "playHoursLast7Days": 45.1,
+      "lastSeen": "2026-07-27T22:06:26.358Z",
+      "totalPlayHours": 460.8,
+      "playHoursToday": 0.8,
+      "playHoursLast7Days": 45.2,
       "playHoursLast30Days": 354.5,
-      "playHoursLast90Days": 460.7,
+      "playHoursLast90Days": 460.8,
       "_playDates": {
         "2026-06-12": 7,
         "2026-06-13": 8.25,
@@ -15620,7 +15620,7 @@
         "2026-07-25": 2.8,
         "2026-07-26": 12.35,
         "2026-07-27": 12.65,
-        "2026-07-28": 0.75
+        "2026-07-28": 0.8
       }
     },
     {
@@ -40859,16 +40859,16 @@
     {
       "uuid": "",
       "username": "finik5667",
-      "lastSeen": "2026-07-27T22:02:24.380Z",
-      "totalPlayHours": 2.5,
-      "playHoursToday": 0.95,
-      "playHoursLast7Days": 2.5,
-      "playHoursLast30Days": 2.5,
-      "playHoursLast90Days": 2.5,
+      "lastSeen": "2026-07-27T22:06:26.358Z",
+      "totalPlayHours": 2.6,
+      "playHoursToday": 1,
+      "playHoursLast7Days": 2.6,
+      "playHoursLast30Days": 2.6,
+      "playHoursLast90Days": 2.6,
       "_playDates": {
         "2026-07-22": 1.512,
         "2026-07-27": 0.05,
-        "2026-07-28": 0.95
+        "2026-07-28": 1
       }
     },
     {
@@ -46721,6 +46721,10 @@
     {
       "timestamp": "2026-07-27T22:04:25.606Z",
       "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-07-27T22:06:26.358Z",
+      "playersOnline": 2
     }
   ]
 }
