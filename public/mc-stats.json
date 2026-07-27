@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-27T02:24:25.511Z",
+  "lastUpdated": "2026-07-27T02:26:26.397Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -356,7 +356,7 @@
       "min": 1,
       "avg": 15,
       "max": 16,
-      "_count": 164
+      "_count": 165
     }
   ],
   "players": [
@@ -2557,10 +2557,10 @@
     {
       "uuid": "",
       "username": "NixOne",
-      "lastSeen": "2026-07-27T02:24:25.511Z",
+      "lastSeen": "2026-07-27T02:26:26.397Z",
       "totalPlayHours": 116.6,
-      "playHoursToday": 1.65,
-      "playHoursLast7Days": 29,
+      "playHoursToday": 1.7,
+      "playHoursLast7Days": 29.1,
       "playHoursLast30Days": 38.8,
       "playHoursLast90Days": 116.6,
       "_playDates": {
@@ -2590,7 +2590,7 @@
         "2026-07-23": 7.15,
         "2026-07-24": 1.45,
         "2026-07-25": 5.8,
-        "2026-07-27": 1.65
+        "2026-07-27": 1.7
       }
     },
     {
@@ -14066,11 +14066,11 @@
     {
       "uuid": "",
       "username": "hulk234",
-      "lastSeen": "2026-07-27T02:24:25.511Z",
+      "lastSeen": "2026-07-27T02:26:26.397Z",
       "totalPlayHours": 722.5,
-      "playHoursToday": 8.2,
+      "playHoursToday": 8.25,
       "playHoursLast7Days": 143.9,
-      "playHoursLast30Days": 587.6,
+      "playHoursLast30Days": 587.7,
       "playHoursLast90Days": 722.5,
       "_playDates": {
         "2026-06-11": 3.85,
@@ -14118,7 +14118,7 @@
         "2026-07-24": 35.509,
         "2026-07-25": 10.9,
         "2026-07-26": 21.021,
-        "2026-07-27": 8.2
+        "2026-07-27": 8.25
       }
     },
     {
@@ -43179,10 +43179,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-07-26T02:26:25.134Z",
-      "playersOnline": 0
-    },
-    {
       "timestamp": "2026-07-26T02:28:25.845Z",
       "playersOnline": 0
     },
@@ -46092,6 +46088,10 @@
     },
     {
       "timestamp": "2026-07-27T02:24:25.511Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-07-27T02:26:26.397Z",
       "playersOnline": 2
     }
   ]
