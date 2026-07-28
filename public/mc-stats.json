@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-28T02:42:26.182Z",
+  "lastUpdated": "2026-07-28T02:44:25.560Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -363,7 +363,7 @@
       "min": 0,
       "avg": 7,
       "max": 9,
-      "_count": 175
+      "_count": 176
     }
   ],
   "players": [
@@ -42756,9 +42756,9 @@
     {
       "uuid": "",
       "username": "Phiercy",
-      "lastSeen": "2026-07-28T02:42:26.182Z",
+      "lastSeen": "2026-07-28T02:44:25.560Z",
       "totalPlayHours": 21.9,
-      "playHoursToday": 0.95,
+      "playHoursToday": 1,
       "playHoursLast7Days": 21.9,
       "playHoursLast30Days": 21.9,
       "playHoursLast90Days": 21.9,
@@ -42766,7 +42766,7 @@
         "2026-07-25": 5.4,
         "2026-07-26": 12.25,
         "2026-07-27": 3.3,
-        "2026-07-28": 0.95
+        "2026-07-28": 1
       }
     },
     {
@@ -46742,6 +46742,10 @@
     },
     {
       "timestamp": "2026-07-28T02:42:26.182Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-07-28T02:44:25.560Z",
       "playersOnline": 1
     }
   ]
