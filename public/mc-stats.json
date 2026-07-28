@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-28T07:04:32.781Z",
+  "lastUpdated": "2026-07-28T07:06:25.631Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -363,7 +363,7 @@
       "min": 0,
       "avg": 7,
       "max": 9,
-      "_count": 308
+      "_count": 309
     }
   ],
   "players": [
@@ -18506,12 +18506,12 @@
     {
       "uuid": "",
       "username": "AntiMartir",
-      "lastSeen": "2026-07-28T04:36:27.037Z",
-      "totalPlayHours": 84.6,
-      "playHoursToday": 0.25,
+      "lastSeen": "2026-07-28T07:06:25.631Z",
+      "totalPlayHours": 84.7,
+      "playHoursToday": 0.3,
       "playHoursLast7Days": 23.1,
-      "playHoursLast30Days": 70.7,
-      "playHoursLast90Days": 84.6,
+      "playHoursLast30Days": 70.8,
+      "playHoursLast90Days": 84.7,
       "_playDates": {
         "2026-06-15": 5.036,
         "2026-06-16": 1.75,
@@ -18545,7 +18545,7 @@
         "2026-07-24": 8.6,
         "2026-07-25": 5.65,
         "2026-07-26": 2.05,
-        "2026-07-28": 0.25
+        "2026-07-28": 0.3
       }
     },
     {
@@ -46783,6 +46783,10 @@
     {
       "timestamp": "2026-07-28T07:04:32.781Z",
       "playersOnline": 0
+    },
+    {
+      "timestamp": "2026-07-28T07:06:25.631Z",
+      "playersOnline": 1
     }
   ]
 }
