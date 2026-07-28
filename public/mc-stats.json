@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-28T07:01:09.143Z",
+  "lastUpdated": "2026-07-28T07:02:29.474Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -363,7 +363,7 @@
       "min": 0,
       "avg": 7,
       "max": 9,
-      "_count": 306
+      "_count": 307
     }
   ],
   "players": [
@@ -1787,10 +1787,10 @@
     {
       "uuid": "",
       "username": "Anatolik_stolik",
-      "lastSeen": "2026-07-27T18:48:27.146Z",
+      "lastSeen": "2026-07-28T07:02:29.474Z",
       "totalPlayHours": 287.8,
-      "playHoursToday": 0,
-      "playHoursLast7Days": 21.4,
+      "playHoursToday": 0.05,
+      "playHoursLast7Days": 21.5,
       "playHoursLast30Days": 138.4,
       "playHoursLast90Days": 287.8,
       "_playDates": {
@@ -1840,7 +1840,8 @@
         "2026-07-24": 4.2,
         "2026-07-25": 5.45,
         "2026-07-26": 8.75,
-        "2026-07-27": 1.6
+        "2026-07-27": 1.6,
+        "2026-07-28": 0.05
       }
     },
     {
@@ -43872,10 +43873,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-07-27T07:02:27.268Z",
-      "playersOnline": 23
-    },
-    {
       "timestamp": "2026-07-27T07:04:26.609Z",
       "playersOnline": 23
     },
@@ -46782,6 +46779,10 @@
     {
       "timestamp": "2026-07-28T07:01:09.143Z",
       "playersOnline": 0
+    },
+    {
+      "timestamp": "2026-07-28T07:02:29.474Z",
+      "playersOnline": 1
     }
   ]
 }
