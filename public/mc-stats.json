@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-29T23:24:32.753Z",
+  "lastUpdated": "2026-07-29T23:26:25.167Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -377,7 +377,7 @@
       "min": 0,
       "avg": 8,
       "max": 9,
-      "_count": 75
+      "_count": 76
     }
   ],
   "players": [
@@ -35954,10 +35954,10 @@
     {
       "uuid": "",
       "username": "Methranome",
-      "lastSeen": "2026-07-29T20:04:30.376Z",
+      "lastSeen": "2026-07-29T23:26:25.167Z",
       "totalPlayHours": 103,
-      "playHoursToday": 0,
-      "playHoursLast7Days": 67.5,
+      "playHoursToday": 0.05,
+      "playHoursLast7Days": 67.6,
       "playHoursLast30Days": 103,
       "playHoursLast90Days": 103,
       "_playDates": {
@@ -35975,7 +35975,8 @@
         "2026-07-26": 7.65,
         "2026-07-27": 7.55,
         "2026-07-28": 8.6,
-        "2026-07-29": 20.45
+        "2026-07-29": 20.45,
+        "2026-07-30": 0.05
       }
     },
     {
@@ -48176,6 +48177,10 @@
     {
       "timestamp": "2026-07-29T23:24:32.753Z",
       "playersOnline": 0
+    },
+    {
+      "timestamp": "2026-07-29T23:26:25.167Z",
+      "playersOnline": 1
     }
   ]
 }
