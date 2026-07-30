@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-30T00:52:30.474Z",
+  "lastUpdated": "2026-07-30T00:54:23.812Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -377,7 +377,7 @@
       "min": 0,
       "avg": 8,
       "max": 9,
-      "_count": 120
+      "_count": 121
     }
   ],
   "players": [
@@ -41199,18 +41199,18 @@
     {
       "uuid": "",
       "username": "finik5667",
-      "lastSeen": "2026-07-30T00:52:30.474Z",
-      "totalPlayHours": 16.7,
-      "playHoursToday": 0.1,
-      "playHoursLast7Days": 15.2,
-      "playHoursLast30Days": 16.7,
-      "playHoursLast90Days": 16.7,
+      "lastSeen": "2026-07-30T00:54:23.812Z",
+      "totalPlayHours": 16.8,
+      "playHoursToday": 0.15,
+      "playHoursLast7Days": 15.3,
+      "playHoursLast30Days": 16.8,
+      "playHoursLast90Days": 16.8,
       "_playDates": {
         "2026-07-22": 1.512,
         "2026-07-27": 0.05,
         "2026-07-28": 8,
         "2026-07-29": 7.05,
-        "2026-07-30": 0.1
+        "2026-07-30": 0.15
       }
     },
     {
@@ -45274,10 +45274,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-07-29T00:52:32.378Z",
-      "playersOnline": 3
-    },
-    {
       "timestamp": "2026-07-29T00:54:30.311Z",
       "playersOnline": 3
     },
@@ -48199,6 +48195,10 @@
     },
     {
       "timestamp": "2026-07-30T00:52:30.474Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-07-30T00:54:23.812Z",
       "playersOnline": 1
     }
   ]
