@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-30T01:22:25.795Z",
+  "lastUpdated": "2026-07-30T01:24:27.932Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -377,7 +377,7 @@
       "min": 0,
       "avg": 8,
       "max": 9,
-      "_count": 135
+      "_count": 136
     }
   ],
   "players": [
@@ -40859,16 +40859,16 @@
     {
       "uuid": "",
       "username": "timoxa16",
-      "lastSeen": "2026-07-30T01:22:25.795Z",
+      "lastSeen": "2026-07-30T01:24:27.932Z",
       "totalPlayHours": 0.3,
-      "playHoursToday": 0.15,
-      "playHoursLast7Days": 0.2,
+      "playHoursToday": 0.2,
+      "playHoursLast7Days": 0.3,
       "playHoursLast30Days": 0.3,
       "playHoursLast90Days": 0.3,
       "_playDates": {
         "2026-07-22": 0.05,
         "2026-07-24": 0.05,
-        "2026-07-30": 0.15
+        "2026-07-30": 0.2
       }
     },
     {
@@ -45290,14 +45290,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-07-29T01:22:29.908Z",
-      "playersOnline": 1
-    },
-    {
-      "timestamp": "2026-07-29T01:24:23.127Z",
-      "playersOnline": 1
-    },
-    {
       "timestamp": "2026-07-29T01:26:29.450Z",
       "playersOnline": 1
     },
@@ -48211,6 +48203,10 @@
     },
     {
       "timestamp": "2026-07-30T01:22:25.795Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-07-30T01:24:27.932Z",
       "playersOnline": 1
     }
   ]
