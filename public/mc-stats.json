@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-30T02:38:25.862Z",
+  "lastUpdated": "2026-07-30T02:40:41.562Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -377,7 +377,7 @@
       "min": 0,
       "avg": 8,
       "max": 9,
-      "_count": 173
+      "_count": 174
     }
   ],
   "players": [
@@ -29622,9 +29622,9 @@
     {
       "uuid": "",
       "username": "Tankman2007",
-      "lastSeen": "2026-07-30T02:38:25.862Z",
+      "lastSeen": "2026-07-30T02:40:41.562Z",
       "totalPlayHours": 181.9,
-      "playHoursToday": 1.2,
+      "playHoursToday": 1.25,
       "playHoursLast7Days": 93,
       "playHoursLast30Days": 181.9,
       "playHoursLast90Days": 181.9,
@@ -29647,7 +29647,7 @@
         "2026-07-27": 12.45,
         "2026-07-28": 16.4,
         "2026-07-29": 10.753,
-        "2026-07-30": 1.2
+        "2026-07-30": 1.25
       }
     },
     {
@@ -44762,15 +44762,15 @@
     {
       "uuid": "",
       "username": "JesterGoingCrazy",
-      "lastSeen": "2026-07-30T02:38:25.862Z",
-      "totalPlayHours": 2.9,
-      "playHoursToday": 0.65,
-      "playHoursLast7Days": 2.9,
-      "playHoursLast30Days": 2.9,
-      "playHoursLast90Days": 2.9,
+      "lastSeen": "2026-07-30T02:40:41.562Z",
+      "totalPlayHours": 3,
+      "playHoursToday": 0.7,
+      "playHoursLast7Days": 3,
+      "playHoursLast30Days": 3,
+      "playHoursLast90Days": 3,
       "_playDates": {
         "2026-07-29": 2.3,
-        "2026-07-30": 0.65
+        "2026-07-30": 0.7
       }
     },
     {
@@ -45296,14 +45296,6 @@
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-07-29T02:38:26.349Z",
-      "playersOnline": 4
-    },
-    {
-      "timestamp": "2026-07-29T02:40:38.741Z",
-      "playersOnline": 2
-    },
     {
       "timestamp": "2026-07-29T02:42:26.874Z",
       "playersOnline": 3
@@ -48219,6 +48211,10 @@
     {
       "timestamp": "2026-07-30T02:38:25.862Z",
       "playersOnline": 3
+    },
+    {
+      "timestamp": "2026-07-30T02:40:41.562Z",
+      "playersOnline": 2
     }
   ]
 }
