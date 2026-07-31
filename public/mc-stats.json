@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-07-31T23:32:24.055Z",
+  "lastUpdated": "2026-07-31T23:34:23.852Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -391,7 +391,7 @@
       "min": 0,
       "avg": 20,
       "max": 22,
-      "_count": 76
+      "_count": 77
     }
   ],
   "players": [
@@ -44969,9 +44969,9 @@
     {
       "uuid": "",
       "username": "KbUkraine",
-      "lastSeen": "2026-07-31T23:32:24.055Z",
+      "lastSeen": "2026-07-31T23:34:23.852Z",
       "totalPlayHours": 44.5,
-      "playHoursToday": 2.65,
+      "playHoursToday": 2.7,
       "playHoursLast7Days": 44.5,
       "playHoursLast30Days": 44.5,
       "playHoursLast90Days": 44.5,
@@ -44980,7 +44980,7 @@
         "2026-07-29": 14.316,
         "2026-07-30": 11.75,
         "2026-07-31": 9.671,
-        "2026-08-01": 2.65
+        "2026-08-01": 2.7
       }
     },
     {
@@ -47172,10 +47172,6 @@
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-07-30T23:32:24.273Z",
-      "playersOnline": 5
-    },
     {
       "timestamp": "2026-07-30T23:34:33.880Z",
       "playersOnline": 6
@@ -50066,6 +50062,10 @@
     },
     {
       "timestamp": "2026-07-31T23:32:24.055Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-07-31T23:34:23.852Z",
       "playersOnline": 1
     }
   ]
