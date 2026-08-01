@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-01T00:34:30.459Z",
+  "lastUpdated": "2026-08-01T00:36:32.514Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -391,7 +391,7 @@
       "min": 0,
       "avg": 20,
       "max": 22,
-      "_count": 108
+      "_count": 109
     }
   ],
   "players": [
@@ -5665,12 +5665,12 @@
     {
       "uuid": "",
       "username": "Andrewix34",
-      "lastSeen": "2026-08-01T00:34:30.459Z",
-      "totalPlayHours": 224.2,
-      "playHoursToday": 0.5,
-      "playHoursLast7Days": 27.1,
+      "lastSeen": "2026-08-01T00:36:32.514Z",
+      "totalPlayHours": 224.3,
+      "playHoursToday": 0.55,
+      "playHoursLast7Days": 27.2,
       "playHoursLast30Days": 109.5,
-      "playHoursLast90Days": 224.2,
+      "playHoursLast90Days": 224.3,
       "_playDates": {
         "2026-06-07": 6.336,
         "2026-06-08": 7.597,
@@ -5712,7 +5712,7 @@
         "2026-07-29": 1.05,
         "2026-07-30": 6.9,
         "2026-07-31": 0.05,
-        "2026-08-01": 0.5
+        "2026-08-01": 0.55
       }
     },
     {
@@ -43476,9 +43476,9 @@
     {
       "uuid": "",
       "username": "Phiercy",
-      "lastSeen": "2026-08-01T00:34:30.459Z",
+      "lastSeen": "2026-08-01T00:36:32.514Z",
       "totalPlayHours": 67,
-      "playHoursToday": 0.45,
+      "playHoursToday": 0.5,
       "playHoursLast7Days": 61.6,
       "playHoursLast30Days": 67,
       "playHoursLast90Days": 67,
@@ -43490,7 +43490,7 @@
         "2026-07-29": 12.9,
         "2026-07-30": 15.15,
         "2026-07-31": 4.45,
-        "2026-08-01": 0.45
+        "2026-08-01": 0.5
       }
     },
     {
@@ -47202,10 +47202,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-07-31T00:36:26.237Z",
-      "playersOnline": 6
-    },
-    {
       "timestamp": "2026-07-31T00:38:25.858Z",
       "playersOnline": 6
     },
@@ -50096,6 +50092,10 @@
     {
       "timestamp": "2026-08-01T00:34:30.459Z",
       "playersOnline": 3
+    },
+    {
+      "timestamp": "2026-08-01T00:36:32.514Z",
+      "playersOnline": 2
     }
   ]
 }
