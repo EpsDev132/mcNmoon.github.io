@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-06T02:12:34.272Z",
+  "lastUpdated": "2026-08-06T02:14:27.425Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -426,7 +426,7 @@
       "min": 0,
       "avg": 23,
       "max": 26,
-      "_count": 159
+      "_count": 160
     }
   ],
   "players": [
@@ -45562,10 +45562,10 @@
     {
       "uuid": "",
       "username": "REMNANT_BioFREDY",
-      "lastSeen": "2026-08-06T02:12:34.272Z",
+      "lastSeen": "2026-08-06T02:14:27.425Z",
       "totalPlayHours": 18.1,
-      "playHoursToday": 0.05,
-      "playHoursLast7Days": 14.5,
+      "playHoursToday": 0.1,
+      "playHoursLast7Days": 14.6,
       "playHoursLast30Days": 18.1,
       "playHoursLast90Days": 18.1,
       "_playDates": {
@@ -45577,7 +45577,7 @@
         "2026-08-02": 6.1,
         "2026-08-03": 3.65,
         "2026-08-05": 0.4,
-        "2026-08-06": 0.05
+        "2026-08-06": 0.1
       }
     },
     {
@@ -54011,10 +54011,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-08-05T02:12:35.945Z",
-      "playersOnline": 1
-    },
-    {
       "timestamp": "2026-08-05T02:14:32.623Z",
       "playersOnline": 1
     },
@@ -56924,6 +56920,10 @@
     },
     {
       "timestamp": "2026-08-06T02:12:34.272Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-08-06T02:14:27.425Z",
       "playersOnline": 1
     }
   ]
