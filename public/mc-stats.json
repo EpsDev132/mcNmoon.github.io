@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-06T02:24:32.629Z",
+  "lastUpdated": "2026-08-06T02:26:31.710Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -426,7 +426,7 @@
       "min": 0,
       "avg": 23,
       "max": 26,
-      "_count": 165
+      "_count": 166
     }
   ],
   "players": [
@@ -7734,10 +7734,10 @@
     {
       "uuid": "",
       "username": "DenisAndSergey",
-      "lastSeen": "2026-08-06T02:24:32.629Z",
+      "lastSeen": "2026-08-06T02:26:31.710Z",
       "totalPlayHours": 233.2,
-      "playHoursToday": 0.05,
-      "playHoursLast7Days": 30.3,
+      "playHoursToday": 0.1,
+      "playHoursLast7Days": 30.4,
       "playHoursLast30Days": 127.9,
       "playHoursLast90Days": 233.2,
       "_playDates": {
@@ -7784,7 +7784,7 @@
         "2026-08-03": 7.15,
         "2026-08-04": 9.45,
         "2026-08-05": 6.2,
-        "2026-08-06": 0.05
+        "2026-08-06": 0.1
       }
     },
     {
@@ -45563,10 +45563,10 @@
     {
       "uuid": "",
       "username": "REMNANT_BioFREDY",
-      "lastSeen": "2026-08-06T02:24:32.629Z",
+      "lastSeen": "2026-08-06T02:26:31.710Z",
       "totalPlayHours": 18.4,
-      "playHoursToday": 0.35,
-      "playHoursLast7Days": 14.8,
+      "playHoursToday": 0.4,
+      "playHoursLast7Days": 14.9,
       "playHoursLast30Days": 18.4,
       "playHoursLast90Days": 18.4,
       "_playDates": {
@@ -45578,7 +45578,7 @@
         "2026-08-02": 6.1,
         "2026-08-03": 3.65,
         "2026-08-05": 0.4,
-        "2026-08-06": 0.35
+        "2026-08-06": 0.4
       }
     },
     {
@@ -54008,6 +54008,19 @@
       "_playDates": {
         "2026-08-06": 0.45
       }
+    },
+    {
+      "uuid": "",
+      "username": "sasharoki",
+      "lastSeen": "2026-08-06T02:26:31.710Z",
+      "totalPlayHours": 0.1,
+      "playHoursToday": 0.05,
+      "playHoursLast7Days": 0.1,
+      "playHoursLast30Days": 0.1,
+      "playHoursLast90Days": 0.1,
+      "_playDates": {
+        "2026-08-06": 0.05
+      }
     }
   ],
   "todayIntervals": [
@@ -56922,6 +56935,10 @@
     {
       "timestamp": "2026-08-06T02:24:32.629Z",
       "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-08-06T02:26:31.710Z",
+      "playersOnline": 3
     }
   ]
 }
