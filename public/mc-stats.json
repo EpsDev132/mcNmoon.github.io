@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-08T01:04:27.275Z",
+  "lastUpdated": "2026-08-08T01:06:25.461Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -440,7 +440,7 @@
       "min": 1,
       "avg": 23,
       "max": 28,
-      "_count": 127
+      "_count": 128
     }
   ],
   "players": [
@@ -2777,12 +2777,12 @@
     {
       "uuid": "",
       "username": "Dimamsem",
-      "lastSeen": "2026-08-08T01:04:27.275Z",
-      "totalPlayHours": 588,
-      "playHoursToday": 0.75,
+      "lastSeen": "2026-08-08T01:06:25.461Z",
+      "totalPlayHours": 588.1,
+      "playHoursToday": 0.8,
       "playHoursLast7Days": 57.5,
       "playHoursLast30Days": 334.4,
-      "playHoursLast90Days": 588,
+      "playHoursLast90Days": 588.1,
       "_playDates": {
         "2026-06-07": 1.943,
         "2026-06-08": 9.818,
@@ -2846,7 +2846,7 @@
         "2026-08-05": 6.6,
         "2026-08-06": 10.997,
         "2026-08-07": 9.433,
-        "2026-08-08": 0.75
+        "2026-08-08": 0.8
       }
     },
     {
@@ -50376,9 +50376,9 @@
     {
       "uuid": "",
       "username": "Freedom_Man13",
-      "lastSeen": "2026-08-08T01:04:27.275Z",
+      "lastSeen": "2026-08-08T01:06:25.461Z",
       "totalPlayHours": 54.5,
-      "playHoursToday": 3.05,
+      "playHoursToday": 3.1,
       "playHoursLast7Days": 54.5,
       "playHoursLast30Days": 54.5,
       "playHoursLast90Days": 54.5,
@@ -50389,7 +50389,7 @@
         "2026-08-05": 15.5,
         "2026-08-06": 0.8,
         "2026-08-07": 9,
-        "2026-08-08": 3.05
+        "2026-08-08": 3.1
       }
     },
     {
@@ -59071,6 +59071,10 @@
     },
     {
       "timestamp": "2026-08-08T01:04:27.275Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-08-08T01:06:25.461Z",
       "playersOnline": 2
     }
   ]
