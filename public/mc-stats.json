@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-09T23:52:28.325Z",
+  "lastUpdated": "2026-08-09T23:54:28.583Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -454,7 +454,7 @@
       "min": 1,
       "avg": 16,
       "max": 17,
-      "_count": 91
+      "_count": 92
     }
   ],
   "players": [
@@ -4859,9 +4859,9 @@
     {
       "uuid": "",
       "username": "PROVANSKIE_TRAVI",
-      "lastSeen": "2026-08-09T23:52:28.325Z",
+      "lastSeen": "2026-08-09T23:54:28.583Z",
       "totalPlayHours": 205.7,
-      "playHoursToday": 1.65,
+      "playHoursToday": 1.7,
       "playHoursLast7Days": 31.8,
       "playHoursLast30Days": 64.8,
       "playHoursLast90Days": 205.7,
@@ -4913,7 +4913,7 @@
         "2026-08-06": 2.85,
         "2026-08-08": 8.1,
         "2026-08-09": 6.25,
-        "2026-08-10": 1.65
+        "2026-08-10": 1.7
       }
     },
     {
@@ -11852,12 +11852,12 @@
     {
       "uuid": "",
       "username": "Building_Tea",
-      "lastSeen": "2026-08-09T23:52:28.325Z",
-      "totalPlayHours": 178,
-      "playHoursToday": 4.45,
-      "playHoursLast7Days": 18.1,
-      "playHoursLast30Days": 82.3,
-      "playHoursLast90Days": 178,
+      "lastSeen": "2026-08-09T23:54:28.583Z",
+      "totalPlayHours": 178.1,
+      "playHoursToday": 4.5,
+      "playHoursLast7Days": 18.2,
+      "playHoursLast30Days": 82.4,
+      "playHoursLast90Days": 178.1,
       "_playDates": {
         "2026-06-09": 0.45,
         "2026-06-10": 3.9,
@@ -11907,7 +11907,7 @@
         "2026-08-06": 1.85,
         "2026-08-07": 3.15,
         "2026-08-08": 0.2,
-        "2026-08-10": 4.45
+        "2026-08-10": 4.5
       }
     },
     {
@@ -53388,9 +53388,9 @@
     {
       "uuid": "",
       "username": "JReedem",
-      "lastSeen": "2026-08-09T23:52:28.325Z",
+      "lastSeen": "2026-08-09T23:54:28.583Z",
       "totalPlayHours": 17.6,
-      "playHoursToday": 2.4,
+      "playHoursToday": 2.45,
       "playHoursLast7Days": 17.6,
       "playHoursLast30Days": 17.6,
       "playHoursLast90Days": 17.6,
@@ -53401,7 +53401,7 @@
         "2026-08-07": 1.1,
         "2026-08-08": 2.15,
         "2026-08-09": 1.95,
-        "2026-08-10": 2.4
+        "2026-08-10": 2.45
       }
     },
     {
@@ -58432,10 +58432,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-08-08T23:54:24.083Z",
-      "playersOnline": 8
-    },
-    {
       "timestamp": "2026-08-08T23:56:27.033Z",
       "playersOnline": 8
     },
@@ -61394,6 +61390,10 @@
     {
       "timestamp": "2026-08-09T23:52:28.325Z",
       "playersOnline": 4
+    },
+    {
+      "timestamp": "2026-08-09T23:54:28.583Z",
+      "playersOnline": 3
     }
   ]
 }
