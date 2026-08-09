@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-09T22:12:27.584Z",
+  "lastUpdated": "2026-08-09T22:14:26.354Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -454,7 +454,7 @@
       "min": 1,
       "avg": 16,
       "max": 17,
-      "_count": 39
+      "_count": 40
     }
   ],
   "players": [
@@ -11851,12 +11851,12 @@
     {
       "uuid": "",
       "username": "Building_Tea",
-      "lastSeen": "2026-08-09T22:12:27.584Z",
-      "totalPlayHours": 175.4,
-      "playHoursToday": 1.85,
-      "playHoursLast7Days": 15.5,
-      "playHoursLast30Days": 79.7,
-      "playHoursLast90Days": 175.4,
+      "lastSeen": "2026-08-09T22:14:26.354Z",
+      "totalPlayHours": 175.5,
+      "playHoursToday": 1.9,
+      "playHoursLast7Days": 15.6,
+      "playHoursLast30Days": 79.8,
+      "playHoursLast90Days": 175.5,
       "_playDates": {
         "2026-06-09": 0.45,
         "2026-06-10": 3.9,
@@ -11906,7 +11906,7 @@
         "2026-08-06": 1.85,
         "2026-08-07": 3.15,
         "2026-08-08": 0.2,
-        "2026-08-10": 1.85
+        "2026-08-10": 1.9
       }
     },
     {
@@ -57153,16 +57153,16 @@
     {
       "uuid": "",
       "username": "DabaGame",
-      "lastSeen": "2026-08-09T22:12:27.584Z",
-      "totalPlayHours": 0.3,
-      "playHoursToday": 0.1,
-      "playHoursLast7Days": 0.3,
-      "playHoursLast30Days": 0.3,
-      "playHoursLast90Days": 0.3,
+      "lastSeen": "2026-08-09T22:14:26.354Z",
+      "totalPlayHours": 0.4,
+      "playHoursToday": 0.15,
+      "playHoursLast7Days": 0.4,
+      "playHoursLast30Days": 0.4,
+      "playHoursLast90Days": 0.4,
       "_playDates": {
         "2026-08-08": 0.2,
         "2026-08-09": 0.05,
-        "2026-08-10": 0.1
+        "2026-08-10": 0.15
       }
     },
     {
@@ -61375,6 +61375,10 @@
     },
     {
       "timestamp": "2026-08-09T22:12:27.584Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-08-09T22:14:26.354Z",
       "playersOnline": 2
     }
   ]
