@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-09T03:18:24.314Z",
+  "lastUpdated": "2026-08-09T03:20:44.001Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -444,10 +444,10 @@
     },
     {
       "date": "2026-08-09",
-      "min": 2,
+      "min": 1,
       "avg": 21,
       "max": 24,
-      "_count": 194
+      "_count": 195
     }
   ],
   "players": [
@@ -4821,9 +4821,9 @@
     {
       "uuid": "",
       "username": "PROVANSKIE_TRAVI",
-      "lastSeen": "2026-08-09T03:18:24.314Z",
+      "lastSeen": "2026-08-09T03:20:44.001Z",
       "totalPlayHours": 198.1,
-      "playHoursToday": 0.3,
+      "playHoursToday": 0.35,
       "playHoursLast7Days": 24.2,
       "playHoursLast30Days": 57.2,
       "playHoursLast90Days": 198.1,
@@ -4874,7 +4874,7 @@
         "2026-08-05": 4,
         "2026-08-06": 2.85,
         "2026-08-08": 8.1,
-        "2026-08-09": 0.3
+        "2026-08-09": 0.35
       }
     },
     {
@@ -57387,14 +57387,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-08-08T03:18:34.394Z",
-      "playersOnline": 3
-    },
-    {
-      "timestamp": "2026-08-08T03:20:43.470Z",
-      "playersOnline": 3
-    },
-    {
       "timestamp": "2026-08-08T03:21:41.995Z",
       "playersOnline": 3
     },
@@ -60357,6 +60349,10 @@
     {
       "timestamp": "2026-08-09T03:18:24.314Z",
       "playersOnline": 3
+    },
+    {
+      "timestamp": "2026-08-09T03:20:44.001Z",
+      "playersOnline": 1
     }
   ]
 }
