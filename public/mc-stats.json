@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-10T02:01:03.969Z",
+  "lastUpdated": "2026-08-10T02:02:26.541Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -454,7 +454,7 @@
       "min": 0,
       "avg": 16,
       "max": 17,
-      "_count": 155
+      "_count": 156
     }
   ],
   "players": [
@@ -11852,10 +11852,10 @@
     {
       "uuid": "",
       "username": "Building_Tea",
-      "lastSeen": "2026-08-10T02:01:03.969Z",
+      "lastSeen": "2026-08-10T02:02:26.541Z",
       "totalPlayHours": 178.8,
-      "playHoursToday": 5.2,
-      "playHoursLast7Days": 15.6,
+      "playHoursToday": 5.25,
+      "playHoursLast7Days": 15.7,
       "playHoursLast30Days": 83.1,
       "playHoursLast90Days": 178.8,
       "_playDates": {
@@ -11907,7 +11907,7 @@
         "2026-08-06": 1.85,
         "2026-08-07": 3.15,
         "2026-08-08": 0.2,
-        "2026-08-10": 5.2
+        "2026-08-10": 5.25
       }
     },
     {
@@ -58458,14 +58458,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-08-09T02:01:05.993Z",
-      "playersOnline": 2
-    },
-    {
-      "timestamp": "2026-08-09T02:02:25.029Z",
-      "playersOnline": 2
-    },
-    {
       "timestamp": "2026-08-09T02:04:25.638Z",
       "playersOnline": 2
     },
@@ -61419,6 +61411,10 @@
     },
     {
       "timestamp": "2026-08-10T02:01:03.969Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-08-10T02:02:26.541Z",
       "playersOnline": 1
     }
   ]
