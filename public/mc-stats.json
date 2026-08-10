@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-10T01:06:27.960Z",
+  "lastUpdated": "2026-08-10T01:08:27.332Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -454,7 +454,7 @@
       "min": 0,
       "avg": 16,
       "max": 17,
-      "_count": 128
+      "_count": 129
     }
   ],
   "players": [
@@ -58040,15 +58040,15 @@
     {
       "uuid": "",
       "username": "Mr_Trollge",
-      "lastSeen": "2026-08-10T01:06:27.960Z",
+      "lastSeen": "2026-08-10T01:08:27.332Z",
       "totalPlayHours": 4.8,
-      "playHoursToday": 1.7,
+      "playHoursToday": 1.75,
       "playHoursLast7Days": 4.8,
       "playHoursLast30Days": 4.8,
       "playHoursLast90Days": 4.8,
       "_playDates": {
         "2026-08-09": 3.1,
-        "2026-08-10": 1.7
+        "2026-08-10": 1.75
       }
     },
     {
@@ -58457,10 +58457,6 @@
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-08-09T01:08:24.950Z",
-      "playersOnline": 3
-    },
     {
       "timestamp": "2026-08-09T01:10:42.020Z",
       "playersOnline": 2
@@ -61419,6 +61415,10 @@
     },
     {
       "timestamp": "2026-08-10T01:06:27.960Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-08-10T01:08:27.332Z",
       "playersOnline": 1
     }
   ]
