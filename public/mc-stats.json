@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-10T02:12:28.641Z",
+  "lastUpdated": "2026-08-10T02:14:26.922Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -454,7 +454,7 @@
       "min": 0,
       "avg": 16,
       "max": 17,
-      "_count": 161
+      "_count": 162
     }
   ],
   "players": [
@@ -782,12 +782,12 @@
     {
       "uuid": "",
       "username": "Regvel",
-      "lastSeen": "2026-08-09T22:02:28.889Z",
-      "totalPlayHours": 154.1,
-      "playHoursToday": 1.7,
+      "lastSeen": "2026-08-10T02:14:26.922Z",
+      "totalPlayHours": 154.2,
+      "playHoursToday": 1.75,
       "playHoursLast7Days": 8.7,
-      "playHoursLast30Days": 26.4,
-      "playHoursLast90Days": 154.1,
+      "playHoursLast30Days": 26.5,
+      "playHoursLast90Days": 154.2,
       "_playDates": {
         "2026-06-07": 0.0363,
         "2026-06-08": 4.541,
@@ -832,7 +832,7 @@
         "2026-08-07": 0.75,
         "2026-08-08": 1.55,
         "2026-08-09": 3.8,
-        "2026-08-10": 1.7
+        "2026-08-10": 1.75
       }
     },
     {
@@ -11852,9 +11852,9 @@
     {
       "uuid": "",
       "username": "Building_Tea",
-      "lastSeen": "2026-08-10T02:12:28.641Z",
+      "lastSeen": "2026-08-10T02:14:26.922Z",
       "totalPlayHours": 179.1,
-      "playHoursToday": 5.5,
+      "playHoursToday": 5.55,
       "playHoursLast7Days": 15.9,
       "playHoursLast30Days": 83.4,
       "playHoursLast90Days": 179.1,
@@ -11907,7 +11907,7 @@
         "2026-08-06": 1.85,
         "2026-08-07": 3.15,
         "2026-08-08": 0.2,
-        "2026-08-10": 5.5
+        "2026-08-10": 5.55
       }
     },
     {
@@ -61415,6 +61415,10 @@
     },
     {
       "timestamp": "2026-08-10T02:12:28.641Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-08-10T02:14:26.922Z",
       "playersOnline": 1
     }
   ]
