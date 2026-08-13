@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-13T03:32:27.848Z",
+  "lastUpdated": "2026-08-13T03:34:33.859Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -475,7 +475,7 @@
       "min": 1,
       "avg": 15,
       "max": 16,
-      "_count": 200
+      "_count": 201
     }
   ],
   "players": [
@@ -813,12 +813,12 @@
     {
       "uuid": "",
       "username": "Regvel",
-      "lastSeen": "2026-08-13T03:32:27.848Z",
-      "totalPlayHours": 190.6,
-      "playHoursToday": 3.3,
+      "lastSeen": "2026-08-13T03:34:33.859Z",
+      "totalPlayHours": 190.7,
+      "playHoursToday": 3.35,
       "playHoursLast7Days": 44.3,
-      "playHoursLast30Days": 62.1,
-      "playHoursLast90Days": 190.6,
+      "playHoursLast30Days": 62.2,
+      "playHoursLast90Days": 190.7,
       "_playDates": {
         "2026-06-07": 0.0363,
         "2026-06-08": 4.541,
@@ -866,7 +866,7 @@
         "2026-08-10": 10.5,
         "2026-08-11": 7.6,
         "2026-08-12": 16.757,
-        "2026-08-13": 3.3
+        "2026-08-13": 3.35
       }
     },
     {
@@ -31470,12 +31470,12 @@
     {
       "uuid": "",
       "username": "Tankman2007",
-      "lastSeen": "2026-08-13T03:32:27.848Z",
-      "totalPlayHours": 372,
-      "playHoursToday": 7.3,
-      "playHoursLast7Days": 69.4,
-      "playHoursLast30Days": 365.4,
-      "playHoursLast90Days": 372,
+      "lastSeen": "2026-08-13T03:34:33.859Z",
+      "totalPlayHours": 372.1,
+      "playHoursToday": 7.35,
+      "playHoursLast7Days": 69.5,
+      "playHoursLast30Days": 365.5,
+      "playHoursLast90Days": 372.1,
       "_playDates": {
         "2026-07-02": 0.75,
         "2026-07-03": 1,
@@ -31509,7 +31509,7 @@
         "2026-08-10": 10.55,
         "2026-08-11": 8.26,
         "2026-08-12": 8.658,
-        "2026-08-13": 7.3
+        "2026-08-13": 7.35
       }
     },
     {
@@ -42375,9 +42375,9 @@
     {
       "uuid": "",
       "username": "The_Cooper_",
-      "lastSeen": "2026-08-13T03:32:27.848Z",
+      "lastSeen": "2026-08-13T03:34:33.859Z",
       "totalPlayHours": 94.3,
-      "playHoursToday": 0.4,
+      "playHoursToday": 0.45,
       "playHoursLast7Days": 24.9,
       "playHoursLast30Days": 94.3,
       "playHoursLast90Days": 94.3,
@@ -42398,7 +42398,7 @@
         "2026-08-10": 2.15,
         "2026-08-11": 4.9,
         "2026-08-12": 5.35,
-        "2026-08-13": 0.4
+        "2026-08-13": 0.45
       }
     },
     {
@@ -46423,12 +46423,12 @@
     {
       "uuid": "",
       "username": "cbey_kamar",
-      "lastSeen": "2026-08-13T03:32:27.848Z",
-      "totalPlayHours": 99.7,
-      "playHoursToday": 3.4,
-      "playHoursLast7Days": 62,
-      "playHoursLast30Days": 99.7,
-      "playHoursLast90Days": 99.7,
+      "lastSeen": "2026-08-13T03:34:33.859Z",
+      "totalPlayHours": 99.8,
+      "playHoursToday": 3.45,
+      "playHoursLast7Days": 62.1,
+      "playHoursLast30Days": 99.8,
+      "playHoursLast90Days": 99.8,
       "_playDates": {
         "2026-07-27": 0.85,
         "2026-07-28": 3.65,
@@ -46445,7 +46445,7 @@
         "2026-08-10": 12.65,
         "2026-08-11": 16.06,
         "2026-08-12": 10.05,
-        "2026-08-13": 3.4
+        "2026-08-13": 3.45
       }
     },
     {
@@ -61889,22 +61889,18 @@
     {
       "uuid": "",
       "username": "Zirael",
-      "lastSeen": "2026-08-13T03:32:27.848Z",
+      "lastSeen": "2026-08-13T03:34:33.859Z",
       "totalPlayHours": 0.9,
-      "playHoursToday": 0.9,
+      "playHoursToday": 0.95,
       "playHoursLast7Days": 0.9,
       "playHoursLast30Days": 0.9,
       "playHoursLast90Days": 0.9,
       "_playDates": {
-        "2026-08-13": 0.9
+        "2026-08-13": 0.95
       }
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-08-12T03:34:25.537Z",
-      "playersOnline": 6
-    },
     {
       "timestamp": "2026-08-12T03:36:26.032Z",
       "playersOnline": 6
@@ -64831,6 +64827,10 @@
     },
     {
       "timestamp": "2026-08-13T03:32:27.848Z",
+      "playersOnline": 5
+    },
+    {
+      "timestamp": "2026-08-13T03:34:33.859Z",
       "playersOnline": 5
     }
   ]
