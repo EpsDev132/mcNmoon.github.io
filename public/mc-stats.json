@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-14T23:36:23.382Z",
+  "lastUpdated": "2026-08-14T23:38:20.460Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-08-15",
-      "min": 6,
+      "min": 5,
       "avg": 24,
       "max": 25,
-      "_count": 83
+      "_count": 84
     }
   ],
   "players": [
@@ -31718,10 +31718,10 @@
     {
       "uuid": "",
       "username": "Tankman2007",
-      "lastSeen": "2026-08-14T23:36:23.382Z",
+      "lastSeen": "2026-08-14T23:38:20.460Z",
       "totalPlayHours": 413.6,
-      "playHoursToday": 4.05,
-      "playHoursLast7Days": 96.3,
+      "playHoursToday": 4.1,
+      "playHoursLast7Days": 96.4,
       "playHoursLast30Days": 407,
       "playHoursLast90Days": 413.6,
       "_playDates": {
@@ -31759,7 +31759,7 @@
         "2026-08-12": 8.658,
         "2026-08-13": 24.833,
         "2026-08-14": 19.95,
-        "2026-08-15": 4.05
+        "2026-08-15": 4.1
       }
     },
     {
@@ -47491,9 +47491,9 @@
     {
       "uuid": "",
       "username": "Silvester_R",
-      "lastSeen": "2026-08-14T23:36:23.382Z",
+      "lastSeen": "2026-08-14T23:38:20.460Z",
       "totalPlayHours": 150,
-      "playHoursToday": 4.15,
+      "playHoursToday": 4.2,
       "playHoursLast7Days": 87.5,
       "playHoursLast30Days": 150,
       "playHoursLast90Days": 150,
@@ -47512,7 +47512,7 @@
         "2026-08-12": 5.577,
         "2026-08-13": 11.833,
         "2026-08-14": 11.55,
-        "2026-08-15": 4.15
+        "2026-08-15": 4.2
       }
     },
     {
@@ -58516,9 +58516,9 @@
     {
       "uuid": "",
       "username": "andritv",
-      "lastSeen": "2026-08-14T23:36:23.382Z",
+      "lastSeen": "2026-08-14T23:38:20.460Z",
       "totalPlayHours": 77.1,
-      "playHoursToday": 4.05,
+      "playHoursToday": 4.1,
       "playHoursLast7Days": 77.1,
       "playHoursLast30Days": 77.1,
       "playHoursLast90Days": 77.1,
@@ -58530,7 +58530,7 @@
         "2026-08-12": 6.377,
         "2026-08-13": 15.383,
         "2026-08-14": 20.9,
-        "2026-08-15": 4.05
+        "2026-08-15": 4.1
       }
     },
     {
@@ -61282,18 +61282,18 @@
     {
       "uuid": "",
       "username": "PURPLEGUY",
-      "lastSeen": "2026-08-14T23:36:23.382Z",
-      "totalPlayHours": 21.2,
-      "playHoursToday": 2.9,
-      "playHoursLast7Days": 21.2,
-      "playHoursLast30Days": 21.2,
-      "playHoursLast90Days": 21.2,
+      "lastSeen": "2026-08-14T23:38:20.460Z",
+      "totalPlayHours": 21.3,
+      "playHoursToday": 2.95,
+      "playHoursLast7Days": 21.3,
+      "playHoursLast30Days": 21.3,
+      "playHoursLast90Days": 21.3,
       "_playDates": {
         "2026-08-11": 0.55,
         "2026-08-12": 5.45,
         "2026-08-13": 1.8,
         "2026-08-14": 10.5,
-        "2026-08-15": 2.9
+        "2026-08-15": 2.95
       }
     },
     {
@@ -62060,17 +62060,17 @@
     {
       "uuid": "",
       "username": "Trolololge",
-      "lastSeen": "2026-08-14T23:36:23.382Z",
-      "totalPlayHours": 25,
-      "playHoursToday": 3.45,
-      "playHoursLast7Days": 25,
-      "playHoursLast30Days": 25,
-      "playHoursLast90Days": 25,
+      "lastSeen": "2026-08-14T23:38:20.460Z",
+      "totalPlayHours": 25.1,
+      "playHoursToday": 3.5,
+      "playHoursLast7Days": 25.1,
+      "playHoursLast30Days": 25.1,
+      "playHoursLast90Days": 25.1,
       "_playDates": {
         "2026-08-12": 4.158,
         "2026-08-13": 9.433,
         "2026-08-14": 8,
-        "2026-08-15": 3.45
+        "2026-08-15": 3.5
       }
     },
     {
@@ -63868,14 +63868,6 @@
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-08-13T23:36:31.742Z",
-      "playersOnline": 6
-    },
-    {
-      "timestamp": "2026-08-13T23:36:55.682Z",
-      "playersOnline": 6
-    },
     {
       "timestamp": "2026-08-13T23:38:25.925Z",
       "playersOnline": 6
@@ -66823,6 +66815,10 @@
     {
       "timestamp": "2026-08-14T23:36:23.382Z",
       "playersOnline": 6
+    },
+    {
+      "timestamp": "2026-08-14T23:38:20.460Z",
+      "playersOnline": 5
     }
   ]
 }
