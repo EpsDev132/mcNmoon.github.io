@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-16T03:32:21.132Z",
+  "lastUpdated": "2026-08-16T03:34:20.928Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -496,7 +496,7 @@
       "min": 2,
       "avg": 21,
       "max": 23,
-      "_count": 202
+      "_count": 203
     }
   ],
   "players": [
@@ -13934,11 +13934,11 @@
     {
       "uuid": "",
       "username": "Maksus222",
-      "lastSeen": "2026-08-16T03:32:21.132Z",
+      "lastSeen": "2026-08-16T03:34:20.928Z",
       "totalPlayHours": 185,
-      "playHoursToday": 0.2,
-      "playHoursLast7Days": 0.2,
-      "playHoursLast30Days": 73.4,
+      "playHoursToday": 0.25,
+      "playHoursLast7Days": 0.3,
+      "playHoursLast30Days": 73.5,
       "playHoursLast90Days": 185,
       "_playDates": {
         "2026-06-09": 2.3,
@@ -13976,7 +13976,7 @@
         "2026-08-03": 4.55,
         "2026-08-04": 4.85,
         "2026-08-05": 1.05,
-        "2026-08-16": 0.2
+        "2026-08-16": 0.25
       }
     },
     {
@@ -31849,12 +31849,12 @@
     {
       "uuid": "",
       "username": "Tankman2007",
-      "lastSeen": "2026-08-16T03:32:21.132Z",
-      "totalPlayHours": 449.2,
-      "playHoursToday": 5.5,
+      "lastSeen": "2026-08-16T03:34:20.928Z",
+      "totalPlayHours": 449.3,
+      "playHoursToday": 5.55,
       "playHoursLast7Days": 112,
-      "playHoursLast30Days": 442.6,
-      "playHoursLast90Days": 449.2,
+      "playHoursLast30Days": 442.7,
+      "playHoursLast90Days": 449.3,
       "_playDates": {
         "2026-07-02": 0.75,
         "2026-07-03": 1,
@@ -31891,7 +31891,7 @@
         "2026-08-13": 24.833,
         "2026-08-14": 19.95,
         "2026-08-15": 34.2,
-        "2026-08-16": 5.5
+        "2026-08-16": 5.55
       }
     },
     {
@@ -47771,9 +47771,9 @@
     {
       "uuid": "",
       "username": "MrJoJo",
-      "lastSeen": "2026-08-16T03:32:21.132Z",
+      "lastSeen": "2026-08-16T03:34:20.928Z",
       "totalPlayHours": 92.4,
-      "playHoursToday": 0.7,
+      "playHoursToday": 0.75,
       "playHoursLast7Days": 22.6,
       "playHoursLast30Days": 92.4,
       "playHoursLast90Days": 92.4,
@@ -47794,7 +47794,7 @@
         "2026-08-11": 3.76,
         "2026-08-13": 7.933,
         "2026-08-14": 3.5,
-        "2026-08-16": 0.7
+        "2026-08-16": 0.75
       }
     },
     {
@@ -64643,22 +64643,18 @@
     {
       "uuid": "",
       "username": "mrsqutie",
-      "lastSeen": "2026-08-16T03:32:21.132Z",
-      "totalPlayHours": 0.1,
-      "playHoursToday": 0.15,
-      "playHoursLast7Days": 0.1,
-      "playHoursLast30Days": 0.1,
-      "playHoursLast90Days": 0.1,
+      "lastSeen": "2026-08-16T03:34:20.928Z",
+      "totalPlayHours": 0.2,
+      "playHoursToday": 0.2,
+      "playHoursLast7Days": 0.2,
+      "playHoursLast30Days": 0.2,
+      "playHoursLast90Days": 0.2,
       "_playDates": {
-        "2026-08-16": 0.15
+        "2026-08-16": 0.2
       }
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-08-15T03:32:22.647Z",
-      "playersOnline": 2
-    },
     {
       "timestamp": "2026-08-15T03:34:22.019Z",
       "playersOnline": 2
@@ -67654,6 +67650,10 @@
     {
       "timestamp": "2026-08-16T03:32:21.132Z",
       "playersOnline": 5
+    },
+    {
+      "timestamp": "2026-08-16T03:34:20.928Z",
+      "playersOnline": 4
     }
   ]
 }
