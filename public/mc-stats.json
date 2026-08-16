@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-16T02:44:20.985Z",
+  "lastUpdated": "2026-08-16T02:46:20.769Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -496,7 +496,7 @@
       "min": 2,
       "avg": 21,
       "max": 23,
-      "_count": 178
+      "_count": 179
     }
   ],
   "players": [
@@ -8287,10 +8287,10 @@
     {
       "uuid": "",
       "username": "Valya_g",
-      "lastSeen": "2026-08-16T02:44:20.985Z",
+      "lastSeen": "2026-08-16T02:46:20.769Z",
       "totalPlayHours": 179.8,
-      "playHoursToday": 0.1,
-      "playHoursLast7Days": 31.9,
+      "playHoursToday": 0.15,
+      "playHoursLast7Days": 32,
       "playHoursLast30Days": 99.4,
       "playHoursLast90Days": 179.8,
       "_playDates": {
@@ -8352,7 +8352,7 @@
         "2026-08-13": 10.633,
         "2026-08-14": 3.95,
         "2026-08-15": 14.15,
-        "2026-08-16": 0.1
+        "2026-08-16": 0.15
       }
     },
     {
@@ -64627,14 +64627,14 @@
     {
       "uuid": "",
       "username": "NIGHTMARE_KING",
-      "lastSeen": "2026-08-16T02:44:20.985Z",
-      "totalPlayHours": 1.6,
-      "playHoursToday": 1.65,
-      "playHoursLast7Days": 1.6,
-      "playHoursLast30Days": 1.6,
-      "playHoursLast90Days": 1.6,
+      "lastSeen": "2026-08-16T02:46:20.769Z",
+      "totalPlayHours": 1.7,
+      "playHoursToday": 1.7,
+      "playHoursLast7Days": 1.7,
+      "playHoursLast30Days": 1.7,
+      "playHoursLast90Days": 1.7,
       "_playDates": {
-        "2026-08-16": 1.65
+        "2026-08-16": 1.7
       }
     }
   ],
@@ -67633,6 +67633,10 @@
     },
     {
       "timestamp": "2026-08-16T02:44:20.985Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-08-16T02:46:20.769Z",
       "playersOnline": 2
     }
   ]
