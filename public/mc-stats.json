@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-18T02:24:23.339Z",
+  "lastUpdated": "2026-08-18T02:26:22.216Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -510,7 +510,7 @@
       "min": 1,
       "avg": 18,
       "max": 18,
-      "_count": 170
+      "_count": 171
     }
   ],
   "players": [
@@ -59062,10 +59062,10 @@
     {
       "uuid": "",
       "username": "andritv",
-      "lastSeen": "2026-08-18T02:24:23.339Z",
+      "lastSeen": "2026-08-18T02:26:22.216Z",
       "totalPlayHours": 137.2,
-      "playHoursToday": 7.15,
-      "playHoursLast7Days": 106.8,
+      "playHoursToday": 7.2,
+      "playHoursLast7Days": 106.9,
       "playHoursLast30Days": 137.2,
       "playHoursLast90Days": 137.2,
       "_playDates": {
@@ -59079,7 +59079,7 @@
         "2026-08-15": 17.8,
         "2026-08-16": 17.75,
         "2026-08-17": 21.463,
-        "2026-08-18": 7.15
+        "2026-08-18": 7.2
       }
     },
     {
@@ -65560,16 +65560,16 @@
     {
       "uuid": "",
       "username": "deltarune",
-      "lastSeen": "2026-08-18T02:24:23.339Z",
-      "totalPlayHours": 3.9,
-      "playHoursToday": 0.05,
-      "playHoursLast7Days": 3.9,
-      "playHoursLast30Days": 3.9,
-      "playHoursLast90Days": 3.9,
+      "lastSeen": "2026-08-18T02:26:22.216Z",
+      "totalPlayHours": 4,
+      "playHoursToday": 0.1,
+      "playHoursLast7Days": 4,
+      "playHoursLast30Days": 4,
+      "playHoursLast90Days": 4,
       "_playDates": {
         "2026-08-16": 1.5,
         "2026-08-17": 2.4,
-        "2026-08-18": 0.05
+        "2026-08-18": 0.1
       }
     },
     {
@@ -66190,10 +66190,6 @@
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-08-17T02:26:21.094Z",
-      "playersOnline": 1
-    },
     {
       "timestamp": "2026-08-17T02:28:20.607Z",
       "playersOnline": 1
@@ -69052,6 +69048,10 @@
     },
     {
       "timestamp": "2026-08-18T02:24:23.339Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-08-18T02:26:22.216Z",
       "playersOnline": 2
     }
   ]
