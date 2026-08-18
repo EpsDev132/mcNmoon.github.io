@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-18T12:16:23.641Z",
+  "lastUpdated": "2026-08-18T12:18:23.741Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -510,7 +510,7 @@
       "min": 0,
       "avg": 18,
       "max": 47,
-      "_count": 474
+      "_count": 475
     }
   ],
   "players": [
@@ -15694,12 +15694,12 @@
     {
       "uuid": "",
       "username": "PUMPKING_MAIN",
-      "lastSeen": "2026-08-18T12:16:23.641Z",
-      "totalPlayHours": 45.8,
-      "playHoursToday": 0.05,
+      "lastSeen": "2026-08-18T12:18:23.741Z",
+      "totalPlayHours": 45.9,
+      "playHoursToday": 0.1,
       "playHoursLast7Days": 0.1,
       "playHoursLast30Days": 6.8,
-      "playHoursLast90Days": 45.8,
+      "playHoursLast90Days": 45.9,
       "_playDates": {
         "2026-06-11": 4.75,
         "2026-06-12": 0.55,
@@ -15731,7 +15731,7 @@
         "2026-07-29": 1.95,
         "2026-07-30": 0.1,
         "2026-07-31": 0.15,
-        "2026-08-18": 0.05
+        "2026-08-18": 0.1
       }
     },
     {
@@ -66551,10 +66551,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-08-17T12:18:23.709Z",
-      "playersOnline": 49
-    },
-    {
       "timestamp": "2026-08-17T12:20:33.095Z",
       "playersOnline": 51
     },
@@ -69401,6 +69397,10 @@
     {
       "timestamp": "2026-08-18T12:16:23.641Z",
       "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-08-18T12:18:23.741Z",
+      "playersOnline": 1
     }
   ]
 }
