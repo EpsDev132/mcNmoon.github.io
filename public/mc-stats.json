@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-18T11:54:23.719Z",
+  "lastUpdated": "2026-08-18T11:56:23.830Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -510,7 +510,7 @@
       "min": 0,
       "avg": 18,
       "max": 47,
-      "_count": 463
+      "_count": 464
     }
   ],
   "players": [
@@ -50382,12 +50382,12 @@
     {
       "uuid": "",
       "username": "TheLordOfLoading",
-      "lastSeen": "2026-08-18T11:36:21.574Z",
-      "totalPlayHours": 203.1,
-      "playHoursToday": 6.366,
-      "playHoursLast7Days": 73.5,
-      "playHoursLast30Days": 203.1,
-      "playHoursLast90Days": 203.1,
+      "lastSeen": "2026-08-18T11:56:23.830Z",
+      "totalPlayHours": 203.2,
+      "playHoursToday": 6.416,
+      "playHoursLast7Days": 73.6,
+      "playHoursLast30Days": 203.2,
+      "playHoursLast90Days": 203.2,
       "_playDates": {
         "2026-08-01": 9.85,
         "2026-08-02": 9.2,
@@ -50406,7 +50406,7 @@
         "2026-08-15": 2.45,
         "2026-08-16": 13.2,
         "2026-08-17": 13.26,
-        "2026-08-18": 6.366
+        "2026-08-18": 6.416
       }
     },
     {
@@ -66537,10 +66537,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-08-17T11:56:21.571Z",
-      "playersOnline": 52
-    },
-    {
       "timestamp": "2026-08-17T11:58:26.652Z",
       "playersOnline": 50
     },
@@ -69386,6 +69382,10 @@
     },
     {
       "timestamp": "2026-08-18T11:54:23.719Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-08-18T11:56:23.830Z",
       "playersOnline": 1
     }
   ]
