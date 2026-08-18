@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-18T12:12:23.725Z",
+  "lastUpdated": "2026-08-18T12:14:23.319Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -510,7 +510,7 @@
       "min": 0,
       "avg": 18,
       "max": 47,
-      "_count": 472
+      "_count": 473
     }
   ],
   "players": [
@@ -64729,17 +64729,17 @@
     {
       "uuid": "",
       "username": "TheDuna",
-      "lastSeen": "2026-08-18T07:54:23.546Z",
-      "totalPlayHours": 9,
-      "playHoursToday": 0.7,
-      "playHoursLast7Days": 9,
-      "playHoursLast30Days": 9,
-      "playHoursLast90Days": 9,
+      "lastSeen": "2026-08-18T12:14:23.319Z",
+      "totalPlayHours": 9.1,
+      "playHoursToday": 0.75,
+      "playHoursLast7Days": 9.1,
+      "playHoursLast30Days": 9.1,
+      "playHoursLast90Days": 9.1,
       "_playDates": {
         "2026-08-15": 3.25,
         "2026-08-16": 3.5,
         "2026-08-17": 1.565,
-        "2026-08-18": 0.7
+        "2026-08-18": 0.75
       }
     },
     {
@@ -66549,10 +66549,6 @@
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-08-17T12:14:22.312Z",
-      "playersOnline": 46
-    },
     {
       "timestamp": "2026-08-17T12:16:22.971Z",
       "playersOnline": 50
@@ -69400,6 +69396,10 @@
     {
       "timestamp": "2026-08-18T12:12:23.725Z",
       "playersOnline": 0
+    },
+    {
+      "timestamp": "2026-08-18T12:14:23.319Z",
+      "playersOnline": 1
     }
   ]
 }
