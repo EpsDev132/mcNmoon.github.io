@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-18T12:58:23.900Z",
+  "lastUpdated": "2026-08-18T13:00:57.179Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -510,7 +510,7 @@
       "min": 0,
       "avg": 18,
       "max": 47,
-      "_count": 496
+      "_count": 497
     }
   ],
   "players": [
@@ -28004,11 +28004,11 @@
     {
       "uuid": "",
       "username": "holohan",
-      "lastSeen": "2026-08-18T12:50:35.129Z",
+      "lastSeen": "2026-08-18T13:00:57.179Z",
       "totalPlayHours": 520.6,
-      "playHoursToday": 5.716,
+      "playHoursToday": 5.766,
       "playHoursLast7Days": 80.8,
-      "playHoursLast30Days": 315.8,
+      "playHoursLast30Days": 315.9,
       "playHoursLast90Days": 520.6,
       "_playDates": {
         "2026-06-25": 6.167,
@@ -28064,7 +28064,7 @@
         "2026-08-15": 13.7,
         "2026-08-16": 14.2,
         "2026-08-17": 8.077,
-        "2026-08-18": 5.716
+        "2026-08-18": 5.766
       }
     },
     {
@@ -66567,10 +66567,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-08-17T13:00:55.865Z",
-      "playersOnline": 55
-    },
-    {
       "timestamp": "2026-08-17T13:02:20.759Z",
       "playersOnline": 56
     },
@@ -69416,6 +69412,10 @@
     },
     {
       "timestamp": "2026-08-18T12:58:23.900Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-08-18T13:00:57.179Z",
       "playersOnline": 1
     }
   ]
