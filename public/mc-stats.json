@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-18T02:40:34.657Z",
+  "lastUpdated": "2026-08-18T02:42:22.564Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -510,7 +510,7 @@
       "min": 1,
       "avg": 18,
       "max": 18,
-      "_count": 178
+      "_count": 179
     }
   ],
   "players": [
@@ -59063,10 +59063,10 @@
     {
       "uuid": "",
       "username": "andritv",
-      "lastSeen": "2026-08-18T02:40:34.657Z",
+      "lastSeen": "2026-08-18T02:42:22.564Z",
       "totalPlayHours": 137.6,
-      "playHoursToday": 7.55,
-      "playHoursLast7Days": 107.2,
+      "playHoursToday": 7.6,
+      "playHoursLast7Days": 107.3,
       "playHoursLast30Days": 137.6,
       "playHoursLast90Days": 137.6,
       "_playDates": {
@@ -59080,7 +59080,7 @@
         "2026-08-15": 17.8,
         "2026-08-16": 17.75,
         "2026-08-17": 21.463,
-        "2026-08-18": 7.55
+        "2026-08-18": 7.6
       }
     },
     {
@@ -66192,14 +66192,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-08-17T02:40:36.976Z",
-      "playersOnline": 1
-    },
-    {
-      "timestamp": "2026-08-17T02:42:21.003Z",
-      "playersOnline": 2
-    },
-    {
       "timestamp": "2026-08-17T02:44:20.032Z",
       "playersOnline": 2
     },
@@ -69053,6 +69045,10 @@
     },
     {
       "timestamp": "2026-08-18T02:40:34.657Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-08-18T02:42:22.564Z",
       "playersOnline": 1
     }
   ]
