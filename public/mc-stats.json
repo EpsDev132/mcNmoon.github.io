@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-18T11:40:31.760Z",
+  "lastUpdated": "2026-08-18T11:42:23.536Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -510,7 +510,7 @@
       "min": 1,
       "avg": 18,
       "max": 47,
-      "_count": 455
+      "_count": 456
     }
   ],
   "players": [
@@ -55857,9 +55857,9 @@
     {
       "uuid": "",
       "username": "necroptozis",
-      "lastSeen": "2026-08-18T11:32:22.726Z",
+      "lastSeen": "2026-08-18T11:42:23.536Z",
       "totalPlayHours": 47.2,
-      "playHoursToday": 3.416,
+      "playHoursToday": 3.466,
       "playHoursLast7Days": 38.3,
       "playHoursLast30Days": 47.2,
       "playHoursLast90Days": 47.2,
@@ -55875,7 +55875,7 @@
         "2026-08-15": 4,
         "2026-08-16": 6.6,
         "2026-08-17": 5.673,
-        "2026-08-18": 3.416
+        "2026-08-18": 3.466
       }
     },
     {
@@ -66537,14 +66537,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-08-17T11:40:32.064Z",
-      "playersOnline": 49
-    },
-    {
-      "timestamp": "2026-08-17T11:42:22.916Z",
-      "playersOnline": 48
-    },
-    {
       "timestamp": "2026-08-17T11:44:21.245Z",
       "playersOnline": 51
     },
@@ -69391,6 +69383,10 @@
     {
       "timestamp": "2026-08-18T11:40:31.760Z",
       "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-08-18T11:42:23.536Z",
+      "playersOnline": 1
     }
   ]
 }
