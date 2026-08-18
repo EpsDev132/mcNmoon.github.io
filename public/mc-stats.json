@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-18T12:10:32.026Z",
+  "lastUpdated": "2026-08-18T12:12:23.725Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -510,7 +510,7 @@
       "min": 0,
       "avg": 18,
       "max": 47,
-      "_count": 471
+      "_count": 472
     }
   ],
   "players": [
@@ -48627,9 +48627,9 @@
     {
       "uuid": "",
       "username": "Toothed_devil",
-      "lastSeen": "2026-08-18T12:10:32.026Z",
+      "lastSeen": "2026-08-18T12:12:23.725Z",
       "totalPlayHours": 90.3,
-      "playHoursToday": 8.266,
+      "playHoursToday": 8.316,
       "playHoursLast7Days": 36.2,
       "playHoursLast30Days": 90.3,
       "playHoursLast90Days": 90.3,
@@ -48651,7 +48651,7 @@
         "2026-08-14": 12.65,
         "2026-08-16": 3.3,
         "2026-08-17": 3.615,
-        "2026-08-18": 8.266
+        "2026-08-18": 8.316
       }
     },
     {
@@ -66550,14 +66550,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-08-17T12:10:35.258Z",
-      "playersOnline": 48
-    },
-    {
-      "timestamp": "2026-08-17T12:12:23.110Z",
-      "playersOnline": 48
-    },
-    {
       "timestamp": "2026-08-17T12:14:22.312Z",
       "playersOnline": 46
     },
@@ -69404,6 +69396,10 @@
     {
       "timestamp": "2026-08-18T12:10:32.026Z",
       "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-08-18T12:12:23.725Z",
+      "playersOnline": 0
     }
   ]
 }
