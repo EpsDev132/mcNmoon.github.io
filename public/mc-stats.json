@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-19T00:56:21.504Z",
+  "lastUpdated": "2026-08-19T00:58:25.003Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -517,7 +517,7 @@
       "min": 0,
       "avg": 18,
       "max": 19,
-      "_count": 124
+      "_count": 125
     }
   ],
   "players": [
@@ -2324,9 +2324,9 @@
     {
       "uuid": "",
       "username": "Ritoto121",
-      "lastSeen": "2026-08-19T00:56:21.504Z",
+      "lastSeen": "2026-08-19T00:58:25.003Z",
       "totalPlayHours": 775.7,
-      "playHoursToday": 1.2,
+      "playHoursToday": 1.25,
       "playHoursLast7Days": 41.5,
       "playHoursLast30Days": 133.5,
       "playHoursLast90Days": 775.7,
@@ -2399,7 +2399,7 @@
         "2026-08-16": 7.65,
         "2026-08-17": 10.627,
         "2026-08-18": 2.15,
-        "2026-08-19": 1.2
+        "2026-08-19": 1.25
       }
     },
     {
@@ -56939,12 +56939,12 @@
     {
       "uuid": "",
       "username": "Mandarinchick",
-      "lastSeen": "2026-08-19T00:56:21.504Z",
-      "totalPlayHours": 61.9,
-      "playHoursToday": 0.95,
+      "lastSeen": "2026-08-19T00:58:25.003Z",
+      "totalPlayHours": 62,
+      "playHoursToday": 1,
       "playHoursLast7Days": 40.6,
-      "playHoursLast30Days": 61.9,
-      "playHoursLast90Days": 61.9,
+      "playHoursLast30Days": 62,
+      "playHoursLast90Days": 62,
       "_playDates": {
         "2026-08-06": 1.368,
         "2026-08-07": 14.7,
@@ -56954,7 +56954,7 @@
         "2026-08-16": 21.8,
         "2026-08-17": 13.64,
         "2026-08-18": 0.85,
-        "2026-08-19": 0.95
+        "2026-08-19": 1
       }
     },
     {
@@ -67180,14 +67180,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-08-18T00:56:24.723Z",
-      "playersOnline": 3
-    },
-    {
-      "timestamp": "2026-08-18T00:58:19.942Z",
-      "playersOnline": 3
-    },
-    {
       "timestamp": "2026-08-18T01:00:03.855Z",
       "playersOnline": 3
     },
@@ -70149,6 +70141,10 @@
     },
     {
       "timestamp": "2026-08-19T00:56:21.504Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-08-19T00:58:25.003Z",
       "playersOnline": 2
     }
   ]
