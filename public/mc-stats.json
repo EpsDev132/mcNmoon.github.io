@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-19T23:42:23.413Z",
+  "lastUpdated": "2026-08-19T23:44:24.422Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -524,7 +524,7 @@
       "min": 1,
       "avg": 13,
       "max": 13,
-      "_count": 87
+      "_count": 88
     }
   ],
   "players": [
@@ -62228,9 +62228,9 @@
     {
       "uuid": "",
       "username": "PURPLEGUY",
-      "lastSeen": "2026-08-19T23:42:23.413Z",
+      "lastSeen": "2026-08-19T23:44:24.422Z",
       "totalPlayHours": 65.2,
-      "playHoursToday": 4.25,
+      "playHoursToday": 4.3,
       "playHoursLast7Days": 59.2,
       "playHoursLast30Days": 65.2,
       "playHoursLast90Days": 65.2,
@@ -62244,7 +62244,7 @@
         "2026-08-17": 7.7,
         "2026-08-18": 6.2,
         "2026-08-19": 15.3,
-        "2026-08-20": 4.25
+        "2026-08-20": 4.3
       }
     },
     {
@@ -67856,10 +67856,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-08-18T23:44:20.872Z",
-      "playersOnline": 5
-    },
-    {
       "timestamp": "2026-08-18T23:45:22.899Z",
       "playersOnline": 6
     },
@@ -70837,6 +70833,10 @@
     },
     {
       "timestamp": "2026-08-19T23:42:23.413Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-08-19T23:44:24.422Z",
       "playersOnline": 1
     }
   ]
