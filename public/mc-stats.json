@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-20T01:10:33.786Z",
+  "lastUpdated": "2026-08-20T01:12:22.346Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -524,7 +524,7 @@
       "min": 0,
       "avg": 13,
       "max": 13,
-      "_count": 133
+      "_count": 134
     }
   ],
   "players": [
@@ -57895,12 +57895,12 @@
     {
       "uuid": "",
       "username": "1223134",
-      "lastSeen": "2026-08-20T01:10:33.786Z",
-      "totalPlayHours": 30.5,
-      "playHoursToday": 0.15,
+      "lastSeen": "2026-08-20T01:12:22.346Z",
+      "totalPlayHours": 30.6,
+      "playHoursToday": 0.2,
       "playHoursLast7Days": 9.1,
-      "playHoursLast30Days": 30.5,
-      "playHoursLast90Days": 30.5,
+      "playHoursLast30Days": 30.6,
+      "playHoursLast90Days": 30.6,
       "_playDates": {
         "2026-08-07": 2.85,
         "2026-08-08": 10.75,
@@ -57910,7 +57910,7 @@
         "2026-08-17": 0.05,
         "2026-08-18": 2.45,
         "2026-08-19": 6.4,
-        "2026-08-20": 0.15
+        "2026-08-20": 0.2
       }
     },
     {
@@ -62230,9 +62230,9 @@
     {
       "uuid": "",
       "username": "PURPLEGUY",
-      "lastSeen": "2026-08-20T01:10:33.786Z",
+      "lastSeen": "2026-08-20T01:12:22.346Z",
       "totalPlayHours": 66.6,
-      "playHoursToday": 5.65,
+      "playHoursToday": 5.7,
       "playHoursLast7Days": 58.8,
       "playHoursLast30Days": 66.6,
       "playHoursLast90Days": 66.6,
@@ -62246,7 +62246,7 @@
         "2026-08-17": 7.7,
         "2026-08-18": 6.2,
         "2026-08-19": 15.3,
-        "2026-08-20": 5.65
+        "2026-08-20": 5.7
       }
     },
     {
@@ -67858,10 +67858,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-08-19T01:12:20.649Z",
-      "playersOnline": 2
-    },
-    {
       "timestamp": "2026-08-19T01:14:24.563Z",
       "playersOnline": 2
     },
@@ -70840,6 +70836,10 @@
     {
       "timestamp": "2026-08-20T01:10:33.786Z",
       "playersOnline": 3
+    },
+    {
+      "timestamp": "2026-08-20T01:12:22.346Z",
+      "playersOnline": 2
     }
   ]
 }
