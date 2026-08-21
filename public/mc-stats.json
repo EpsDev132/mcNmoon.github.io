@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-21T23:44:23.397Z",
+  "lastUpdated": "2026-08-21T23:46:22.038Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -538,7 +538,7 @@
       "min": 1,
       "avg": 13,
       "max": 18,
-      "_count": 88
+      "_count": 89
     }
   ],
   "players": [
@@ -14680,11 +14680,11 @@
     {
       "uuid": "",
       "username": "vladivir228",
-      "lastSeen": "2026-08-21T23:44:23.397Z",
+      "lastSeen": "2026-08-21T23:46:22.038Z",
       "totalPlayHours": 113,
-      "playHoursToday": 0.75,
+      "playHoursToday": 0.8,
       "playHoursLast7Days": 24.7,
-      "playHoursLast30Days": 67.1,
+      "playHoursLast30Days": 67.2,
       "playHoursLast90Days": 113,
       "_playDates": {
         "2026-06-10": 3.129,
@@ -14744,7 +14744,7 @@
         "2026-08-19": 4.6,
         "2026-08-20": 4.4,
         "2026-08-21": 1.5,
-        "2026-08-22": 0.75
+        "2026-08-22": 0.8
       }
     },
     {
@@ -69584,14 +69584,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-08-20T23:44:25.294Z",
-      "playersOnline": 5
-    },
-    {
-      "timestamp": "2026-08-20T23:46:20.888Z",
-      "playersOnline": 6
-    },
-    {
       "timestamp": "2026-08-20T23:48:20.651Z",
       "playersOnline": 6
     },
@@ -72565,6 +72557,10 @@
     },
     {
       "timestamp": "2026-08-21T23:44:23.397Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-08-21T23:46:22.038Z",
       "playersOnline": 1
     }
   ]
