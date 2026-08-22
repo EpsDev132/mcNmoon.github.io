@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-22T01:02:23.818Z",
+  "lastUpdated": "2026-08-22T01:04:21.518Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -538,7 +538,7 @@
       "min": 0,
       "avg": 13,
       "max": 18,
-      "_count": 128
+      "_count": 129
     }
   ],
   "players": [
@@ -13460,10 +13460,10 @@
     {
       "uuid": "",
       "username": "KungfuEpt",
-      "lastSeen": "2026-08-22T01:02:23.818Z",
+      "lastSeen": "2026-08-22T01:04:21.518Z",
       "totalPlayHours": 108.3,
-      "playHoursToday": 0.1,
-      "playHoursLast7Days": 13.2,
+      "playHoursToday": 0.15,
+      "playHoursLast7Days": 13.3,
       "playHoursLast30Days": 44.4,
       "playHoursLast90Days": 108.3,
       "_playDates": {
@@ -13508,7 +13508,7 @@
         "2026-08-17": 0.35,
         "2026-08-20": 6.4,
         "2026-08-21": 5.9,
-        "2026-08-22": 0.1
+        "2026-08-22": 0.15
       }
     },
     {
@@ -69586,10 +69586,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-08-21T01:04:21.017Z",
-      "playersOnline": 4
-    },
-    {
       "timestamp": "2026-08-21T01:06:22.947Z",
       "playersOnline": 4
     },
@@ -72563,6 +72559,10 @@
     },
     {
       "timestamp": "2026-08-22T01:02:23.818Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-08-22T01:04:21.518Z",
       "playersOnline": 1
     }
   ]
