@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-22T23:28:23.226Z",
+  "lastUpdated": "2026-08-22T23:30:42.853Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -542,10 +542,10 @@
     },
     {
       "date": "2026-08-23",
-      "min": 3,
+      "min": 2,
       "avg": 10,
       "max": 11,
-      "_count": 78
+      "_count": 79
     }
   ],
   "players": [
@@ -52907,12 +52907,12 @@
     {
       "uuid": "",
       "username": "Freedom_Man13",
-      "lastSeen": "2026-08-22T23:28:23.226Z",
-      "totalPlayHours": 195.6,
-      "playHoursToday": 3,
+      "lastSeen": "2026-08-22T23:30:42.853Z",
+      "totalPlayHours": 195.7,
+      "playHoursToday": 3.05,
       "playHoursLast7Days": 89.7,
-      "playHoursLast30Days": 195.6,
-      "playHoursLast90Days": 195.6,
+      "playHoursLast30Days": 195.7,
+      "playHoursLast90Days": 195.7,
       "_playDates": {
         "2026-08-02": 6.7,
         "2026-08-03": 13.37,
@@ -52933,7 +52933,7 @@
         "2026-08-20": 10.9,
         "2026-08-21": 6.5,
         "2026-08-22": 21.35,
-        "2026-08-23": 3
+        "2026-08-23": 3.05
       }
     },
     {
@@ -70251,15 +70251,15 @@
     {
       "uuid": "",
       "username": "Serjant_Zyuzya",
-      "lastSeen": "2026-08-22T23:28:23.226Z",
-      "totalPlayHours": 2.2,
-      "playHoursToday": 1.35,
-      "playHoursLast7Days": 2.2,
-      "playHoursLast30Days": 2.2,
-      "playHoursLast90Days": 2.2,
+      "lastSeen": "2026-08-22T23:30:42.853Z",
+      "totalPlayHours": 2.3,
+      "playHoursToday": 1.4,
+      "playHoursLast7Days": 2.3,
+      "playHoursLast30Days": 2.3,
+      "playHoursLast90Days": 2.3,
       "_playDates": {
         "2026-08-22": 0.85,
-        "2026-08-23": 1.35
+        "2026-08-23": 1.4
       }
     },
     {
@@ -73394,6 +73394,10 @@
     {
       "timestamp": "2026-08-22T23:28:23.226Z",
       "playersOnline": 3
+    },
+    {
+      "timestamp": "2026-08-22T23:30:42.853Z",
+      "playersOnline": 2
     }
   ]
 }
