@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-28T01:24:23.226Z",
+  "lastUpdated": "2026-08-28T01:26:24.754Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -580,7 +580,7 @@
       "min": 1,
       "avg": 9,
       "max": 12,
-      "_count": 133
+      "_count": 134
     }
   ],
   "players": [
@@ -73927,22 +73927,18 @@
     {
       "uuid": "",
       "username": "Neko_Vp",
-      "lastSeen": "2026-08-28T01:24:23.226Z",
-      "totalPlayHours": 2,
-      "playHoursToday": 2.05,
-      "playHoursLast7Days": 2,
-      "playHoursLast30Days": 2,
-      "playHoursLast90Days": 2,
+      "lastSeen": "2026-08-28T01:26:24.754Z",
+      "totalPlayHours": 2.1,
+      "playHoursToday": 2.1,
+      "playHoursLast7Days": 2.1,
+      "playHoursLast30Days": 2.1,
+      "playHoursLast90Days": 2.1,
       "_playDates": {
-        "2026-08-28": 2.05
+        "2026-08-28": 2.1
       }
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-08-27T01:26:24.670Z",
-      "playersOnline": 2
-    },
     {
       "timestamp": "2026-08-27T01:28:23.006Z",
       "playersOnline": 3
@@ -76821,6 +76817,10 @@
     },
     {
       "timestamp": "2026-08-28T01:24:23.226Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-08-28T01:26:24.754Z",
       "playersOnline": 1
     }
   ]
