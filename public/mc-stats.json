@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-30T01:46:23.978Z",
+  "lastUpdated": "2026-08-30T01:48:23.846Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -594,7 +594,7 @@
       "min": 2,
       "avg": 20,
       "max": 21,
-      "_count": 146
+      "_count": 147
     }
   ],
   "players": [
@@ -6967,12 +6967,12 @@
     {
       "uuid": "",
       "username": "Doctor_Noice",
-      "lastSeen": "2026-08-29T19:57:21.530Z",
-      "totalPlayHours": 71.8,
-      "playHoursToday": 0,
+      "lastSeen": "2026-08-30T01:48:23.846Z",
+      "totalPlayHours": 71.9,
+      "playHoursToday": 0.05,
       "playHoursLast7Days": 18.4,
-      "playHoursLast30Days": 25.2,
-      "playHoursLast90Days": 71.8,
+      "playHoursLast30Days": 25.3,
+      "playHoursLast90Days": 71.9,
       "_playDates": {
         "2026-06-07": 2.2,
         "2026-06-08": 3.624,
@@ -7002,7 +7002,8 @@
         "2026-08-26": 1.8,
         "2026-08-27": 0.25,
         "2026-08-28": 8.65,
-        "2026-08-29": 7.65
+        "2026-08-29": 7.65,
+        "2026-08-30": 0.05
       }
     },
     {
@@ -13075,11 +13076,11 @@
     {
       "uuid": "",
       "username": "NAGIBATOR6942",
-      "lastSeen": "2026-08-28T17:28:24.598Z",
+      "lastSeen": "2026-08-30T01:48:23.846Z",
       "totalPlayHours": 5,
-      "playHoursToday": 0,
+      "playHoursToday": 0.05,
       "playHoursLast7Days": 2.4,
-      "playHoursLast30Days": 3.5,
+      "playHoursLast30Days": 3.6,
       "playHoursLast90Days": 5,
       "_playDates": {
         "2026-06-09": 0.1,
@@ -13105,7 +13106,8 @@
         "2026-08-23": 0.3,
         "2026-08-24": 0.05,
         "2026-08-27": 2.05,
-        "2026-08-28": 0.3
+        "2026-08-28": 0.3,
+        "2026-08-30": 0.05
       }
     },
     {
@@ -17127,9 +17129,9 @@
     {
       "uuid": "",
       "username": "hulk234",
-      "lastSeen": "2026-08-30T01:46:23.978Z",
+      "lastSeen": "2026-08-30T01:48:23.846Z",
       "totalPlayHours": 1279.9,
-      "playHoursToday": 7.2,
+      "playHoursToday": 7.25,
       "playHoursLast7Days": 105.2,
       "playHoursLast30Days": 462.4,
       "playHoursLast90Days": 1279.9,
@@ -17213,7 +17215,7 @@
         "2026-08-27": 21.95,
         "2026-08-28": 9.267,
         "2026-08-29": 13,
-        "2026-08-30": 7.2
+        "2026-08-30": 7.25
       }
     },
     {
@@ -19570,9 +19572,9 @@
     {
       "uuid": "",
       "username": "sonic_sas0",
-      "lastSeen": "2026-08-30T01:46:23.978Z",
+      "lastSeen": "2026-08-30T01:48:23.846Z",
       "totalPlayHours": 91.5,
-      "playHoursToday": 0.1,
+      "playHoursToday": 0.15,
       "playHoursLast7Days": 35.9,
       "playHoursLast30Days": 62.6,
       "playHoursLast90Days": 91.5,
@@ -19608,7 +19610,7 @@
         "2026-08-27": 3.7,
         "2026-08-28": 5.95,
         "2026-08-29": 9.15,
-        "2026-08-30": 0.1
+        "2026-08-30": 0.15
       }
     },
     {
@@ -71978,12 +71980,12 @@
     {
       "uuid": "",
       "username": "Fortunal3",
-      "lastSeen": "2026-08-30T01:46:23.978Z",
-      "totalPlayHours": 9,
-      "playHoursToday": 1,
-      "playHoursLast7Days": 7.8,
-      "playHoursLast30Days": 9,
-      "playHoursLast90Days": 9,
+      "lastSeen": "2026-08-30T01:48:23.846Z",
+      "totalPlayHours": 9.1,
+      "playHoursToday": 1.05,
+      "playHoursLast7Days": 7.9,
+      "playHoursLast30Days": 9.1,
+      "playHoursLast90Days": 9.1,
       "_playDates": {
         "2026-08-23": 1.15,
         "2026-08-24": 2.6,
@@ -71992,7 +71994,7 @@
         "2026-08-27": 0.75,
         "2026-08-28": 0.1,
         "2026-08-29": 0.35,
-        "2026-08-30": 1
+        "2026-08-30": 1.05
       }
     },
     {
@@ -75529,10 +75531,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-08-29T01:48:22.607Z",
-      "playersOnline": 4
-    },
-    {
       "timestamp": "2026-08-29T01:50:33.475Z",
       "playersOnline": 4
     },
@@ -78431,6 +78429,10 @@
     {
       "timestamp": "2026-08-30T01:46:23.978Z",
       "playersOnline": 3
+    },
+    {
+      "timestamp": "2026-08-30T01:48:23.846Z",
+      "playersOnline": 5
     }
   ]
 }
