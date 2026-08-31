@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-31T21:30:45.388Z",
+  "lastUpdated": "2026-08-31T21:32:22.875Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -608,7 +608,7 @@
       "min": 2,
       "avg": 5,
       "max": 5,
-      "_count": 16
+      "_count": 17
     }
   ],
   "players": [
@@ -17292,9 +17292,9 @@
     {
       "uuid": "",
       "username": "hulk234",
-      "lastSeen": "2026-08-31T21:30:45.388Z",
+      "lastSeen": "2026-08-31T21:32:22.875Z",
       "totalPlayHours": 1307.4,
-      "playHoursToday": 0.8,
+      "playHoursToday": 0.85,
       "playHoursLast7Days": 114.8,
       "playHoursLast30Days": 472.8,
       "playHoursLast90Days": 1307.4,
@@ -17380,7 +17380,7 @@
         "2026-08-29": 13,
         "2026-08-30": 25.2,
         "2026-08-31": 8.7,
-        "2026-09-01": 0.8
+        "2026-09-01": 0.85
       }
     },
     {
@@ -54224,10 +54224,10 @@
     {
       "uuid": "",
       "username": "Freedom_Man13",
-      "lastSeen": "2026-08-31T21:30:45.388Z",
+      "lastSeen": "2026-08-31T21:32:22.875Z",
       "totalPlayHours": 258.8,
-      "playHoursToday": 0.2,
-      "playHoursLast7Days": 44.9,
+      "playHoursToday": 0.25,
+      "playHoursLast7Days": 45,
       "playHoursLast30Days": 258.8,
       "playHoursLast90Days": 258.8,
       "_playDates": {
@@ -54257,7 +54257,7 @@
         "2026-08-27": 16.216,
         "2026-08-28": 8.75,
         "2026-08-29": 8.2,
-        "2026-09-01": 0.2
+        "2026-09-01": 0.25
       }
     },
     {
@@ -76960,14 +76960,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-08-30T21:30:45.853Z",
-      "playersOnline": 11
-    },
-    {
-      "timestamp": "2026-08-30T21:32:22.330Z",
-      "playersOnline": 10
-    },
-    {
       "timestamp": "2026-08-30T21:34:24.021Z",
       "playersOnline": 12
     },
@@ -79861,6 +79853,10 @@
     },
     {
       "timestamp": "2026-08-31T21:30:45.388Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-08-31T21:32:22.875Z",
       "playersOnline": 2
     }
   ]
