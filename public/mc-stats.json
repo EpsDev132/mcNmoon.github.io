@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-31T23:24:23.569Z",
+  "lastUpdated": "2026-08-31T23:26:20.532Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -608,7 +608,7 @@
       "min": 1,
       "avg": 5,
       "max": 5,
-      "_count": 73
+      "_count": 74
     }
   ],
   "players": [
@@ -17292,12 +17292,12 @@
     {
       "uuid": "",
       "username": "hulk234",
-      "lastSeen": "2026-08-31T23:24:23.569Z",
-      "totalPlayHours": 1310.2,
-      "playHoursToday": 3.65,
-      "playHoursLast7Days": 117.6,
-      "playHoursLast30Days": 475.6,
-      "playHoursLast90Days": 1310.2,
+      "lastSeen": "2026-08-31T23:26:20.532Z",
+      "totalPlayHours": 1310.3,
+      "playHoursToday": 3.7,
+      "playHoursLast7Days": 117.7,
+      "playHoursLast30Days": 475.7,
+      "playHoursLast90Days": 1310.3,
       "_playDates": {
         "2026-06-11": 3.85,
         "2026-06-12": 5.462,
@@ -17380,7 +17380,7 @@
         "2026-08-29": 13,
         "2026-08-30": 25.2,
         "2026-08-31": 8.7,
-        "2026-09-01": 3.65
+        "2026-09-01": 3.7
       }
     },
     {
@@ -76454,15 +76454,15 @@
     {
       "uuid": "",
       "username": "Zakha_Games2015",
-      "lastSeen": "2026-08-31T23:24:23.569Z",
+      "lastSeen": "2026-08-31T23:26:20.532Z",
       "totalPlayHours": 11.8,
-      "playHoursToday": 1.05,
+      "playHoursToday": 1.1,
       "playHoursLast7Days": 11.8,
       "playHoursLast30Days": 11.8,
       "playHoursLast90Days": 11.8,
       "_playDates": {
         "2026-08-31": 10.75,
-        "2026-09-01": 1.05
+        "2026-09-01": 1.1
       }
     },
     {
@@ -76974,10 +76974,6 @@
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-08-30T23:24:24.286Z",
-      "playersOnline": 3
-    },
     {
       "timestamp": "2026-08-30T23:26:24.575Z",
       "playersOnline": 3
@@ -79872,6 +79868,10 @@
     },
     {
       "timestamp": "2026-08-31T23:24:23.569Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-08-31T23:26:20.532Z",
       "playersOnline": 2
     }
   ]
