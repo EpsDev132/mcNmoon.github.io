@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-08-31T21:14:24.808Z",
+  "lastUpdated": "2026-08-31T21:16:22.212Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -608,7 +608,7 @@
       "min": 2,
       "avg": 5,
       "max": 5,
-      "_count": 8
+      "_count": 9
     }
   ],
   "players": [
@@ -17291,9 +17291,9 @@
     {
       "uuid": "",
       "username": "hulk234",
-      "lastSeen": "2026-08-31T21:14:24.808Z",
+      "lastSeen": "2026-08-31T21:16:22.212Z",
       "totalPlayHours": 1307,
-      "playHoursToday": 0.4,
+      "playHoursToday": 0.45,
       "playHoursLast7Days": 114.4,
       "playHoursLast30Days": 472.4,
       "playHoursLast90Days": 1307,
@@ -17379,7 +17379,7 @@
         "2026-08-29": 13,
         "2026-08-30": 25.2,
         "2026-08-31": 8.7,
-        "2026-09-01": 0.4
+        "2026-09-01": 0.45
       }
     },
     {
@@ -49145,11 +49145,11 @@
     {
       "uuid": "",
       "username": "cbey_kamar",
-      "lastSeen": "2026-08-31T21:14:24.808Z",
+      "lastSeen": "2026-08-31T21:16:22.212Z",
       "totalPlayHours": 166.1,
-      "playHoursToday": 0.4,
+      "playHoursToday": 0.45,
       "playHoursLast7Days": 22.1,
-      "playHoursLast30Days": 150.1,
+      "playHoursLast30Days": 150.2,
       "playHoursLast90Days": 166.1,
       "_playDates": {
         "2026-07-27": 0.85,
@@ -49181,7 +49181,7 @@
         "2026-08-29": 3.8,
         "2026-08-30": 4.1,
         "2026-08-31": 11.2,
-        "2026-09-01": 0.4
+        "2026-09-01": 0.45
       }
     },
     {
@@ -76958,14 +76958,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-08-30T21:14:24.996Z",
-      "playersOnline": 13
-    },
-    {
-      "timestamp": "2026-08-30T21:16:22.050Z",
-      "playersOnline": 12
-    },
-    {
       "timestamp": "2026-08-30T21:18:21.994Z",
       "playersOnline": 12
     },
@@ -79859,6 +79851,10 @@
     },
     {
       "timestamp": "2026-08-31T21:14:24.808Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-08-31T21:16:22.212Z",
       "playersOnline": 2
     }
   ]
