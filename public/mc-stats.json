@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-09-01T01:34:24.311Z",
+  "lastUpdated": "2026-09-01T01:36:22.613Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -608,7 +608,7 @@
       "min": 0,
       "avg": 5,
       "max": 5,
-      "_count": 139
+      "_count": 140
     }
   ],
   "players": [
@@ -7181,10 +7181,10 @@
     {
       "uuid": "",
       "username": "Andrewix34",
-      "lastSeen": "2026-09-01T01:34:24.311Z",
+      "lastSeen": "2026-09-01T01:36:22.613Z",
       "totalPlayHours": 412.8,
-      "playHoursToday": 0.05,
-      "playHoursLast7Days": 13.3,
+      "playHoursToday": 0.1,
+      "playHoursLast7Days": 13.4,
       "playHoursLast30Days": 158,
       "playHoursLast90Days": 412.8,
       "_playDates": {
@@ -7249,7 +7249,7 @@
         "2026-08-28": 3.117,
         "2026-08-29": 0.65,
         "2026-08-30": 7.05,
-        "2026-09-01": 0.05
+        "2026-09-01": 0.1
       }
     },
     {
@@ -79870,6 +79870,10 @@
     },
     {
       "timestamp": "2026-09-01T01:34:24.311Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-09-01T01:36:22.613Z",
       "playersOnline": 1
     }
   ]
