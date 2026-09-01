@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-09-01T14:34:25.174Z",
+  "lastUpdated": "2026-09-01T14:36:23.568Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -608,7 +608,7 @@
       "min": 0,
       "avg": 5,
       "max": 40,
-      "_count": 518
+      "_count": 519
     }
   ],
   "players": [
@@ -1014,11 +1014,11 @@
     {
       "uuid": "",
       "username": "Regvel",
-      "lastSeen": "2026-08-31T14:44:25.784Z",
+      "lastSeen": "2026-09-01T14:36:23.568Z",
       "totalPlayHours": 394.3,
-      "playHoursToday": 0,
-      "playHoursLast7Days": 72.9,
-      "playHoursLast30Days": 249,
+      "playHoursToday": 0.05,
+      "playHoursLast7Days": 73,
+      "playHoursLast30Days": 249.1,
       "playHoursLast90Days": 394.3,
       "_playDates": {
         "2026-06-07": 0.0363,
@@ -1085,18 +1085,19 @@
         "2026-08-28": 12.827,
         "2026-08-29": 21.3,
         "2026-08-30": 3.35,
-        "2026-08-31": 9.2
+        "2026-08-31": 9.2,
+        "2026-09-01": 0.05
       }
     },
     {
       "uuid": "",
       "username": "hero",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
-      "totalPlayHours": 135.2,
-      "playHoursToday": 0.709,
-      "playHoursLast7Days": 2.1,
-      "playHoursLast30Days": 64.7,
-      "playHoursLast90Days": 135.2,
+      "lastSeen": "2026-09-01T14:36:23.568Z",
+      "totalPlayHours": 135.3,
+      "playHoursToday": 0.759,
+      "playHoursLast7Days": 2.2,
+      "playHoursLast30Days": 64.8,
+      "playHoursLast90Days": 135.3,
       "_playDates": {
         "2026-06-07": 4.016,
         "2026-06-08": 3.527,
@@ -1162,7 +1163,7 @@
         "2026-08-27": 0.65,
         "2026-08-29": 0.45,
         "2026-08-31": 0.15,
-        "2026-09-01": 0.709
+        "2026-09-01": 0.759
       }
     },
     {
@@ -1451,12 +1452,12 @@
     {
       "uuid": "",
       "username": "Qwizz_51",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
-      "totalPlayHours": 296.2,
-      "playHoursToday": 0.559,
-      "playHoursLast7Days": 39.5,
-      "playHoursLast30Days": 162.6,
-      "playHoursLast90Days": 296.2,
+      "lastSeen": "2026-09-01T14:36:23.568Z",
+      "totalPlayHours": 296.3,
+      "playHoursToday": 0.609,
+      "playHoursLast7Days": 39.6,
+      "playHoursLast30Days": 162.7,
+      "playHoursLast90Days": 296.3,
       "_playDates": {
         "2026-06-07": 3.662,
         "2026-06-08": 5.946,
@@ -1513,7 +1514,7 @@
         "2026-08-29": 8.75,
         "2026-08-30": 11,
         "2026-08-31": 7.95,
-        "2026-09-01": 0.559
+        "2026-09-01": 0.609
       }
     },
     {
@@ -1640,9 +1641,9 @@
     {
       "uuid": "",
       "username": "gogolt14",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
+      "lastSeen": "2026-09-01T14:36:23.568Z",
       "totalPlayHours": 433.2,
-      "playHoursToday": 1.759,
+      "playHoursToday": 1.809,
       "playHoursLast7Days": 44.3,
       "playHoursLast30Days": 144.2,
       "playHoursLast90Days": 433.2,
@@ -1725,7 +1726,7 @@
         "2026-08-29": 10.65,
         "2026-08-30": 9.8,
         "2026-08-31": 6.9,
-        "2026-09-01": 1.759
+        "2026-09-01": 1.809
       }
     },
     {
@@ -2170,12 +2171,12 @@
     {
       "uuid": "",
       "username": "AVery854",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
-      "totalPlayHours": 709.5,
-      "playHoursToday": 2.359,
-      "playHoursLast7Days": 58.6,
+      "lastSeen": "2026-09-01T14:36:23.568Z",
+      "totalPlayHours": 709.6,
+      "playHoursToday": 2.409,
+      "playHoursLast7Days": 58.7,
       "playHoursLast30Days": 238.7,
-      "playHoursLast90Days": 709.5,
+      "playHoursLast90Days": 709.6,
       "_playDates": {
         "2026-06-07": 1.9416,
         "2026-06-08": 4.041,
@@ -2259,7 +2260,7 @@
         "2026-08-29": 9.1,
         "2026-08-30": 11.75,
         "2026-08-31": 11.75,
-        "2026-09-01": 2.359
+        "2026-09-01": 2.409
       }
     },
     {
@@ -3417,12 +3418,12 @@
     {
       "uuid": "",
       "username": "Dimamsem",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
-      "totalPlayHours": 814.5,
-      "playHoursToday": 1.109,
+      "lastSeen": "2026-09-01T14:36:23.568Z",
+      "totalPlayHours": 814.6,
+      "playHoursToday": 1.159,
       "playHoursLast7Days": 38.8,
-      "playHoursLast30Days": 270.2,
-      "playHoursLast90Days": 814.5,
+      "playHoursLast30Days": 270.3,
+      "playHoursLast90Days": 814.6,
       "_playDates": {
         "2026-06-07": 1.943,
         "2026-06-08": 9.818,
@@ -3510,7 +3511,7 @@
         "2026-08-29": 6.1,
         "2026-08-30": 9.4,
         "2026-08-31": 6.3,
-        "2026-09-01": 1.109
+        "2026-09-01": 1.159
       }
     },
     {
@@ -3761,12 +3762,12 @@
     {
       "uuid": "",
       "username": "FireEatsCake2399",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
-      "totalPlayHours": 98.4,
-      "playHoursToday": 1.159,
-      "playHoursLast7Days": 17.8,
-      "playHoursLast30Days": 44.7,
-      "playHoursLast90Days": 98.4,
+      "lastSeen": "2026-09-01T14:36:23.568Z",
+      "totalPlayHours": 98.5,
+      "playHoursToday": 1.209,
+      "playHoursLast7Days": 17.9,
+      "playHoursLast30Days": 44.8,
+      "playHoursLast90Days": 98.5,
       "_playDates": {
         "2026-06-07": 1.1661,
         "2026-07-02": 0.65,
@@ -3800,7 +3801,7 @@
         "2026-08-28": 4.25,
         "2026-08-29": 0.3,
         "2026-08-31": 6.55,
-        "2026-09-01": 1.159
+        "2026-09-01": 1.209
       }
     },
     {
@@ -4204,11 +4205,11 @@
     {
       "uuid": "",
       "username": "ilya736630",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
+      "lastSeen": "2026-09-01T14:36:23.568Z",
       "totalPlayHours": 603.2,
-      "playHoursToday": 7.709,
-      "playHoursLast7Days": 36.4,
-      "playHoursLast30Days": 249.7,
+      "playHoursToday": 7.759,
+      "playHoursLast7Days": 36.5,
+      "playHoursLast30Days": 249.8,
       "playHoursLast90Days": 603.2,
       "_playDates": {
         "2026-06-07": 0.8938,
@@ -4285,7 +4286,7 @@
         "2026-08-29": 6.15,
         "2026-08-30": 5.7,
         "2026-08-31": 4.55,
-        "2026-09-01": 7.709
+        "2026-09-01": 7.759
       }
     },
     {
@@ -4670,12 +4671,12 @@
     {
       "uuid": "",
       "username": "Broshten",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
-      "totalPlayHours": 267.9,
-      "playHoursToday": 2.859,
-      "playHoursLast7Days": 39.7,
+      "lastSeen": "2026-09-01T14:36:23.568Z",
+      "totalPlayHours": 268,
+      "playHoursToday": 2.909,
+      "playHoursLast7Days": 39.8,
       "playHoursLast30Days": 120.2,
-      "playHoursLast90Days": 267.9,
+      "playHoursLast90Days": 268,
       "_playDates": {
         "2026-06-07": 2.113,
         "2026-06-08": 2.925,
@@ -4753,7 +4754,7 @@
         "2026-08-29": 8.4,
         "2026-08-30": 6.75,
         "2026-08-31": 8.5,
-        "2026-09-01": 2.859
+        "2026-09-01": 2.909
       }
     },
     {
@@ -5200,11 +5201,11 @@
     {
       "uuid": "",
       "username": "MrAce",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
+      "lastSeen": "2026-09-01T14:36:23.568Z",
       "totalPlayHours": 752.9,
-      "playHoursToday": 7.859,
-      "playHoursLast7Days": 78.4,
-      "playHoursLast30Days": 358.3,
+      "playHoursToday": 7.909,
+      "playHoursLast7Days": 78.5,
+      "playHoursLast30Days": 358.4,
       "playHoursLast90Days": 752.9,
       "_playDates": {
         "2026-06-07": 2.536,
@@ -5283,7 +5284,7 @@
         "2026-08-29": 16,
         "2026-08-30": 14.95,
         "2026-08-31": 9.7,
-        "2026-09-01": 7.859
+        "2026-09-01": 7.909
       }
     },
     {
@@ -5475,12 +5476,12 @@
     {
       "uuid": "",
       "username": "Loska_stolowaya",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
-      "totalPlayHours": 243.7,
-      "playHoursToday": 5.459,
-      "playHoursLast7Days": 21.6,
+      "lastSeen": "2026-09-01T14:36:23.568Z",
+      "totalPlayHours": 243.8,
+      "playHoursToday": 5.509,
+      "playHoursLast7Days": 21.7,
       "playHoursLast30Days": 129.9,
-      "playHoursLast90Days": 243.7,
+      "playHoursLast90Days": 243.8,
       "_playDates": {
         "2026-06-07": 4.318,
         "2026-06-08": 6.008,
@@ -5539,7 +5540,7 @@
         "2026-08-29": 2.85,
         "2026-08-30": 2.3,
         "2026-08-31": 3.95,
-        "2026-09-01": 5.459
+        "2026-09-01": 5.509
       }
     },
     {
@@ -5996,12 +5997,12 @@
     {
       "uuid": "",
       "username": "TurboTaburetka",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
-      "totalPlayHours": 15.3,
-      "playHoursToday": 0.059,
+      "lastSeen": "2026-09-01T14:36:23.568Z",
+      "totalPlayHours": 15.4,
+      "playHoursToday": 0.109,
       "playHoursLast7Days": 12.3,
       "playHoursLast30Days": 12.3,
-      "playHoursLast90Days": 15.3,
+      "playHoursLast90Days": 15.4,
       "_playDates": {
         "2026-06-07": 1.419,
         "2026-06-08": 1.386,
@@ -6010,7 +6011,7 @@
         "2026-08-29": 1.3,
         "2026-08-30": 4.8,
         "2026-08-31": 6.1,
-        "2026-09-01": 0.059
+        "2026-09-01": 0.109
       }
     },
     {
@@ -6319,12 +6320,12 @@
     {
       "uuid": "",
       "username": "Lyonya",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
-      "totalPlayHours": 121.7,
-      "playHoursToday": 1.359,
-      "playHoursLast7Days": 3.7,
+      "lastSeen": "2026-09-01T14:36:23.568Z",
+      "totalPlayHours": 121.8,
+      "playHoursToday": 1.409,
+      "playHoursLast7Days": 3.8,
       "playHoursLast30Days": 34.4,
-      "playHoursLast90Days": 121.7,
+      "playHoursLast90Days": 121.8,
       "_playDates": {
         "2026-06-07": 0.835,
         "2026-06-09": 5.453,
@@ -6363,7 +6364,7 @@
         "2026-08-26": 0.05,
         "2026-08-27": 1.3,
         "2026-08-28": 1,
-        "2026-09-01": 1.359
+        "2026-09-01": 1.409
       }
     },
     {
@@ -6811,9 +6812,9 @@
     {
       "uuid": "",
       "username": "YtkaS",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
+      "lastSeen": "2026-09-01T14:36:23.568Z",
       "totalPlayHours": 315.8,
-      "playHoursToday": 1.759,
+      "playHoursToday": 1.809,
       "playHoursLast7Days": 30.6,
       "playHoursLast30Days": 53.3,
       "playHoursLast90Days": 315.8,
@@ -6887,7 +6888,7 @@
         "2026-08-29": 2,
         "2026-08-30": 7.55,
         "2026-08-31": 5.1,
-        "2026-09-01": 1.759
+        "2026-09-01": 1.809
       }
     },
     {
@@ -9405,10 +9406,10 @@
     {
       "uuid": "",
       "username": "oleg_212",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
+      "lastSeen": "2026-09-01T14:36:23.568Z",
       "totalPlayHours": 630.6,
-      "playHoursToday": 7.113,
-      "playHoursLast7Days": 61,
+      "playHoursToday": 7.163,
+      "playHoursLast7Days": 61.1,
       "playHoursLast30Days": 297.1,
       "playHoursLast90Days": 630.6,
       "_playDates": {
@@ -9490,7 +9491,7 @@
         "2026-08-29": 8.65,
         "2026-08-30": 9.6,
         "2026-08-31": 7.25,
-        "2026-09-01": 7.113
+        "2026-09-01": 7.163
       }
     },
     {
@@ -9770,10 +9771,10 @@
     {
       "uuid": "",
       "username": "chomak_456",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
+      "lastSeen": "2026-09-01T14:36:23.568Z",
       "totalPlayHours": 241.6,
-      "playHoursToday": 1.709,
-      "playHoursLast7Days": 36.4,
+      "playHoursToday": 1.759,
+      "playHoursLast7Days": 36.5,
       "playHoursLast30Days": 183.2,
       "playHoursLast90Days": 241.6,
       "_playDates": {
@@ -9820,7 +9821,7 @@
         "2026-08-28": 7.517,
         "2026-08-29": 5.25,
         "2026-08-30": 8.45,
-        "2026-09-01": 1.709
+        "2026-09-01": 1.759
       }
     },
     {
@@ -9936,10 +9937,10 @@
     {
       "uuid": "",
       "username": "Kultiim",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
+      "lastSeen": "2026-09-01T14:36:23.568Z",
       "totalPlayHours": 202.5,
-      "playHoursToday": 2.763,
-      "playHoursLast7Days": 18.4,
+      "playHoursToday": 2.813,
+      "playHoursLast7Days": 18.5,
       "playHoursLast30Days": 65.1,
       "playHoursLast90Days": 202.5,
       "_playDates": {
@@ -10015,7 +10016,7 @@
         "2026-08-29": 3.55,
         "2026-08-30": 1.3,
         "2026-08-31": 3.8,
-        "2026-09-01": 2.763
+        "2026-09-01": 2.813
       }
     },
     {
@@ -11326,11 +11327,11 @@
     {
       "uuid": "",
       "username": "Egorus",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
+      "lastSeen": "2026-09-01T14:36:23.568Z",
       "totalPlayHours": 55.8,
-      "playHoursToday": 1.259,
+      "playHoursToday": 1.309,
       "playHoursLast7Days": 2.7,
-      "playHoursLast30Days": 5.3,
+      "playHoursLast30Days": 5.4,
       "playHoursLast90Days": 55.8,
       "_playDates": {
         "2026-06-08": 3.3,
@@ -11351,18 +11352,18 @@
         "2026-08-02": 0.15,
         "2026-08-11": 2.65,
         "2026-08-28": 1.4,
-        "2026-09-01": 1.259
+        "2026-09-01": 1.309
       }
     },
     {
       "uuid": "",
       "username": "popovich4441",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
-      "totalPlayHours": 314.1,
-      "playHoursToday": 0.059,
-      "playHoursLast7Days": 24.1,
-      "playHoursLast30Days": 100.1,
-      "playHoursLast90Days": 314.1,
+      "lastSeen": "2026-09-01T14:36:23.568Z",
+      "totalPlayHours": 314.2,
+      "playHoursToday": 0.109,
+      "playHoursLast7Days": 24.2,
+      "playHoursLast30Days": 100.2,
+      "playHoursLast90Days": 314.2,
       "_playDates": {
         "2026-06-08": 4.217,
         "2026-06-09": 2.75,
@@ -11437,7 +11438,7 @@
         "2026-08-29": 4.15,
         "2026-08-30": 10.35,
         "2026-08-31": 3.2,
-        "2026-09-01": 0.059
+        "2026-09-01": 0.109
       }
     },
     {
@@ -12645,10 +12646,10 @@
     {
       "uuid": "",
       "username": "Kulebyaka_77",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
+      "lastSeen": "2026-09-01T14:36:23.568Z",
       "totalPlayHours": 127,
-      "playHoursToday": 5.009,
-      "playHoursLast7Days": 111,
+      "playHoursToday": 5.059,
+      "playHoursLast7Days": 111.1,
       "playHoursLast30Days": 119.6,
       "playHoursLast90Days": 127,
       "_playDates": {
@@ -12667,7 +12668,7 @@
         "2026-08-29": 20.4,
         "2026-08-30": 21.15,
         "2026-08-31": 14,
-        "2026-09-01": 5.009
+        "2026-09-01": 5.059
       }
     },
     {
@@ -21631,11 +21632,11 @@
     {
       "uuid": "",
       "username": "Tanjio46",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
+      "lastSeen": "2026-09-01T14:36:23.568Z",
       "totalPlayHours": 802.7,
-      "playHoursToday": 6.009,
-      "playHoursLast7Days": 42.3,
-      "playHoursLast30Days": 208.1,
+      "playHoursToday": 6.059,
+      "playHoursLast7Days": 42.4,
+      "playHoursLast30Days": 208.2,
       "playHoursLast90Days": 802.7,
       "_playDates": {
         "2026-06-15": 11.633,
@@ -21713,7 +21714,7 @@
         "2026-08-29": 2.15,
         "2026-08-30": 15.2,
         "2026-08-31": 8.7,
-        "2026-09-01": 6.009
+        "2026-09-01": 6.059
       }
     },
     {
@@ -22518,11 +22519,11 @@
     {
       "uuid": "",
       "username": "faral7",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
+      "lastSeen": "2026-09-01T14:36:23.568Z",
       "totalPlayHours": 453.5,
-      "playHoursToday": 6.046,
+      "playHoursToday": 6.096,
       "playHoursLast7Days": 50.5,
-      "playHoursLast30Days": 161.9,
+      "playHoursLast30Days": 162,
       "playHoursLast90Days": 453.5,
       "_playDates": {
         "2026-06-16": 7.767,
@@ -22569,7 +22570,7 @@
         "2026-08-29": 11.85,
         "2026-08-30": 15.45,
         "2026-08-31": 14.9,
-        "2026-09-01": 6.046
+        "2026-09-01": 6.096
       }
     },
     {
@@ -26090,9 +26091,9 @@
     {
       "uuid": "",
       "username": "Yolter_Yaits",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
+      "lastSeen": "2026-09-01T14:36:23.568Z",
       "totalPlayHours": 360.4,
-      "playHoursToday": 0.059,
+      "playHoursToday": 0.109,
       "playHoursLast7Days": 18.3,
       "playHoursLast30Days": 179.4,
       "playHoursLast90Days": 360.4,
@@ -26154,7 +26155,7 @@
         "2026-08-28": 0.6,
         "2026-08-30": 5.8,
         "2026-08-31": 2.1,
-        "2026-09-01": 0.059
+        "2026-09-01": 0.109
       }
     },
     {
@@ -27121,12 +27122,12 @@
     {
       "uuid": "",
       "username": "sirnicheck",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
-      "totalPlayHours": 95.8,
-      "playHoursToday": 0.859,
-      "playHoursLast7Days": 51.1,
-      "playHoursLast30Days": 93.7,
-      "playHoursLast90Days": 95.8,
+      "lastSeen": "2026-09-01T14:36:23.568Z",
+      "totalPlayHours": 95.9,
+      "playHoursToday": 0.909,
+      "playHoursLast7Days": 51.2,
+      "playHoursLast30Days": 93.8,
+      "playHoursLast90Days": 95.9,
       "_playDates": {
         "2026-06-22": 1.05,
         "2026-06-24": 0.8,
@@ -27143,7 +27144,7 @@
         "2026-08-29": 9.4,
         "2026-08-30": 6.65,
         "2026-08-31": 6.8,
-        "2026-09-01": 0.859
+        "2026-09-01": 0.909
       }
     },
     {
@@ -30014,12 +30015,12 @@
     {
       "uuid": "",
       "username": "itiv1",
-      "lastSeen": "2026-09-01T14:28:26.204Z",
-      "totalPlayHours": 55.9,
-      "playHoursToday": 1.55,
+      "lastSeen": "2026-09-01T14:36:23.568Z",
+      "totalPlayHours": 56,
+      "playHoursToday": 1.6,
       "playHoursLast7Days": 3.8,
-      "playHoursLast30Days": 5.1,
-      "playHoursLast90Days": 55.9,
+      "playHoursLast30Days": 5.2,
+      "playHoursLast90Days": 56,
       "_playDates": {
         "2026-06-26": 0.65,
         "2026-06-27": 1.2,
@@ -30055,7 +30056,7 @@
         "2026-08-09": 1.1,
         "2026-08-18": 0.25,
         "2026-08-31": 2.2,
-        "2026-09-01": 1.55
+        "2026-09-01": 1.6
       }
     },
     {
@@ -37928,11 +37929,11 @@
     {
       "uuid": "",
       "username": "CopperDragonLord",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
+      "lastSeen": "2026-09-01T14:36:23.568Z",
       "totalPlayHours": 557.8,
-      "playHoursToday": 5.659,
+      "playHoursToday": 5.709,
       "playHoursLast7Days": 94.1,
-      "playHoursLast30Days": 464.8,
+      "playHoursLast30Days": 464.9,
       "playHoursLast90Days": 557.8,
       "_playDates": {
         "2026-07-10": 13.753,
@@ -37981,7 +37982,7 @@
         "2026-08-29": 19.2,
         "2026-08-30": 19.15,
         "2026-08-31": 17.95,
-        "2026-09-01": 5.659
+        "2026-09-01": 5.709
       }
     },
     {
@@ -39928,12 +39929,12 @@
     {
       "uuid": "",
       "username": "0rph3uz",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
-      "totalPlayHours": 59.7,
-      "playHoursToday": 2.059,
+      "lastSeen": "2026-09-01T14:36:23.568Z",
+      "totalPlayHours": 59.8,
+      "playHoursToday": 2.109,
       "playHoursLast7Days": 12.8,
-      "playHoursLast30Days": 54.2,
-      "playHoursLast90Days": 59.7,
+      "playHoursLast30Days": 54.3,
+      "playHoursLast90Days": 59.8,
       "_playDates": {
         "2026-07-13": 0.15,
         "2026-07-27": 0.3,
@@ -39961,7 +39962,7 @@
         "2026-08-28": 1.6,
         "2026-08-30": 2.65,
         "2026-08-31": 1.2,
-        "2026-09-01": 2.059
+        "2026-09-01": 2.109
       }
     },
     {
@@ -43798,11 +43799,11 @@
     {
       "uuid": "",
       "username": "KORTOHELL",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
+      "lastSeen": "2026-09-01T14:36:23.568Z",
       "totalPlayHours": 247.4,
-      "playHoursToday": 5.059,
-      "playHoursLast7Days": 16.7,
-      "playHoursLast30Days": 106.5,
+      "playHoursToday": 5.109,
+      "playHoursLast7Days": 16.8,
+      "playHoursLast30Days": 106.6,
       "playHoursLast90Days": 247.4,
       "_playDates": {
         "2026-07-18": 7.317,
@@ -43844,7 +43845,7 @@
         "2026-08-29": 3.5,
         "2026-08-30": 1.3,
         "2026-08-31": 3.1,
-        "2026-09-01": 5.059
+        "2026-09-01": 5.109
       }
     },
     {
@@ -54314,12 +54315,12 @@
     {
       "uuid": "",
       "username": "Freedom_Man13",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
-      "totalPlayHours": 263.5,
-      "playHoursToday": 4.959,
-      "playHoursLast7Days": 39.2,
-      "playHoursLast30Days": 256.8,
-      "playHoursLast90Days": 263.5,
+      "lastSeen": "2026-09-01T14:36:23.568Z",
+      "totalPlayHours": 263.6,
+      "playHoursToday": 5.009,
+      "playHoursLast7Days": 39.3,
+      "playHoursLast30Days": 256.9,
+      "playHoursLast90Days": 263.6,
       "_playDates": {
         "2026-08-02": 6.7,
         "2026-08-03": 13.37,
@@ -54347,7 +54348,7 @@
         "2026-08-27": 16.216,
         "2026-08-28": 8.75,
         "2026-08-29": 8.2,
-        "2026-09-01": 4.959
+        "2026-09-01": 5.009
       }
     },
     {
@@ -56353,12 +56354,12 @@
     {
       "uuid": "",
       "username": "Sergey_BTW",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
-      "totalPlayHours": 48,
-      "playHoursToday": 2.359,
+      "lastSeen": "2026-09-01T14:36:23.568Z",
+      "totalPlayHours": 48.1,
+      "playHoursToday": 2.409,
       "playHoursLast7Days": 12.5,
-      "playHoursLast30Days": 48,
-      "playHoursLast90Days": 48,
+      "playHoursLast30Days": 48.1,
+      "playHoursLast90Days": 48.1,
       "_playDates": {
         "2026-08-03": 1.12,
         "2026-08-04": 8.55,
@@ -56371,7 +56372,7 @@
         "2026-08-16": 1.85,
         "2026-08-28": 5.667,
         "2026-08-31": 4.45,
-        "2026-09-01": 2.359
+        "2026-09-01": 2.409
       }
     },
     {
@@ -61957,12 +61958,12 @@
     {
       "uuid": "",
       "username": "JIMBOW1337",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
-      "totalPlayHours": 63.9,
-      "playHoursToday": 0.109,
+      "lastSeen": "2026-09-01T14:36:23.568Z",
+      "totalPlayHours": 64,
+      "playHoursToday": 0.159,
       "playHoursLast7Days": 12.4,
-      "playHoursLast30Days": 63.9,
-      "playHoursLast90Days": 63.9,
+      "playHoursLast30Days": 64,
+      "playHoursLast90Days": 64,
       "_playDates": {
         "2026-08-09": 4.4,
         "2026-08-10": 10.65,
@@ -61974,7 +61975,7 @@
         "2026-08-25": 0.2,
         "2026-08-29": 4.15,
         "2026-08-30": 8.1,
-        "2026-09-01": 0.109
+        "2026-09-01": 0.159
       }
     },
     {
@@ -74633,18 +74634,18 @@
     {
       "uuid": "",
       "username": "GEMELI",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
-      "totalPlayHours": 53.4,
-      "playHoursToday": 6.559,
-      "playHoursLast7Days": 53.4,
-      "playHoursLast30Days": 53.4,
-      "playHoursLast90Days": 53.4,
+      "lastSeen": "2026-09-01T14:36:23.568Z",
+      "totalPlayHours": 53.5,
+      "playHoursToday": 6.609,
+      "playHoursLast7Days": 53.5,
+      "playHoursLast30Days": 53.5,
+      "playHoursLast90Days": 53.5,
       "_playDates": {
         "2026-08-27": 0.05,
         "2026-08-29": 14.25,
         "2026-08-30": 17,
         "2026-08-31": 15.55,
-        "2026-09-01": 6.559
+        "2026-09-01": 6.609
       }
     },
     {
@@ -76319,16 +76320,16 @@
     {
       "uuid": "",
       "username": "Dezenti",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
-      "totalPlayHours": 9.6,
-      "playHoursToday": 4.859,
-      "playHoursLast7Days": 9.6,
-      "playHoursLast30Days": 9.6,
-      "playHoursLast90Days": 9.6,
+      "lastSeen": "2026-09-01T14:36:23.568Z",
+      "totalPlayHours": 9.7,
+      "playHoursToday": 4.909,
+      "playHoursLast7Days": 9.7,
+      "playHoursLast30Days": 9.7,
+      "playHoursLast90Days": 9.7,
       "_playDates": {
         "2026-08-30": 2.25,
         "2026-08-31": 2.5,
-        "2026-09-01": 4.859
+        "2026-09-01": 4.909
       }
     },
     {
@@ -76769,15 +76770,15 @@
     {
       "uuid": "",
       "username": "igorGG1523",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
-      "totalPlayHours": 7.9,
-      "playHoursToday": 0.859,
-      "playHoursLast7Days": 7.9,
-      "playHoursLast30Days": 7.9,
-      "playHoursLast90Days": 7.9,
+      "lastSeen": "2026-09-01T14:36:23.568Z",
+      "totalPlayHours": 8,
+      "playHoursToday": 0.909,
+      "playHoursLast7Days": 8,
+      "playHoursLast30Days": 8,
+      "playHoursLast90Days": 8,
       "_playDates": {
         "2026-08-31": 7.05,
-        "2026-09-01": 0.859
+        "2026-09-01": 0.909
       }
     },
     {
@@ -77386,14 +77387,14 @@
     {
       "uuid": "",
       "username": "He_Pyclan",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
-      "totalPlayHours": 0.4,
-      "playHoursToday": 0.409,
-      "playHoursLast7Days": 0.4,
-      "playHoursLast30Days": 0.4,
-      "playHoursLast90Days": 0.4,
+      "lastSeen": "2026-09-01T14:36:23.568Z",
+      "totalPlayHours": 0.5,
+      "playHoursToday": 0.459,
+      "playHoursLast7Days": 0.5,
+      "playHoursLast30Days": 0.5,
+      "playHoursLast90Days": 0.5,
       "_playDates": {
-        "2026-09-01": 0.409
+        "2026-09-01": 0.459
       }
     },
     {
@@ -77412,20 +77413,33 @@
     {
       "uuid": "",
       "username": "KAPIBARA",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
-      "totalPlayHours": 0.3,
-      "playHoursToday": 0.309,
-      "playHoursLast7Days": 0.3,
-      "playHoursLast30Days": 0.3,
-      "playHoursLast90Days": 0.3,
+      "lastSeen": "2026-09-01T14:36:23.568Z",
+      "totalPlayHours": 0.4,
+      "playHoursToday": 0.359,
+      "playHoursLast7Days": 0.4,
+      "playHoursLast30Days": 0.4,
+      "playHoursLast90Days": 0.4,
       "_playDates": {
-        "2026-09-01": 0.309
+        "2026-09-01": 0.359
       }
     },
     {
       "uuid": "",
       "username": "binguscat",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
+      "lastSeen": "2026-09-01T14:36:23.568Z",
+      "totalPlayHours": 0.4,
+      "playHoursToday": 0.359,
+      "playHoursLast7Days": 0.4,
+      "playHoursLast30Days": 0.4,
+      "playHoursLast90Days": 0.4,
+      "_playDates": {
+        "2026-09-01": 0.359
+      }
+    },
+    {
+      "uuid": "",
+      "username": "bill",
+      "lastSeen": "2026-09-01T14:36:23.568Z",
       "totalPlayHours": 0.3,
       "playHoursToday": 0.309,
       "playHoursLast7Days": 0.3,
@@ -77433,19 +77447,6 @@
       "playHoursLast90Days": 0.3,
       "_playDates": {
         "2026-09-01": 0.309
-      }
-    },
-    {
-      "uuid": "",
-      "username": "bill",
-      "lastSeen": "2026-09-01T14:34:25.174Z",
-      "totalPlayHours": 0.3,
-      "playHoursToday": 0.259,
-      "playHoursLast7Days": 0.3,
-      "playHoursLast30Days": 0.3,
-      "playHoursLast90Days": 0.3,
-      "_playDates": {
-        "2026-09-01": 0.259
       }
     },
     {
@@ -80323,6 +80324,10 @@
     {
       "timestamp": "2026-09-01T14:34:25.174Z",
       "playersOnline": 36
+    },
+    {
+      "timestamp": "2026-09-01T14:36:23.568Z",
+      "playersOnline": 38
     }
   ]
 }
