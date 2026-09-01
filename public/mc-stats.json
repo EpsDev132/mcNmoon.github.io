@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-09-01T03:22:24.543Z",
+  "lastUpdated": "2026-09-01T03:24:24.527Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -608,7 +608,7 @@
       "min": 0,
       "avg": 5,
       "max": 5,
-      "_count": 193
+      "_count": 194
     }
   ],
   "players": [
@@ -9026,12 +9026,12 @@
     {
       "uuid": "",
       "username": "Victor836222",
-      "lastSeen": "2026-09-01T03:22:24.543Z",
-      "totalPlayHours": 171.5,
-      "playHoursToday": 2.1,
+      "lastSeen": "2026-09-01T03:24:24.527Z",
+      "totalPlayHours": 171.6,
+      "playHoursToday": 2.15,
       "playHoursLast7Days": 16.9,
       "playHoursLast30Days": 95.4,
-      "playHoursLast90Days": 171.5,
+      "playHoursLast90Days": 171.6,
       "_playDates": {
         "2026-06-08": 1.335,
         "2026-07-08": 6.117,
@@ -9079,7 +9079,7 @@
         "2026-08-29": 4.25,
         "2026-08-30": 0.6,
         "2026-08-31": 3.7,
-        "2026-09-01": 2.1
+        "2026-09-01": 2.15
       }
     },
     {
@@ -64393,9 +64393,9 @@
     {
       "uuid": "",
       "username": "Babosik02",
-      "lastSeen": "2026-09-01T03:22:24.543Z",
+      "lastSeen": "2026-09-01T03:24:24.527Z",
       "totalPlayHours": 211.7,
-      "playHoursToday": 0.85,
+      "playHoursToday": 0.9,
       "playHoursLast7Days": 49.9,
       "playHoursLast30Days": 211.7,
       "playHoursLast90Days": 211.7,
@@ -64420,7 +64420,7 @@
         "2026-08-29": 8.75,
         "2026-08-30": 10.05,
         "2026-08-31": 5,
-        "2026-09-01": 0.85
+        "2026-09-01": 0.9
       }
     },
     {
@@ -76983,10 +76983,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-08-31T03:24:24.466Z",
-      "playersOnline": 6
-    },
-    {
       "timestamp": "2026-08-31T03:26:22.034Z",
       "playersOnline": 6
     },
@@ -79876,6 +79872,10 @@
     },
     {
       "timestamp": "2026-09-01T03:22:24.543Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-09-01T03:24:24.527Z",
       "playersOnline": 2
     }
   ]
