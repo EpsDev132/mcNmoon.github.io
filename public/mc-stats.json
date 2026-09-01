@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-09-01T02:32:22.595Z",
+  "lastUpdated": "2026-09-01T02:34:25.925Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -608,7 +608,7 @@
       "min": 0,
       "avg": 5,
       "max": 5,
-      "_count": 168
+      "_count": 169
     }
   ],
   "players": [
@@ -59014,10 +59014,10 @@
     {
       "uuid": "",
       "username": "Mandarinchick",
-      "lastSeen": "2026-09-01T02:32:22.595Z",
+      "lastSeen": "2026-09-01T02:34:25.925Z",
       "totalPlayHours": 165.3,
-      "playHoursToday": 1.05,
-      "playHoursLast7Days": 70.6,
+      "playHoursToday": 1.1,
+      "playHoursLast7Days": 70.7,
       "playHoursLast30Days": 165.3,
       "playHoursLast90Days": 165.3,
       "_playDates": {
@@ -59042,7 +59042,7 @@
         "2026-08-29": 11.85,
         "2026-08-30": 16.8,
         "2026-08-31": 17.25,
-        "2026-09-01": 1.05
+        "2026-09-01": 1.1
       }
     },
     {
@@ -76981,14 +76981,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-08-31T02:32:27.583Z",
-      "playersOnline": 5
-    },
-    {
-      "timestamp": "2026-08-31T02:34:22.163Z",
-      "playersOnline": 5
-    },
-    {
       "timestamp": "2026-08-31T02:36:21.294Z",
       "playersOnline": 5
     },
@@ -79879,6 +79871,10 @@
     {
       "timestamp": "2026-09-01T02:32:22.595Z",
       "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-09-01T02:34:25.925Z",
+      "playersOnline": 1
     }
   ]
 }
