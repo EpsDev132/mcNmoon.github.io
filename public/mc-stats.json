@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-09-01T04:02:21.479Z",
+  "lastUpdated": "2026-09-01T04:04:22.413Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -608,7 +608,7 @@
       "min": 0,
       "avg": 5,
       "max": 6,
-      "_count": 213
+      "_count": 214
     }
   ],
   "players": [
@@ -5181,11 +5181,11 @@
     {
       "uuid": "",
       "username": "MrAce",
-      "lastSeen": "2026-09-01T04:02:21.479Z",
+      "lastSeen": "2026-09-01T04:04:22.413Z",
       "totalPlayHours": 745.6,
-      "playHoursToday": 0.55,
+      "playHoursToday": 0.6,
       "playHoursLast7Days": 71.1,
-      "playHoursLast30Days": 351,
+      "playHoursLast30Days": 351.1,
       "playHoursLast90Days": 745.6,
       "_playDates": {
         "2026-06-07": 2.536,
@@ -5264,7 +5264,7 @@
         "2026-08-29": 16,
         "2026-08-30": 14.95,
         "2026-08-31": 9.7,
-        "2026-09-01": 0.55
+        "2026-09-01": 0.6
       }
     },
     {
@@ -49154,11 +49154,11 @@
     {
       "uuid": "",
       "username": "cbey_kamar",
-      "lastSeen": "2026-09-01T04:02:21.479Z",
+      "lastSeen": "2026-09-01T04:04:22.413Z",
       "totalPlayHours": 166.7,
-      "playHoursToday": 1,
-      "playHoursLast7Days": 22.7,
-      "playHoursLast30Days": 142.3,
+      "playHoursToday": 1.05,
+      "playHoursLast7Days": 22.8,
+      "playHoursLast30Days": 142.4,
       "playHoursLast90Days": 166.7,
       "_playDates": {
         "2026-07-27": 0.85,
@@ -49190,7 +49190,7 @@
         "2026-08-29": 3.8,
         "2026-08-30": 4.1,
         "2026-08-31": 11.2,
-        "2026-09-01": 1
+        "2026-09-01": 1.05
       }
     },
     {
@@ -76986,10 +76986,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-08-31T04:02:26.258Z",
-      "playersOnline": 6
-    },
-    {
       "timestamp": "2026-08-31T04:04:24.007Z",
       "playersOnline": 8
     },
@@ -79883,6 +79879,10 @@
     },
     {
       "timestamp": "2026-09-01T04:02:21.479Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-09-01T04:04:22.413Z",
       "playersOnline": 2
     }
   ]
