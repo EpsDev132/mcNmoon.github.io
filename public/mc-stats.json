@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-09-02T01:42:22.045Z",
+  "lastUpdated": "2026-09-02T01:44:22.746Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -615,7 +615,7 @@
       "min": 1,
       "avg": 2,
       "max": 3,
-      "_count": 144
+      "_count": 145
     }
   ],
   "players": [
@@ -9076,9 +9076,9 @@
     {
       "uuid": "",
       "username": "Victor836222",
-      "lastSeen": "2026-09-02T01:42:22.045Z",
+      "lastSeen": "2026-09-02T01:44:22.746Z",
       "totalPlayHours": 176.8,
-      "playHoursToday": 2.6,
+      "playHoursToday": 2.65,
       "playHoursLast7Days": 18.4,
       "playHoursLast30Days": 98.7,
       "playHoursLast90Days": 176.8,
@@ -9130,7 +9130,7 @@
         "2026-08-30": 0.6,
         "2026-08-31": 3.7,
         "2026-09-01": 4.75,
-        "2026-09-02": 2.6
+        "2026-09-02": 2.65
       }
     },
     {
@@ -12183,12 +12183,12 @@
     {
       "uuid": "",
       "username": "rubarsik",
-      "lastSeen": "2026-09-02T01:42:22.045Z",
-      "totalPlayHours": 329.2,
-      "playHoursToday": 7.1,
+      "lastSeen": "2026-09-02T01:44:22.746Z",
+      "totalPlayHours": 329.3,
+      "playHoursToday": 7.15,
       "playHoursLast7Days": 30.6,
-      "playHoursLast30Days": 82.6,
-      "playHoursLast90Days": 329.2,
+      "playHoursLast30Days": 82.7,
+      "playHoursLast90Days": 329.3,
       "_playDates": {
         "2026-06-08": 0.75,
         "2026-06-09": 0.3,
@@ -12254,7 +12254,7 @@
         "2026-08-29": 0.45,
         "2026-08-31": 10.5,
         "2026-09-01": 12.1,
-        "2026-09-02": 7.1
+        "2026-09-02": 7.15
       }
     },
     {
@@ -77621,10 +77621,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-09-01T01:44:19.922Z",
-      "playersOnline": 1
-    },
-    {
       "timestamp": "2026-09-01T01:46:25.085Z",
       "playersOnline": 1
     },
@@ -80466,6 +80462,10 @@
     },
     {
       "timestamp": "2026-09-02T01:42:22.045Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-09-02T01:44:22.746Z",
       "playersOnline": 2
     }
   ]
