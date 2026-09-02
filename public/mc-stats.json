@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-09-02T00:20:32.682Z",
+  "lastUpdated": "2026-09-02T00:22:21.901Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -615,7 +615,7 @@
       "min": 1,
       "avg": 2,
       "max": 2,
-      "_count": 103
+      "_count": 104
     }
   ],
   "players": [
@@ -9076,12 +9076,12 @@
     {
       "uuid": "",
       "username": "Victor836222",
-      "lastSeen": "2026-09-02T00:20:32.682Z",
-      "totalPlayHours": 174.7,
-      "playHoursToday": 0.55,
+      "lastSeen": "2026-09-02T00:22:21.901Z",
+      "totalPlayHours": 174.8,
+      "playHoursToday": 0.6,
       "playHoursLast7Days": 16.4,
-      "playHoursLast30Days": 96.6,
-      "playHoursLast90Days": 174.7,
+      "playHoursLast30Days": 96.7,
+      "playHoursLast90Days": 174.8,
       "_playDates": {
         "2026-06-08": 1.335,
         "2026-07-08": 6.117,
@@ -9130,7 +9130,7 @@
         "2026-08-30": 0.6,
         "2026-08-31": 3.7,
         "2026-09-01": 4.75,
-        "2026-09-02": 0.55
+        "2026-09-02": 0.6
       }
     },
     {
@@ -12183,11 +12183,11 @@
     {
       "uuid": "",
       "username": "rubarsik",
-      "lastSeen": "2026-09-02T00:20:32.682Z",
+      "lastSeen": "2026-09-02T00:22:21.901Z",
       "totalPlayHours": 327.2,
-      "playHoursToday": 5.05,
+      "playHoursToday": 5.1,
       "playHoursLast7Days": 28.6,
-      "playHoursLast30Days": 80.5,
+      "playHoursLast30Days": 80.6,
       "playHoursLast90Days": 327.2,
       "_playDates": {
         "2026-06-08": 0.75,
@@ -12254,7 +12254,7 @@
         "2026-08-29": 0.45,
         "2026-08-31": 10.5,
         "2026-09-01": 12.1,
-        "2026-09-02": 5.05
+        "2026-09-02": 5.1
       }
     },
     {
@@ -77620,18 +77620,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-09-01T00:20:34.632Z",
-      "playersOnline": 0
-    },
-    {
-      "timestamp": "2026-09-01T00:21:06.172Z",
-      "playersOnline": 0
-    },
-    {
-      "timestamp": "2026-09-01T00:22:21.465Z",
-      "playersOnline": 0
-    },
-    {
       "timestamp": "2026-09-01T00:24:20.306Z",
       "playersOnline": 0
     },
@@ -80473,6 +80461,10 @@
     },
     {
       "timestamp": "2026-09-02T00:20:32.682Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-09-02T00:22:21.901Z",
       "playersOnline": 2
     }
   ]
