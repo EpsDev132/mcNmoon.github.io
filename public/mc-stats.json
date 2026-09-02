@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-09-02T22:38:23.698Z",
+  "lastUpdated": "2026-09-02T22:40:36.785Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -622,7 +622,7 @@
       "min": 1,
       "avg": 12,
       "max": 19,
-      "_count": 50
+      "_count": 51
     }
   ],
   "players": [
@@ -17438,12 +17438,12 @@
     {
       "uuid": "",
       "username": "hulk234",
-      "lastSeen": "2026-09-01T19:06:22.378Z",
-      "totalPlayHours": 1310.4,
-      "playHoursToday": 0,
+      "lastSeen": "2026-09-02T22:40:36.785Z",
+      "totalPlayHours": 1310.5,
+      "playHoursToday": 0.05,
       "playHoursLast7Days": 82,
       "playHoursLast30Days": 440,
-      "playHoursLast90Days": 1310.4,
+      "playHoursLast90Days": 1310.5,
       "_playDates": {
         "2026-06-11": 3.85,
         "2026-06-12": 5.462,
@@ -17526,7 +17526,8 @@
         "2026-08-29": 13,
         "2026-08-30": 25.2,
         "2026-08-31": 8.7,
-        "2026-09-01": 3.85
+        "2026-09-01": 3.85,
+        "2026-09-03": 0.05
       }
     },
     {
@@ -54479,12 +54480,12 @@
     {
       "uuid": "",
       "username": "Freedom_Man13",
-      "lastSeen": "2026-09-02T22:38:23.698Z",
-      "totalPlayHours": 271.4,
-      "playHoursToday": 2.3,
-      "playHoursLast7Days": 46,
+      "lastSeen": "2026-09-02T22:40:36.785Z",
+      "totalPlayHours": 271.5,
+      "playHoursToday": 2.35,
+      "playHoursLast7Days": 46.1,
       "playHoursLast30Days": 251.4,
-      "playHoursLast90Days": 271.4,
+      "playHoursLast90Days": 271.5,
       "_playDates": {
         "2026-08-02": 6.7,
         "2026-08-03": 13.37,
@@ -54514,7 +54515,7 @@
         "2026-08-29": 8.2,
         "2026-09-01": 10.159,
         "2026-09-02": 0.4,
-        "2026-09-03": 2.3
+        "2026-09-03": 2.35
       }
     },
     {
@@ -78032,10 +78033,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-09-01T22:40:32.518Z",
-      "playersOnline": 1
-    },
-    {
       "timestamp": "2026-09-01T22:42:21.895Z",
       "playersOnline": 1
     },
@@ -80934,6 +80931,10 @@
     {
       "timestamp": "2026-09-02T22:38:23.698Z",
       "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-09-02T22:40:36.785Z",
+      "playersOnline": 2
     }
   ]
 }
