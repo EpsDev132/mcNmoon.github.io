@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-09-03T04:08:21.395Z",
+  "lastUpdated": "2026-09-03T04:10:35.196Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -622,7 +622,7 @@
       "min": 0,
       "avg": 12,
       "max": 19,
-      "_count": 215
+      "_count": 216
     }
   ],
   "players": [
@@ -20744,17 +20744,17 @@
     {
       "uuid": "",
       "username": "Bogdan_2015",
-      "lastSeen": "2026-09-03T04:08:21.395Z",
+      "lastSeen": "2026-09-03T04:10:35.196Z",
       "totalPlayHours": 4.3,
-      "playHoursToday": 0.85,
-      "playHoursLast7Days": 3.8,
-      "playHoursLast30Days": 3.8,
+      "playHoursToday": 0.9,
+      "playHoursLast7Days": 3.9,
+      "playHoursLast30Days": 3.9,
       "playHoursLast90Days": 4.3,
       "_playDates": {
         "2026-06-14": 0.45,
         "2026-08-31": 1.45,
         "2026-09-02": 1.5,
-        "2026-09-03": 0.85
+        "2026-09-03": 0.9
       }
     },
     {
@@ -33849,12 +33849,12 @@
     {
       "uuid": "",
       "username": "1gggtgf_",
-      "lastSeen": "2026-09-02T19:18:23.822Z",
-      "totalPlayHours": 110.3,
-      "playHoursToday": 0,
+      "lastSeen": "2026-09-03T04:10:35.196Z",
+      "totalPlayHours": 110.4,
+      "playHoursToday": 0.05,
       "playHoursLast7Days": 9.3,
       "playHoursLast30Days": 43.9,
-      "playHoursLast90Days": 110.3,
+      "playHoursLast90Days": 110.4,
       "_playDates": {
         "2026-07-02": 1.1,
         "2026-07-03": 7.95,
@@ -33885,7 +33885,8 @@
         "2026-08-30": 0.45,
         "2026-08-31": 0.3,
         "2026-09-01": 5.75,
-        "2026-09-02": 2.75
+        "2026-09-02": 2.75,
+        "2026-09-03": 0.05
       }
     },
     {
@@ -78038,14 +78039,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-09-02T04:08:23.695Z",
-      "playersOnline": 2
-    },
-    {
-      "timestamp": "2026-09-02T04:10:33.149Z",
-      "playersOnline": 4
-    },
-    {
       "timestamp": "2026-09-02T04:12:25.297Z",
       "playersOnline": 4
     },
@@ -80936,6 +80929,10 @@
     {
       "timestamp": "2026-09-03T04:08:21.395Z",
       "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-09-03T04:10:35.196Z",
+      "playersOnline": 2
     }
   ]
 }
