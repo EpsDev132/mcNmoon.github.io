@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-09-03T21:32:25.160Z",
+  "lastUpdated": "2026-09-03T21:34:22.485Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -629,7 +629,7 @@
       "min": 2,
       "avg": 6,
       "max": 7,
-      "_count": 17
+      "_count": 18
     }
   ],
   "players": [
@@ -19152,9 +19152,9 @@
     {
       "uuid": "",
       "username": "SleepIsLife",
-      "lastSeen": "2026-09-03T21:32:25.160Z",
+      "lastSeen": "2026-09-03T21:34:22.485Z",
       "totalPlayHours": 770.8,
-      "playHoursToday": 0.85,
+      "playHoursToday": 0.9,
       "playHoursLast7Days": 74.2,
       "playHoursLast30Days": 262.8,
       "playHoursLast90Days": 770.8,
@@ -19238,7 +19238,7 @@
         "2026-09-01": 11.2,
         "2026-09-02": 7.45,
         "2026-09-03": 7.6,
-        "2026-09-04": 0.85
+        "2026-09-04": 0.9
       }
     },
     {
@@ -73636,9 +73636,9 @@
     {
       "uuid": "",
       "username": "AnRisk",
-      "lastSeen": "2026-09-03T21:32:25.160Z",
+      "lastSeen": "2026-09-03T21:34:22.485Z",
       "totalPlayHours": 31.5,
-      "playHoursToday": 0.85,
+      "playHoursToday": 0.9,
       "playHoursLast7Days": 24,
       "playHoursLast30Days": 31.5,
       "playHoursLast90Days": 31.5,
@@ -73652,7 +73652,7 @@
         "2026-08-31": 3.7,
         "2026-09-02": 0.8,
         "2026-09-03": 11,
-        "2026-09-04": 0.85
+        "2026-09-04": 0.9
       }
     },
     {
@@ -78467,10 +78467,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-09-02T21:34:22.222Z",
-      "playersOnline": 7
-    },
-    {
       "timestamp": "2026-09-02T21:36:23.562Z",
       "playersOnline": 7
     },
@@ -81360,6 +81356,10 @@
     },
     {
       "timestamp": "2026-09-03T21:32:25.160Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-09-03T21:34:22.485Z",
       "playersOnline": 2
     }
   ]
