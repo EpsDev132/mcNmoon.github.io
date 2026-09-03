@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-09-03T21:38:24.386Z",
+  "lastUpdated": "2026-09-03T21:40:32.992Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -626,10 +626,10 @@
     },
     {
       "date": "2026-09-04",
-      "min": 2,
+      "min": 1,
       "avg": 6,
       "max": 7,
-      "_count": 20
+      "_count": 21
     }
   ],
   "players": [
@@ -73636,12 +73636,12 @@
     {
       "uuid": "",
       "username": "AnRisk",
-      "lastSeen": "2026-09-03T21:38:24.386Z",
-      "totalPlayHours": 31.6,
-      "playHoursToday": 1,
-      "playHoursLast7Days": 24.1,
-      "playHoursLast30Days": 31.6,
-      "playHoursLast90Days": 31.6,
+      "lastSeen": "2026-09-03T21:40:32.992Z",
+      "totalPlayHours": 31.7,
+      "playHoursToday": 1.05,
+      "playHoursLast7Days": 24.2,
+      "playHoursLast30Days": 31.7,
+      "playHoursLast90Days": 31.7,
       "_playDates": {
         "2026-08-24": 0.4,
         "2026-08-25": 3.85,
@@ -73652,7 +73652,7 @@
         "2026-08-31": 3.7,
         "2026-09-02": 0.8,
         "2026-09-03": 11,
-        "2026-09-04": 1
+        "2026-09-04": 1.05
       }
     },
     {
@@ -81361,6 +81361,10 @@
     {
       "timestamp": "2026-09-03T21:38:24.386Z",
       "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-09-03T21:40:32.992Z",
+      "playersOnline": 1
     }
   ]
 }
