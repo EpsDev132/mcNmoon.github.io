@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-09-03T01:14:21.710Z",
+  "lastUpdated": "2026-09-03T01:16:26.096Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -622,7 +622,7 @@
       "min": 0,
       "avg": 12,
       "max": 19,
-      "_count": 128
+      "_count": 129
     }
   ],
   "players": [
@@ -20743,16 +20743,17 @@
     {
       "uuid": "",
       "username": "Bogdan_2015",
-      "lastSeen": "2026-09-02T04:42:21.489Z",
+      "lastSeen": "2026-09-03T01:16:26.096Z",
       "totalPlayHours": 3.4,
-      "playHoursToday": 0,
+      "playHoursToday": 0.05,
       "playHoursLast7Days": 3,
       "playHoursLast30Days": 3,
       "playHoursLast90Days": 3.4,
       "_playDates": {
         "2026-06-14": 0.45,
         "2026-08-31": 1.45,
-        "2026-09-02": 1.5
+        "2026-09-02": 1.5,
+        "2026-09-03": 0.05
       }
     },
     {
@@ -78033,14 +78034,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-09-02T01:14:25.895Z",
-      "playersOnline": 2
-    },
-    {
-      "timestamp": "2026-09-02T01:16:20.622Z",
-      "playersOnline": 2
-    },
-    {
       "timestamp": "2026-09-02T01:18:20.148Z",
       "playersOnline": 2
     },
@@ -80935,6 +80928,10 @@
     {
       "timestamp": "2026-09-03T01:14:21.710Z",
       "playersOnline": 0
+    },
+    {
+      "timestamp": "2026-09-03T01:16:26.096Z",
+      "playersOnline": 1
     }
   ]
 }
