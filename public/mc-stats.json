@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-09-04T01:18:27.860Z",
+  "lastUpdated": "2026-09-04T01:20:31.519Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -629,7 +629,7 @@
       "min": 1,
       "avg": 6,
       "max": 7,
-      "_count": 131
+      "_count": 132
     }
   ],
   "players": [
@@ -40763,12 +40763,12 @@
     {
       "uuid": "",
       "username": "Methranome",
-      "lastSeen": "2026-09-04T01:18:27.860Z",
-      "totalPlayHours": 215.2,
-      "playHoursToday": 1.2,
-      "playHoursLast7Days": 27.5,
+      "lastSeen": "2026-09-04T01:20:31.519Z",
+      "totalPlayHours": 215.3,
+      "playHoursToday": 1.25,
+      "playHoursLast7Days": 27.6,
       "playHoursLast30Days": 81.5,
-      "playHoursLast90Days": 215.2,
+      "playHoursLast90Days": 215.3,
       "_playDates": {
         "2026-07-14": 1.852,
         "2026-07-15": 7.605,
@@ -40813,7 +40813,7 @@
         "2026-09-01": 1.95,
         "2026-09-02": 2.25,
         "2026-09-03": 2.35,
-        "2026-09-04": 1.2
+        "2026-09-04": 1.25
       }
     },
     {
@@ -49493,12 +49493,12 @@
     {
       "uuid": "",
       "username": "cbey_kamar",
-      "lastSeen": "2026-09-04T01:18:27.860Z",
-      "totalPlayHours": 181.1,
-      "playHoursToday": 4.451,
+      "lastSeen": "2026-09-04T01:20:31.519Z",
+      "totalPlayHours": 181.2,
+      "playHoursToday": 4.501,
       "playHoursLast7Days": 34.6,
-      "playHoursLast30Days": 143.4,
-      "playHoursLast90Days": 181.1,
+      "playHoursLast30Days": 143.5,
+      "playHoursLast90Days": 181.2,
       "_playDates": {
         "2026-07-27": 0.85,
         "2026-07-28": 3.65,
@@ -49532,7 +49532,7 @@
         "2026-09-01": 4.7,
         "2026-09-02": 3.85,
         "2026-09-03": 2.45,
-        "2026-09-04": 4.451
+        "2026-09-04": 4.501
       }
     },
     {
@@ -81382,6 +81382,10 @@
     },
     {
       "timestamp": "2026-09-04T01:18:27.860Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-09-04T01:20:31.519Z",
       "playersOnline": 2
     }
   ]
