@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-09-04T01:02:23.108Z",
+  "lastUpdated": "2026-09-04T01:04:29.254Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -629,7 +629,7 @@
       "min": 1,
       "avg": 6,
       "max": 7,
-      "_count": 123
+      "_count": 124
     }
   ],
   "players": [
@@ -49493,12 +49493,12 @@
     {
       "uuid": "",
       "username": "cbey_kamar",
-      "lastSeen": "2026-09-04T01:02:23.108Z",
-      "totalPlayHours": 180.7,
-      "playHoursToday": 4.051,
+      "lastSeen": "2026-09-04T01:04:29.254Z",
+      "totalPlayHours": 180.8,
+      "playHoursToday": 4.101,
       "playHoursLast7Days": 34.2,
-      "playHoursLast30Days": 143,
-      "playHoursLast90Days": 180.7,
+      "playHoursLast30Days": 143.1,
+      "playHoursLast90Days": 180.8,
       "_playDates": {
         "2026-07-27": 0.85,
         "2026-07-28": 3.65,
@@ -49532,7 +49532,7 @@
         "2026-09-01": 4.7,
         "2026-09-02": 3.85,
         "2026-09-03": 2.45,
-        "2026-09-04": 4.051
+        "2026-09-04": 4.101
       }
     },
     {
@@ -78485,10 +78485,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-09-03T01:04:22.027Z",
-      "playersOnline": 0
-    },
-    {
       "timestamp": "2026-09-03T01:06:24.436Z",
       "playersOnline": 1
     },
@@ -81382,6 +81378,10 @@
     },
     {
       "timestamp": "2026-09-04T01:02:23.108Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-09-04T01:04:29.254Z",
       "playersOnline": 1
     }
   ]
