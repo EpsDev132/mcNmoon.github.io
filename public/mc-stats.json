@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-09-05T02:16:22.549Z",
+  "lastUpdated": "2026-09-05T02:18:20.192Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -636,7 +636,7 @@
       "min": 0,
       "avg": 15,
       "max": 18,
-      "_count": 161
+      "_count": 162
     }
   ],
   "players": [
@@ -8775,11 +8775,11 @@
     {
       "uuid": "",
       "username": "kredison77900",
-      "lastSeen": "2026-09-05T02:16:22.549Z",
+      "lastSeen": "2026-09-05T02:18:20.192Z",
       "totalPlayHours": 22.8,
-      "playHoursToday": 2,
+      "playHoursToday": 2.05,
       "playHoursLast7Days": 2,
-      "playHoursLast30Days": 12.5,
+      "playHoursLast30Days": 12.6,
       "playHoursLast90Days": 22.8,
       "_playDates": {
         "2026-06-09": 1.65,
@@ -8790,7 +8790,7 @@
         "2026-08-08": 0.75,
         "2026-08-09": 6.55,
         "2026-08-10": 0.3,
-        "2026-09-05": 2
+        "2026-09-05": 2.05
       }
     },
     {
@@ -78428,15 +78428,15 @@
     {
       "uuid": "",
       "username": "kerum_2008",
-      "lastSeen": "2026-09-05T02:04:21.094Z",
-      "totalPlayHours": 4.6,
-      "playHoursToday": 1,
-      "playHoursLast7Days": 4.6,
-      "playHoursLast30Days": 4.6,
-      "playHoursLast90Days": 4.6,
+      "lastSeen": "2026-09-05T02:18:20.192Z",
+      "totalPlayHours": 4.7,
+      "playHoursToday": 1.05,
+      "playHoursLast7Days": 4.7,
+      "playHoursLast30Days": 4.7,
+      "playHoursLast90Days": 4.7,
       "_playDates": {
         "2026-09-04": 3.6,
-        "2026-09-05": 1
+        "2026-09-05": 1.05
       }
     },
     {
@@ -78662,10 +78662,6 @@
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-09-04T02:16:23.670Z",
-      "playersOnline": 2
-    },
     {
       "timestamp": "2026-09-04T02:18:23.781Z",
       "playersOnline": 2
@@ -81561,6 +81557,10 @@
     {
       "timestamp": "2026-09-05T02:16:22.549Z",
       "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-09-05T02:18:20.192Z",
+      "playersOnline": 2
     }
   ]
 }
