@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-09-05T03:20:30.430Z",
+  "lastUpdated": "2026-09-05T03:22:21.882Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -636,7 +636,7 @@
       "min": 0,
       "avg": 15,
       "max": 18,
-      "_count": 193
+      "_count": 194
     }
   ],
   "players": [
@@ -78429,15 +78429,15 @@
     {
       "uuid": "",
       "username": "kerum_2008",
-      "lastSeen": "2026-09-05T03:20:30.430Z",
-      "totalPlayHours": 6.2,
-      "playHoursToday": 2.6,
-      "playHoursLast7Days": 6.2,
-      "playHoursLast30Days": 6.2,
-      "playHoursLast90Days": 6.2,
+      "lastSeen": "2026-09-05T03:22:21.882Z",
+      "totalPlayHours": 6.3,
+      "playHoursToday": 2.65,
+      "playHoursLast7Days": 6.3,
+      "playHoursLast30Days": 6.3,
+      "playHoursLast90Days": 6.3,
       "_playDates": {
         "2026-09-04": 3.6,
-        "2026-09-05": 2.6
+        "2026-09-05": 2.65
       }
     },
     {
@@ -78676,10 +78676,6 @@
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-09-04T03:20:31.085Z",
-      "playersOnline": 2
-    },
     {
       "timestamp": "2026-09-04T03:22:22.611Z",
       "playersOnline": 2
@@ -81574,6 +81570,10 @@
     },
     {
       "timestamp": "2026-09-05T03:20:30.430Z",
+      "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-09-05T03:22:21.882Z",
       "playersOnline": 1
     }
   ]
