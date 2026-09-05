@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-09-05T03:00:53.746Z",
+  "lastUpdated": "2026-09-05T03:02:22.332Z",
   "history": [
     {
       "date": "2026-06-07",
@@ -636,7 +636,7 @@
       "min": 0,
       "avg": 15,
       "max": 18,
-      "_count": 183
+      "_count": 184
     }
   ],
   "players": [
@@ -70693,9 +70693,9 @@
     {
       "uuid": "",
       "username": "sabun4444",
-      "lastSeen": "2026-09-05T03:00:53.746Z",
+      "lastSeen": "2026-09-05T03:02:22.332Z",
       "totalPlayHours": 53.9,
-      "playHoursToday": 0.4,
+      "playHoursToday": 0.45,
       "playHoursLast7Days": 10.8,
       "playHoursLast30Days": 53.9,
       "playHoursLast90Days": 53.9,
@@ -70708,7 +70708,7 @@
         "2026-08-29": 0.7,
         "2026-09-03": 3.6,
         "2026-09-04": 6.8,
-        "2026-09-05": 0.4
+        "2026-09-05": 0.45
       }
     },
     {
@@ -78429,15 +78429,15 @@
     {
       "uuid": "",
       "username": "kerum_2008",
-      "lastSeen": "2026-09-05T03:00:53.746Z",
-      "totalPlayHours": 5.7,
-      "playHoursToday": 2.1,
-      "playHoursLast7Days": 5.7,
-      "playHoursLast30Days": 5.7,
-      "playHoursLast90Days": 5.7,
+      "lastSeen": "2026-09-05T03:02:22.332Z",
+      "totalPlayHours": 5.8,
+      "playHoursToday": 2.15,
+      "playHoursLast7Days": 5.8,
+      "playHoursLast30Days": 5.8,
+      "playHoursLast90Days": 5.8,
       "_playDates": {
         "2026-09-04": 3.6,
-        "2026-09-05": 2.1
+        "2026-09-05": 2.15
       }
     },
     {
@@ -78676,14 +78676,6 @@
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-09-04T03:00:56.502Z",
-      "playersOnline": 2
-    },
-    {
-      "timestamp": "2026-09-04T03:02:20.870Z",
-      "playersOnline": 2
-    },
     {
       "timestamp": "2026-09-04T03:04:24.930Z",
       "playersOnline": 2
@@ -81574,6 +81566,10 @@
     },
     {
       "timestamp": "2026-09-05T03:00:53.746Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-09-05T03:02:22.332Z",
       "playersOnline": 2
     }
   ]
