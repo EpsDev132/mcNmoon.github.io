@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-09-25T00:14:21.086Z",
+  "lastUpdated": "2026-09-25T05:11:01.406Z",
   "history": [
     {
       "date": "2026-06-18",
@@ -700,7 +700,7 @@
       "min": 0,
       "avg": 1,
       "max": 1,
-      "_count": 2
+      "_count": 3
     }
   ],
   "players": [
@@ -76315,16 +76315,16 @@
     {
       "uuid": "00000000-0000-0000-0000-000000000009",
       "username": "https://t.me/nserverok",
-      "lastSeen": "2026-09-25T00:14:21.086Z",
-      "totalPlayHours": 6,
-      "playHoursToday": 3,
-      "playHoursLast7Days": 6,
-      "playHoursLast30Days": 6,
-      "playHoursLast90Days": 6,
+      "lastSeen": "2026-09-25T05:11:01.406Z",
+      "totalPlayHours": 7.5,
+      "playHoursToday": 4.5,
+      "playHoursLast7Days": 7.5,
+      "playHoursLast30Days": 7.5,
+      "playHoursLast90Days": 7.5,
       "_playDates": {
         "2026-09-21": 1.5,
         "2026-09-24": 1.5,
-        "2026-09-25": 3
+        "2026-09-25": 4.5
       }
     },
     {
@@ -76460,10 +76460,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-09-24T02:59:24.556Z",
-      "playersOnline": 6
-    },
-    {
       "timestamp": "2026-09-24T08:20:51.342Z",
       "playersOnline": 12
     },
@@ -76482,6 +76478,10 @@
     {
       "timestamp": "2026-09-25T00:14:21.086Z",
       "playersOnline": 1
+    },
+    {
+      "timestamp": "2026-09-25T05:11:01.406Z",
+      "playersOnline": 0
     }
   ]
 }
