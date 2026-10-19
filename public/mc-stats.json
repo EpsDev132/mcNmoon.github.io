@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-10-19T00:45:42.232Z",
+  "lastUpdated": "2026-10-19T05:40:32.512Z",
   "history": [
     {
       "date": "2026-07-12",
@@ -700,7 +700,7 @@
       "min": 2,
       "avg": 3,
       "max": 3,
-      "_count": 2
+      "_count": 3
     }
   ],
   "players": [
@@ -5036,12 +5036,12 @@
     {
       "uuid": "",
       "username": "YtkaS",
-      "lastSeen": "2026-10-18T18:14:26.902Z",
-      "totalPlayHours": 129.2,
-      "playHoursToday": 0,
-      "playHoursLast7Days": 6,
-      "playHoursLast30Days": 15,
-      "playHoursLast90Days": 129.2,
+      "lastSeen": "2026-10-19T05:40:32.512Z",
+      "totalPlayHours": 130.7,
+      "playHoursToday": 1.5,
+      "playHoursLast7Days": 7.5,
+      "playHoursLast30Days": 16.5,
+      "playHoursLast90Days": 130.7,
       "_playDates": {
         "2026-07-22": 3.25,
         "2026-07-23": 2.55,
@@ -5089,7 +5089,8 @@
         "2026-09-24": 1.5,
         "2026-09-27": 1.5,
         "2026-10-17": 3,
-        "2026-10-18": 3
+        "2026-10-18": 3,
+        "2026-10-19": 1.5
       }
     },
     {
@@ -47044,12 +47045,12 @@
     {
       "uuid": "",
       "username": "Murder_Drone_V",
-      "lastSeen": "2026-10-18T15:19:44.689Z",
-      "totalPlayHours": 180,
-      "playHoursToday": 0,
-      "playHoursLast7Days": 6,
-      "playHoursLast30Days": 25.5,
-      "playHoursLast90Days": 180,
+      "lastSeen": "2026-10-19T05:40:32.512Z",
+      "totalPlayHours": 181.5,
+      "playHoursToday": 1.5,
+      "playHoursLast7Days": 7.5,
+      "playHoursLast30Days": 27,
+      "playHoursLast90Days": 181.5,
       "_playDates": {
         "2026-08-03": 3.92,
         "2026-08-04": 14.2,
@@ -47093,7 +47094,8 @@
         "2026-10-11": 3,
         "2026-10-14": 1.5,
         "2026-10-15": 1.5,
-        "2026-10-18": 3
+        "2026-10-18": 3,
+        "2026-10-19": 1.5
       }
     },
     {
@@ -73144,10 +73146,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-10-18T01:21:00.665Z",
-      "playersOnline": 2
-    },
-    {
       "timestamp": "2026-10-18T06:18:45.577Z",
       "playersOnline": 13
     },
@@ -73173,6 +73171,10 @@
     },
     {
       "timestamp": "2026-10-19T00:45:42.232Z",
+      "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-10-19T05:40:32.512Z",
       "playersOnline": 2
     }
   ]
