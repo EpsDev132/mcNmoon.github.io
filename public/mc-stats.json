@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-10-20T01:31:51.943Z",
+  "lastUpdated": "2026-10-20T07:06:01.344Z",
   "history": [
     {
       "date": "2026-07-13",
@@ -699,8 +699,8 @@
       "date": "2026-10-20",
       "min": 2,
       "avg": 2,
-      "max": 2,
-      "_count": 2
+      "max": 3,
+      "_count": 3
     }
   ],
   "players": [
@@ -1771,12 +1771,12 @@
     {
       "uuid": "",
       "username": "AVery854",
-      "lastSeen": "2026-10-18T15:19:44.689Z",
-      "totalPlayHours": 433.9,
-      "playHoursToday": 0,
-      "playHoursLast7Days": 6,
-      "playHoursLast30Days": 34.5,
-      "playHoursLast90Days": 433.9,
+      "lastSeen": "2026-10-20T07:06:01.344Z",
+      "totalPlayHours": 435.4,
+      "playHoursToday": 1.5,
+      "playHoursLast7Days": 7.5,
+      "playHoursLast30Days": 36,
+      "playHoursLast90Days": 435.4,
       "_playDates": {
         "2026-07-24": 7.301,
         "2026-07-25": 2.7,
@@ -1849,7 +1849,8 @@
         "2026-10-14": 1.5,
         "2026-10-15": 1.5,
         "2026-10-17": 1.5,
-        "2026-10-18": 1.5
+        "2026-10-18": 1.5,
+        "2026-10-20": 1.5
       }
     },
     {
@@ -46797,12 +46798,12 @@
     {
       "uuid": "",
       "username": "Murder_Drone_V",
-      "lastSeen": "2026-10-19T05:40:32.512Z",
-      "totalPlayHours": 181.5,
-      "playHoursToday": 0,
-      "playHoursLast7Days": 7.5,
-      "playHoursLast30Days": 27,
-      "playHoursLast90Days": 181.5,
+      "lastSeen": "2026-10-20T07:06:01.344Z",
+      "totalPlayHours": 183,
+      "playHoursToday": 1.5,
+      "playHoursLast7Days": 9,
+      "playHoursLast30Days": 28.5,
+      "playHoursLast90Days": 183,
       "_playDates": {
         "2026-08-03": 3.92,
         "2026-08-04": 14.2,
@@ -46847,7 +46848,8 @@
         "2026-10-14": 1.5,
         "2026-10-15": 1.5,
         "2026-10-18": 3,
-        "2026-10-19": 1.5
+        "2026-10-19": 1.5,
+        "2026-10-20": 1.5
       }
     },
     {
@@ -71985,18 +71987,19 @@
     {
       "uuid": "",
       "username": "bison_The",
-      "lastSeen": "2026-10-11T13:15:02.926Z",
-      "totalPlayHours": 7.5,
-      "playHoursToday": 0,
-      "playHoursLast7Days": 0,
-      "playHoursLast30Days": 7.5,
-      "playHoursLast90Days": 7.5,
+      "lastSeen": "2026-10-20T07:06:01.344Z",
+      "totalPlayHours": 9,
+      "playHoursToday": 1.5,
+      "playHoursLast7Days": 1.5,
+      "playHoursLast30Days": 9,
+      "playHoursLast90Days": 9,
       "_playDates": {
         "2026-10-04": 1.5,
         "2026-10-05": 1.5,
         "2026-10-07": 1.5,
         "2026-10-10": 1.5,
-        "2026-10-11": 1.5
+        "2026-10-11": 1.5,
+        "2026-10-20": 1.5
       }
     },
     {
@@ -72923,10 +72926,6 @@
   ],
   "todayIntervals": [
     {
-      "timestamp": "2026-10-19T05:40:32.512Z",
-      "playersOnline": 2
-    },
-    {
       "timestamp": "2026-10-19T12:00:47.893Z",
       "playersOnline": 19
     },
@@ -72941,6 +72940,10 @@
     {
       "timestamp": "2026-10-20T01:31:51.943Z",
       "playersOnline": 2
+    },
+    {
+      "timestamp": "2026-10-20T07:06:01.344Z",
+      "playersOnline": 3
     }
   ]
 }
