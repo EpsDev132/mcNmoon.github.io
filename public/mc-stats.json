@@ -1,6 +1,6 @@
 {
   "serverIp": "mc.n-server.org",
-  "lastUpdated": "2026-10-24T21:43:26.035Z",
+  "lastUpdated": "2026-10-24T23:58:15.888Z",
   "history": [
     {
       "date": "2026-07-18",
@@ -697,10 +697,10 @@
     },
     {
       "date": "2026-10-25",
-      "min": 5,
-      "avg": 5,
+      "min": 3,
+      "avg": 4,
       "max": 5,
-      "_count": 1
+      "_count": 2
     }
   ],
   "players": [
@@ -2043,12 +2043,12 @@
     {
       "uuid": "",
       "username": "Ritoto121",
-      "lastSeen": "2026-10-24T21:43:26.035Z",
-      "totalPlayHours": 318.1,
-      "playHoursToday": 1.5,
-      "playHoursLast7Days": 9,
-      "playHoursLast30Days": 37.5,
-      "playHoursLast90Days": 318.1,
+      "lastSeen": "2026-10-24T23:58:15.888Z",
+      "totalPlayHours": 319.6,
+      "playHoursToday": 3,
+      "playHoursLast7Days": 10.5,
+      "playHoursLast30Days": 39,
+      "playHoursLast90Days": 319.6,
       "_playDates": {
         "2026-07-29": 5.65,
         "2026-07-30": 4.75,
@@ -2121,7 +2121,7 @@
         "2026-10-06": 3,
         "2026-10-23": 1.5,
         "2026-10-24": 6,
-        "2026-10-25": 1.5
+        "2026-10-25": 3
       }
     },
     {
@@ -69273,12 +69273,12 @@
     {
       "uuid": "",
       "username": "ChaiOkkk",
-      "lastSeen": "2026-10-24T21:43:26.035Z",
-      "totalPlayHours": 52.5,
-      "playHoursToday": 1.5,
-      "playHoursLast7Days": 16.5,
-      "playHoursLast30Days": 43.5,
-      "playHoursLast90Days": 52.5,
+      "lastSeen": "2026-10-24T23:58:15.888Z",
+      "totalPlayHours": 54,
+      "playHoursToday": 3,
+      "playHoursLast7Days": 18,
+      "playHoursLast30Days": 45,
+      "playHoursLast90Days": 54,
       "_playDates": {
         "2026-09-09": 1.5,
         "2026-09-16": 3,
@@ -69303,7 +69303,7 @@
         "2026-10-22": 1.5,
         "2026-10-23": 1.5,
         "2026-10-24": 3,
-        "2026-10-25": 1.5
+        "2026-10-25": 3
       }
     },
     {
@@ -72378,13 +72378,22 @@
       "_playDates": {
         "2026-10-24": 1.5
       }
+    },
+    {
+      "uuid": "",
+      "username": "sevaatom",
+      "lastSeen": "2026-10-24T23:58:15.888Z",
+      "totalPlayHours": 1.5,
+      "playHoursToday": 1.5,
+      "playHoursLast7Days": 1.5,
+      "playHoursLast30Days": 1.5,
+      "playHoursLast90Days": 1.5,
+      "_playDates": {
+        "2026-10-25": 1.5
+      }
     }
   ],
   "todayIntervals": [
-    {
-      "timestamp": "2026-10-23T21:49:39.264Z",
-      "playersOnline": 5
-    },
     {
       "timestamp": "2026-10-24T00:13:55.138Z",
       "playersOnline": 2
@@ -72412,6 +72421,10 @@
     {
       "timestamp": "2026-10-24T21:43:26.035Z",
       "playersOnline": 5
+    },
+    {
+      "timestamp": "2026-10-24T23:58:15.888Z",
+      "playersOnline": 3
     }
   ]
 }
